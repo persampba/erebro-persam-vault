@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.1.0
-atualizado: 2026-04-14
+versao: 1.2.0
+atualizado: 2026-04-15
 tags:
   - skill
   - pesquisa
@@ -31,6 +31,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"OpenAI vs Anthropic [ANO]"`
 - `"Claude [versão] lançamento recursos"`
 - `"Anthropic novos modelos [MÊS] [ANO]"`
+- `"Claude Code routines automação [ANO]"`
+- `"Claude Opus [versão] review benchmark"`
+- `"Anthropic Project Glasswing segurança"`
+- `"AI agentes autônomos infraestrutura [ANO]"`
+- `"Claude Cowork enterprise [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -69,6 +74,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"ferramentas IA produtividade criador [ANO]"`
 - `"podcast IA ferramentas gratuitas [ANO]"`
 - `"automatizar canal YouTube com IA"`
+- `"YouTube AI Slop combate algoritmo [ANO]"`
+- `"Veo3 Google DeepMind vídeo som prompt"`
+- `"YouTube Shorts avatar IA criador"`
+- `"YouTube rotulagem conteúdo sintetico [ANO]"`
+- `"YouTube CEO carta criadores [ANO]"`
 
 ### Tendências Gerais de Tecnologia
 
@@ -103,6 +113,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 6. **"Micro SaaS: negócio de R$ 10k/mês para 1 pessoa"** — sonho concreto e alcançável
 7. **"IA física"** — robôs e drones tomando decisões autônomas no mundo real
 8. **"Marketing invisível"** — conteúdo que não parece publicidade tem performance superior
+9. **"Claude Opus 4.7 lançando essa semana"** — lançamento de modelo flagship sempre gera busca orgânica alta
+10. **"YouTube declarou guerra ao AI Slop"** — urgência real + impacta diretamente criadores de conteúdo brasileiros
+11. **"Claude Code Routines: seu agente trabalhando sem você"** — automação de agente nativa, conceito novo e prático
+12. **"Veo3: vídeo com som de um prompt"** — demo visual de tecnologia nova = alto potencial de Shorts virais
+13. **"YouTube Shorts com seu avatar de IA"** — novo formato da plataforma, pouquíssimo conteúdo PT-BR
+14. **"Project Glasswing: IA restrita para poucos"** — polarização e debate sobre democratização vs. controle de IA
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -187,6 +203,8 @@ Evitar:
 | Micro SaaS + agentes | "67% das startups serão micro SaaS — como entrar agora" | Alto |
 | Vídeos virais 2026 | "Marketing invisível domina: o que realmente viraliza" | Médio-alto |
 | Ferramentas de IA | "87% dos criadores usam IA — os 13% estão perdendo dinheiro" | Médio |
+| Claude Opus 4.7 | "Claude Opus 4.7: o modelo que vai mudar sua semana (e o que você precisa saber hoje)" | Alto |
+| YouTube vs. AI Slop | "O YouTube declarou guerra ao conteúdo de IA — e pode estar mirando no seu canal" | Alto |
 
 ---
 
@@ -195,3 +213,4 @@ Evitar:
 | Data | Versão | Mudança |
 |------|--------|---------|
 | 2026-04-14 | 1.1.0 | Criação inicial da skill com termos, ângulos, critérios e exemplos baseados na pesquisa de estreia |
+| 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes identificados; 2 novos exemplos de roteiros bem-sucedidos |
