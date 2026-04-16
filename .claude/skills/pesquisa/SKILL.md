@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.2.0
-atualizado: 2026-04-15
+versao: 1.3.0
+atualizado: 2026-04-16
 tags:
   - skill
   - pesquisa
@@ -23,7 +23,7 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"ChatGPT atualização [MES] [ANO]"`
 - `"Gemini Google novidades [ANO]"`
 - `"modelos de linguagem tendências [ANO]"`
-- `"agentes de IA autônomos 2026"`
+- `"agentes de IA autônomos [ANO]"`
 - `"Claude Managed Agents beta"`
 - `"LLM benchmark novo [ANO]"`
 - `"IA generativa casos de uso empresa [ANO]"`
@@ -35,7 +35,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Opus [versão] review benchmark"`
 - `"Anthropic Project Glasswing segurança"`
 - `"AI agentes autônomos infraestrutura [ANO]"`
-- `"Claude Cowork enterprise [ANO]"`
+- `"modelos de linguagem open source [ANO]"`
+- `"OpenAI novidades esta semana [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -49,6 +50,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"branded content marketing invisível [ANO]"`
 - `"taxa de retenção YouTube algoritmo [ANO]"`
 - `"thumbnails que mais convertem YouTube [ANO]"`
+- `"shorts versus vídeos longos YouTube [ANO]"`
+- `"monetização YouTube criadores [ANO]"`
 
 ### Micro SaaS e Empreendedorismo Digital
 
@@ -62,6 +65,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"como lançar SaaS 30 dias [ANO]"`
 - `"receita recorrente digital empreendedor brasileiro"`
 - `"indie hacker Brasil histórias [ANO]"`
+- `"build in public [ANO] exemplo"`
+- `"bootstrapped SaaS [ANO] receita"`
 
 ### Ferramentas para Criadores
 
@@ -88,6 +93,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"IA governança ética regulação [ANO]"`
 - `"tecnologia empregos impacto [ANO]"`
 - `"startups IA Brasil [ANO]"`
+- `"programação vibe coding tendências [ANO]"`
+- `"ferramentas dev IA [ANO]"`
+- `"automação no trabalho [ANO]"`
 
 ---
 
@@ -102,23 +110,25 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 5. **"A oportunidade que vai fechar em [prazo]"** — urgência baseada em janela de mercado
 6. **"Por que [tendência óbvia] está errada"** — contraposição a consensus
 7. **Dado numérico impactante** — porcentagem, crescimento, projeção de mercado no gancho
+8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
+9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
+10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
 
 ### Ângulos quentes em abril 2026
 
-1. **"IA que hackeia"** — Claude Mythos e IA aplicada à segurança ofensiva (alto potencial de curiosidade)
+1. **"IA que hackeia"** — IA aplicada à segurança ofensiva (alto potencial de curiosidade)
 2. **"Triplicar receita com IA"** — Anthropic projetada para triplicar receita em 2026 (ângulo de negócio)
 3. **"5% das PMEs brasileiras usam SaaS"** — dado forte para abrir vídeo sobre oportunidade de mercado
-4. **"87% dos criadores usam IA"** — normalização da IA no fluxo de trabalho criativo
+4. **"75% dos profissionais de vídeo já usam IA"** — normalização da IA no fluxo de trabalho criativo
 5. **"30 segundos que decidem tudo"** — algoritmos do YouTube e Instagram medindo taxa de retenção inicial
 6. **"Micro SaaS: negócio de R$ 10k/mês para 1 pessoa"** — sonho concreto e alcançável
 7. **"IA física"** — robôs e drones tomando decisões autônomas no mundo real
 8. **"Marketing invisível"** — conteúdo que não parece publicidade tem performance superior
-9. **"Claude Opus 4.7 lançando essa semana"** — lançamento de modelo flagship sempre gera busca orgânica alta
-10. **"YouTube declarou guerra ao AI Slop"** — urgência real + impacta diretamente criadores de conteúdo brasileiros
-11. **"Claude Code Routines: seu agente trabalhando sem você"** — automação de agente nativa, conceito novo e prático
-12. **"Veo3: vídeo com som de um prompt"** — demo visual de tecnologia nova = alto potencial de Shorts virais
-13. **"YouTube Shorts com seu avatar de IA"** — novo formato da plataforma, pouquíssimo conteúdo PT-BR
-14. **"Project Glasswing: IA restrita para poucos"** — polarização e debate sobre democratização vs. controle de IA
+9. **"YouTube declarou guerra ao AI Slop"** — urgência real + impacta diretamente criadores brasileiros
+10. **"Claude Code Routines: seu agente trabalhando sem você"** — automação de agente nativa, conceito novo e prático
+11. **"Veo3: vídeo com som de um prompt"** — demo visual de tecnologia nova = alto potencial de Shorts virais
+12. **"YouTube Shorts com seu avatar de IA"** — novo formato da plataforma, pouquíssimo conteúdo PT-BR
+13. **"1 milhão de canais usando IA diariamente no YouTube"** — dado de adoção massiva para 2026
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -134,6 +144,37 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - Physical AI e robótica para leigos
 - Governança e regulação de IA no Brasil
 - Comparativos reais de ferramentas (não patrocinados)
+- Claude Code Routines e automação agêntica
+
+---
+
+## Fontes Prioritárias a Monitorar
+
+### Notícias de IA e Big Tech
+- anthropic.com/news
+- openai.com/news
+- blog.google/technology/ai
+- macrumors.com (cobrem Claude Code muito bem)
+- venturebeat.com (análises empresariais)
+- siliconangle.com
+- thenewstack.io
+
+### Brasil Tech
+- b9.com.br
+- cnnbrasil.com.br/tecnologia
+- itforum.com.br
+- alura.com.br/empresas/artigos
+
+### Criadores e SaaS
+- microsaas.substack.com
+- indiehackers.com
+- producthunt.com (lançamentos diários)
+- canalvideomaker.com.br
+
+### YouTube e Marketing Digital
+- conectamktdigital.com
+- wisermkt.com
+- consumidormoderno.com.br
 
 ---
 
@@ -143,21 +184,20 @@ Arquivo: `Referências/pesquisa-YYYY-MM-DD.md`
 
 ```markdown
 ---
-titulo: Pesquisa Diária — [DATA FORMATADA]
+título: Pesquisa Diária — [DATA FORMATADA]
 data: YYYY-MM-DD
-fonte: WebSearch (temas cobertos)
-tags:
-  - pesquisa
-  - [tags dos temas]
-status: referencia
+fonte: múltiplas (web, YouTube, ...)
+tags: [pesquisa, diario, ...]
+projeto-relacionado: ""
 ---
 
 ## Destaques do Dia
-## Marketing Digital e YouTube
-## IA e Claude
-## Micro SaaS
-## Criadores de Conteúdo e Ferramentas de IA
-## Fontes Consultadas
+## Marketing Digital e Vídeos Virais
+## IA e Claude — Novidades da Semana
+## SaaS e Empreendedorismo Digital
+## Criadores de Conteúdo e IA
+## Fontes Consultadas (tabela)
+## Temas mais promissores para vídeo (com wikilinks para roteiros)
 ```
 
 ---
@@ -174,6 +214,8 @@ Priorizar temas que satisfaçam pelo menos 3 dos critérios abaixo:
 - [ ] Gera polarização ou debate (sem ser clickbait vazio)
 - [ ] Tem potencial de evergreen (conteúdo útil além da data de publicação)
 - [ ] Aplicação prática — o espectador consegue fazer algo com a informação
+- [ ] Atualidade: notícia com menos de 72h de mercado
+- [ ] Potencial de série: pode gerar 3+ episódios
 
 Evitar:
 
@@ -183,13 +225,25 @@ Evitar:
 
 ---
 
+## Checklist de Qualidade da Pesquisa
+
+- [ ] Pelo menos 5 buscas realizadas em temas distintos
+- [ ] Cada seção tem ao menos 1 ângulo de vídeo concreto
+- [ ] Fontes listadas com URLs verificáveis
+- [ ] 2 temas selecionados e roteiros criados
+- [ ] Nota vinculada aos roteiros via wikilinks
+- [ ] Roteiros vinculados à nota de pesquisa via frontmatter
+
+---
+
 ## Workflow de Produção Diária
 
 1. **Pesquisa** (5 buscas em paralelo, uma por categoria)
 2. **Síntese** → `Referências/pesquisa-[DATA].md`
 3. **Seleção** → 2 temas que satisfaçam ≥3 critérios acima
 4. **Roteiro** → `Roteiros/roteiro-[DATA]-[tema-kebab].md`
-5. **Commit e push** → `git add . && git commit -m 'pesquisa diária [DATA]' && git push origin main`
+5. **Atualizar SKILL.md** → adicionar exemplos e ângulos descobertos hoje
+6. **Commit e push** → `git add . && git commit -m 'pesquisa diária [DATA]' && git push origin main`
 
 ---
 
@@ -199,12 +253,13 @@ Evitar:
 |------|-----------------|-----------|
 | Claude Mythos | "A IA que a Anthropic criou para hackear — e o que isso muda pra você" | Alto |
 | Micro SaaS + IA sem programar | "Como criar um Micro SaaS com IA sem saber programar — o guia honesto" | Alto |
-| Claude for Word | "Anthropic está montando o sistema operacional da IA para o trabalho" | Alto |
 | Micro SaaS + agentes | "67% das startups serão micro SaaS — como entrar agora" | Alto |
 | Vídeos virais 2026 | "Marketing invisível domina: o que realmente viraliza" | Médio-alto |
-| Ferramentas de IA | "87% dos criadores usam IA — os 13% estão perdendo dinheiro" | Médio |
+| Ferramentas de IA | "75% dos criadores usam IA — e os 25% restantes estão perdendo dinheiro" | Médio |
 | Claude Opus 4.7 | "Claude Opus 4.7: o modelo que vai mudar sua semana (e o que você precisa saber hoje)" | Alto |
 | YouTube vs. AI Slop | "O YouTube declarou guerra ao conteúdo de IA — e pode estar mirando no seu canal" | Alto |
+| Claude Code Routines | "Claude Code Routines: O Fim das Tarefas Repetitivas para Devs" | Alto |
+| Micro SaaS + Agentes build | "Eu Construí um Micro SaaS com Agentes de IA em 1 Semana" | Alto |
 
 ---
 
@@ -213,4 +268,5 @@ Evitar:
 | Data | Versão | Mudança |
 |------|--------|---------|
 | 2026-04-14 | 1.1.0 | Criação inicial da skill com termos, ângulos, critérios e exemplos baseados na pesquisa de estreia |
-| 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes identificados; 2 novos exemplos de roteiros bem-sucedidos |
+| 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
+| 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
