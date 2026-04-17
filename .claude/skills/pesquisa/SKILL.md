@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.3.0
-atualizado: 2026-04-16
+versao: 1.4.0
+atualizado: 2026-04-17
 tags:
   - skill
   - pesquisa
@@ -129,6 +129,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 11. **"Veo3: vídeo com som de um prompt"** — demo visual de tecnologia nova = alto potencial de Shorts virais
 12. **"YouTube Shorts com seu avatar de IA"** — novo formato da plataforma, pouquíssimo conteúdo PT-BR
 13. **"1 milhão de canais usando IA diariamente no YouTube"** — dado de adoção massiva para 2026
+14. **"Claude Opus 4.7 em 60 dias"** — ritmo de lançamentos Anthropic acelerou — cada novo modelo é pauta
+15. **"3x de capacidade visual"** — Opus 4.7 processa imagens 3x maiores — ângulo técnico com impacto prático
+16. **"87% dos criadores já usam IA"** — polarizar com os 13% que não usam, ou focar nos que usam mal
+17. **"67% das startups serão micro SaaS"** — dado de 2026 que contextualiza uma virada de era no empreendedorismo
+18. **"Modelo de IA que só o governo pode usar"** — Claude Mythos/Project Glasswing gera curiosidade + debate
+19. **"Claude Managed Agents beta público"** — agentes com sandbox, SSE — nicho de devs, alta conversão
+20. **"CLI `ant` da Anthropic"** — nova ferramenta de terminal para a Claude API — conteúdo dev nichado
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -260,6 +267,8 @@ Evitar:
 | YouTube vs. AI Slop | "O YouTube declarou guerra ao conteúdo de IA — e pode estar mirando no seu canal" | Alto |
 | Claude Code Routines | "Claude Code Routines: O Fim das Tarefas Repetitivas para Devs" | Alto |
 | Micro SaaS + Agentes build | "Eu Construí um Micro SaaS com Agentes de IA em 1 Semana" | Alto |
+| Claude Opus 4.7 | "Claude Opus 4.7: O Que Mudou em 60 Dias (e Por Que Você Deveria Se Importar)" | Alto |
+| Micro SaaS 67% | "67% das Startups de 2026 Serão Micro SaaS — Você Está do Lado Certo?" | Alto |
 
 ---
 
@@ -270,3 +279,4 @@ Evitar:
 | 2026-04-14 | 1.1.0 | Criação inicial da skill com termos, ângulos, critérios e exemplos baseados na pesquisa de estreia |
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
+| 2026-04-17 | 1.4.0 | 7 novos ângulos quentes (Opus 4.7, Mythos, 87% criadores, 67% micro SaaS, CLI ant, Managed Agents, raciocínio visual 3x); 2 novos exemplos de roteiros usados hoje; termos de busca para Claude Opus 4.7 review e CLI ant |
