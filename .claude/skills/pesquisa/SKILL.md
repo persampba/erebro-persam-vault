@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.4.0
-atualizado: 2026-04-17
+versao: 1.5.0
+atualizado: 2026-04-19
 tags:
   - skill
   - pesquisa
@@ -33,6 +33,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic novos modelos [MÊS] [ANO]"`
 - `"Claude Code routines automação [ANO]"`
 - `"Claude Opus [versão] review benchmark"`
+- `"Claude Design Anthropic protótipo [ANO]"`
+- `"Claude Design vs Figma [ANO]"`
+- `"Anthropic ecossistema Design Code produção [ANO]"`
+- `"Anthropic ARR receita crescimento [ANO]"`
 - `"Anthropic Project Glasswing segurança"`
 - `"AI agentes autônomos infraestrutura [ANO]"`
 - `"modelos de linguagem open source [ANO]"`
@@ -136,6 +140,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 18. **"Modelo de IA que só o governo pode usar"** — Claude Mythos/Project Glasswing gera curiosidade + debate
 19. **"Claude Managed Agents beta público"** — agentes com sandbox, SSE — nicho de devs, alta conversão
 20. **"CLI `ant` da Anthropic"** — nova ferramenta de terminal para a Claude API — conteúdo dev nichado
+21. **"Claude Design matou o Figma?"** — lançamento 17/04, ações da Figma caíram no mesmo dia — notícia quente + debate
+22. **"Anthropic $30 bilhões em ARR"** — saiu de $9bi (dez/25) para $30bi (abr/26) — crescimento de 3× é narrativa poderosa
+23. **"Loop fechado: Design → Code → Produção no Claude"** — ecossistema Anthropic completo, ângulo estratégico de ecossistema
+24. **"87% dos criadores usam IA — e os 13% estão perdendo dinheiro"** — polarização com dado verificável de abril 2026
+25. **"As 3 bolhas do Micro SaaS no Brasil"** — análise do mercado local, muito pouco conteúdo PT-BR sobre nicho brasileiro
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -269,6 +278,8 @@ Evitar:
 | Micro SaaS + Agentes build | "Eu Construí um Micro SaaS com Agentes de IA em 1 Semana" | Alto |
 | Claude Opus 4.7 | "Claude Opus 4.7: O Que Mudou em 60 Dias (e Por Que Você Deveria Se Importar)" | Alto |
 | Micro SaaS 67% | "67% das Startups de 2026 Serão Micro SaaS — Você Está do Lado Certo?" | Alto |
+| Claude Design vs Figma | "Claude Design chegou e a Figma perdeu bilhões: o que isso muda para você" | Alto |
+| Micro SaaS + Agentes Brasil | "67% das startups de 2026 são Micro SaaS — e você pode entrar agora com agentes de IA" | Alto |
 
 ---
 
@@ -280,3 +291,4 @@ Evitar:
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
 | 2026-04-17 | 1.4.0 | 7 novos ângulos quentes (Opus 4.7, Mythos, 87% criadores, 67% micro SaaS, CLI ant, Managed Agents, raciocínio visual 3x); 2 novos exemplos de roteiros usados hoje; termos de busca para Claude Opus 4.7 review e CLI ant |
+| 2026-04-19 | 1.5.0 | 5 novos ângulos quentes (Claude Design vs Figma, Anthropic $30bi ARR, loop fechado Design→Code, 87% criadores, 3 bolhas Micro SaaS BR); 4 novos termos de busca (Claude Design, ecossistema Anthropic, ARR); 2 novos exemplos de roteiros (Claude Design + Micro SaaS Agentes Brasil) |
