@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.5.0
-atualizado: 2026-04-19
+versao: 1.6.0
+atualizado: 2026-04-20
 tags:
   - skill
   - pesquisa
@@ -37,6 +37,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Design vs Figma [ANO]"`
 - `"Anthropic ecossistema Design Code produção [ANO]"`
 - `"Anthropic ARR receita crescimento [ANO]"`
+- `"Claude Cowork disponibilidade geral [ANO]"`
+- `"Claude Cowork thread persistente agente [ANO]"`
+- `"Claude Cowork vs Notion vs Jira [ANO]"`
+- `"Anthropic sistema operacional profissional [ANO]"`
 - `"Anthropic Project Glasswing segurança"`
 - `"AI agentes autônomos infraestrutura [ANO]"`
 - `"modelos de linguagem open source [ANO]"`
@@ -60,6 +64,7 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 ### Micro SaaS e Empreendedorismo Digital
 
 - `"micro SaaS crescimento [ANO] Brasil"`
+- `"micro SaaS mercado bilhões CAGR [ANO]"`
 - `"micro SaaS ideias lucrativas [ANO]"`
 - `"SaaS com IA [ANO]"`
 - `"micro SaaS agentes IA [ANO]"`
@@ -145,6 +150,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 23. **"Loop fechado: Design → Code → Produção no Claude"** — ecossistema Anthropic completo, ângulo estratégico de ecossistema
 24. **"87% dos criadores usam IA — e os 13% estão perdendo dinheiro"** — polarização com dado verificável de abril 2026
 25. **"As 3 bolhas do Micro SaaS no Brasil"** — análise do mercado local, muito pouco conteúdo PT-BR sobre nicho brasileiro
+26. **"Claude Cowork: a IA que trabalha enquanto você dorme"** — GA para todos, thread persistente é conceito novo, mudança de paradigma de chat para agente
+27. **"Anthropic criou um sistema operacional para trabalho"** — Design + Code + Cowork + Routines juntos = narrativa de ecossistema fechado poderosa
+28. **"Micro SaaS vai de $15bi a $60bi em 6 anos"** — CAGR de 30% é dado impactante pouco coberto PT-BR
+29. **"IA nativa vs IA como feature"** — diferenciação estratégica que decide quais SaaS sobrevivem em 2026
+30. **"Contas pequenas estão ganhando de canais grandes no YouTube"** — algoritmo mudou para interesses contínuos, oportunidade para microcriadores
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -280,6 +290,8 @@ Evitar:
 | Micro SaaS 67% | "67% das Startups de 2026 Serão Micro SaaS — Você Está do Lado Certo?" | Alto |
 | Claude Design vs Figma | "Claude Design chegou e a Figma perdeu bilhões: o que isso muda para você" | Alto |
 | Micro SaaS + Agentes Brasil | "67% das startups de 2026 são Micro SaaS — e você pode entrar agora com agentes de IA" | Alto |
+| Claude Cowork | "Claude Cowork: A IA Que Trabalha Enquanto Você Dorme" | Alto |
+| Micro SaaS $60bi | "De $15bi a $60bi em 6 Anos: A Janela do Micro SaaS Está Aberta Agora" | Alto |
 
 ---
 
@@ -292,3 +304,4 @@ Evitar:
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
 | 2026-04-17 | 1.4.0 | 7 novos ângulos quentes (Opus 4.7, Mythos, 87% criadores, 67% micro SaaS, CLI ant, Managed Agents, raciocínio visual 3x); 2 novos exemplos de roteiros usados hoje; termos de busca para Claude Opus 4.7 review e CLI ant |
 | 2026-04-19 | 1.5.0 | 5 novos ângulos quentes (Claude Design vs Figma, Anthropic $30bi ARR, loop fechado Design→Code, 87% criadores, 3 bolhas Micro SaaS BR); 4 novos termos de busca (Claude Design, ecossistema Anthropic, ARR); 2 novos exemplos de roteiros (Claude Design + Micro SaaS Agentes Brasil) |
+| 2026-04-20 | 1.6.0 | 5 novos ângulos quentes (Claude Cowork GA, ecossistema SO Anthropic, Micro SaaS $15bi→$60bi CAGR 30%, IA nativa vs feature, algoritmo YouTube interesses contínuos); 5 novos termos de busca (Cowork, thread persistente, CAGR micro SaaS); 2 novos exemplos de roteiros (Claude Cowork + Micro SaaS $60bi) |
