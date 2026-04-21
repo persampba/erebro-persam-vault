@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.6.0
-atualizado: 2026-04-20
+versao: 1.7.0
+atualizado: 2026-04-21
 tags:
   - skill
   - pesquisa
@@ -31,6 +31,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"OpenAI vs Anthropic [ANO]"`
 - `"Claude [versão] lançamento recursos"`
 - `"Anthropic novos modelos [MÊS] [ANO]"`
+- `"Claude Design prototipo mockup [ANO]"`
+- `"Amazon Anthropic investimento [ANO]"`
+- `"Anthropic receita ARR crescimento [ANO]"`
+- `"Claude Design vs Canva [ANO]"`
 - `"Claude Code routines automação [ANO]"`
 - `"Claude Opus [versão] review benchmark"`
 - `"Claude Design Anthropic protótipo [ANO]"`
@@ -155,6 +159,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 28. **"Micro SaaS vai de $15bi a $60bi em 6 anos"** — CAGR de 30% é dado impactante pouco coberto PT-BR
 29. **"IA nativa vs IA como feature"** — diferenciação estratégica que decide quais SaaS sobrevivem em 2026
 30. **"Contas pequenas estão ganhando de canais grandes no YouTube"** — algoritmo mudou para interesses contínuos, oportunidade para microcriadores
+31. **"Amazon investe US$ 25 bi adicionais na Anthropic"** — evento de 20/04/2026, receita supera US$ 30 bi/ano — ângulo de consolidação de mercado (não hype)
+32. **"5 GW de compute para a Anthropic"** — equivale a alimentar 3 milhões de casas só com servidores — dado visual forte para gancho de vídeo
+33. **"Amazon apostou US$ 33 bi total numa única IA"** — soma dos 3 rounds de investimento — narrativa de tamanho de aposta sem precedentes
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -292,6 +299,8 @@ Evitar:
 | Micro SaaS + Agentes Brasil | "67% das startups de 2026 são Micro SaaS — e você pode entrar agora com agentes de IA" | Alto |
 | Claude Cowork | "Claude Cowork: A IA Que Trabalha Enquanto Você Dorme" | Alto |
 | Micro SaaS $60bi | "De $15bi a $60bi em 6 Anos: A Janela do Micro SaaS Está Aberta Agora" | Alto |
+| Amazon + Anthropic US$ 25 bi | "Amazon Apostou Mais US$ 25 Bilhões na Anthropic — O Que Isso Muda Pra Você" | Alto |
+| Claude Design (teste ao vivo) | "Claude Design: Crie Protótipos e Slides Sem Saber Design (Teste ao Vivo)" | Alto |
 
 ---
 
@@ -303,5 +312,7 @@ Evitar:
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
 | 2026-04-17 | 1.4.0 | 7 novos ângulos quentes (Opus 4.7, Mythos, 87% criadores, 67% micro SaaS, CLI ant, Managed Agents, raciocínio visual 3x); 2 novos exemplos de roteiros usados hoje; termos de busca para Claude Opus 4.7 review e CLI ant |
+<<<<<<< HEAD
 | 2026-04-19 | 1.5.0 | 5 novos ângulos quentes (Claude Design vs Figma, Anthropic $30bi ARR, loop fechado Design→Code, 87% criadores, 3 bolhas Micro SaaS BR); 4 novos termos de busca (Claude Design, ecossistema Anthropic, ARR); 2 novos exemplos de roteiros (Claude Design + Micro SaaS Agentes Brasil) |
 | 2026-04-20 | 1.6.0 | 5 novos ângulos quentes (Claude Cowork GA, ecossistema SO Anthropic, Micro SaaS $15bi→$60bi CAGR 30%, IA nativa vs feature, algoritmo YouTube interesses contínuos); 5 novos termos de busca (Cowork, thread persistente, CAGR micro SaaS); 2 novos exemplos de roteiros (Claude Cowork + Micro SaaS $60bi) |
+| 2026-04-21 | 1.7.0 | 3 novos ângulos quentes (Amazon US$ 25 bi adicionais, 5 GW compute, US$ 33 bi total Amazon→Anthropic); 2 novos exemplos de roteiros (Amazon/Anthropic + Claude Design teste ao vivo); merge com 1.6.0 preservando todos os ângulos e exemplos anteriores |
