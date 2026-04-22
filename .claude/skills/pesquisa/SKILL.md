@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.7.0
-atualizado: 2026-04-21
+versao: 1.8.0
+atualizado: 2026-04-22
 tags:
   - skill
   - pesquisa
@@ -46,6 +46,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Cowork vs Notion vs Jira [ANO]"`
 - `"Anthropic sistema operacional profissional [ANO]"`
 - `"Anthropic Project Glasswing segurança"`
+- `"Claude Mythos vulnerabilidades cibersegurança [ANO]"`
+- `"Anthropic Departamento Defesa contrato [ANO]"`
+- `"IA militar segurança ofensiva [ANO]"`
 - `"AI agentes autônomos infraestrutura [ANO]"`
 - `"modelos de linguagem open source [ANO]"`
 - `"OpenAI novidades esta semana [ANO]"`
@@ -70,6 +73,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS crescimento [ANO] Brasil"`
 - `"micro SaaS mercado bilhões CAGR [ANO]"`
 - `"micro SaaS ideias lucrativas [ANO]"`
+- `"PME brasileira adoção SaaS percentual [ANO]"`
+- `"micro SaaS nicho subatendido Brasil [ANO]"`
 - `"SaaS com IA [ANO]"`
 - `"micro SaaS agentes IA [ANO]"`
 - `"negócio digital solo founder [ANO]"`
@@ -149,6 +154,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 18. **"Modelo de IA que só o governo pode usar"** — Claude Mythos/Project Glasswing gera curiosidade + debate
 19. **"Claude Managed Agents beta público"** — agentes com sandbox, SSE — nicho de devs, alta conversão
 20. **"CLI `ant` da Anthropic"** — nova ferramenta de terminal para a Claude API — conteúdo dev nichado
+21. **"Claude Mythos + Trump + Pentágono"** — IA capaz de hackear qualquer sistema + presidente dos EUA negociando seu uso militar — ângulo geopolítico explosivo, pouquíssimo conteúdo PT-BR
+22. **"5% das PMEs brasileiras usam SaaS"** — dado local que abre a tese do micro SaaS no Brasil com argumento incontestável, oportunidade enorme e muito pouco coberto
+23. **"IA militar: a linha entre defesa e ataque some"** — Claude Mythos como marco onde IA ofensiva e defensiva se tornam a mesma coisa — ângulo filosófico e prático ao mesmo tempo
+24. **"Claude Code removido do plano Pro"** — mudança silenciosa de preços da Anthropic afeta devs independentes — polarização sobre modelo de negócio fechado
 21. **"Claude Design matou o Figma?"** — lançamento 17/04, ações da Figma caíram no mesmo dia — notícia quente + debate
 22. **"Anthropic $30 bilhões em ARR"** — saiu de $9bi (dez/25) para $30bi (abr/26) — crescimento de 3× é narrativa poderosa
 23. **"Loop fechado: Design → Code → Produção no Claude"** — ecossistema Anthropic completo, ângulo estratégico de ecossistema
@@ -301,6 +310,8 @@ Evitar:
 | Micro SaaS $60bi | "De $15bi a $60bi em 6 Anos: A Janela do Micro SaaS Está Aberta Agora" | Alto |
 | Amazon + Anthropic US$ 25 bi | "Amazon Apostou Mais US$ 25 Bilhões na Anthropic — O Que Isso Muda Pra Você" | Alto |
 | Claude Design (teste ao vivo) | "Claude Design: Crie Protótipos e Slides Sem Saber Design (Teste ao Vivo)" | Alto |
+| Claude Mythos + Trump + Pentágono | "A IA que Trump Quer para o Pentágono — e Que Pode Hackear Qualquer Sistema" | Alto |
+| Micro SaaS 5% PME Brasil | "Só 5% das Empresas Brasileiras Usam SaaS — A Maior Oportunidade que o Mercado Não Viu" | Alto |
 
 ---
 
@@ -312,7 +323,7 @@ Evitar:
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
 | 2026-04-17 | 1.4.0 | 7 novos ângulos quentes (Opus 4.7, Mythos, 87% criadores, 67% micro SaaS, CLI ant, Managed Agents, raciocínio visual 3x); 2 novos exemplos de roteiros usados hoje; termos de busca para Claude Opus 4.7 review e CLI ant |
-<<<<<<< HEAD
 | 2026-04-19 | 1.5.0 | 5 novos ângulos quentes (Claude Design vs Figma, Anthropic $30bi ARR, loop fechado Design→Code, 87% criadores, 3 bolhas Micro SaaS BR); 4 novos termos de busca (Claude Design, ecossistema Anthropic, ARR); 2 novos exemplos de roteiros (Claude Design + Micro SaaS Agentes Brasil) |
 | 2026-04-20 | 1.6.0 | 5 novos ângulos quentes (Claude Cowork GA, ecossistema SO Anthropic, Micro SaaS $15bi→$60bi CAGR 30%, IA nativa vs feature, algoritmo YouTube interesses contínuos); 5 novos termos de busca (Cowork, thread persistente, CAGR micro SaaS); 2 novos exemplos de roteiros (Claude Cowork + Micro SaaS $60bi) |
 | 2026-04-21 | 1.7.0 | 3 novos ângulos quentes (Amazon US$ 25 bi adicionais, 5 GW compute, US$ 33 bi total Amazon→Anthropic); 2 novos exemplos de roteiros (Amazon/Anthropic + Claude Design teste ao vivo); merge com 1.6.0 preservando todos os ângulos e exemplos anteriores |
+| 2026-04-22 | 1.8.0 | 4 novos ângulos quentes (Claude Mythos + Trump + Pentágono, 5% PMEs BR usam SaaS, IA ofensiva/defensiva se mesclam, Claude Code removido do Pro); 5 novos termos de busca (Mythos, DoD Anthropic, IA militar, PME SaaS BR, micro SaaS nicho subatendido); 2 novos exemplos de roteiros; correção de marcador de conflito de merge residual no histórico |
