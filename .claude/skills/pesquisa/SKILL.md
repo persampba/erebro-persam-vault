@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.8.0
-atualizado: 2026-04-22
+versao: 1.9.0
+atualizado: 2026-04-24
 tags:
   - skill
   - pesquisa
@@ -52,6 +52,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"AI agentes autônomos infraestrutura [ANO]"`
 - `"modelos de linguagem open source [ANO]"`
 - `"OpenAI novidades esta semana [ANO]"`
+- `"Anthropic admitiu degradou Claude atualizações [ANO]"`
+- `"Claude Code preço Max 5x plano Pro [ANO]"`
+- `"capability regression LLM RLHF lobotomy [ANO]"`
+- `"Anthropic planos preços mudança [MÊS] [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -98,6 +102,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"podcast IA ferramentas gratuitas [ANO]"`
 - `"automatizar canal YouTube com IA"`
 - `"YouTube AI Slop combate algoritmo [ANO]"`
+- `"fluxo multimodal criadores conteúdo [ANO]"`
+- `"Opus Clip repurposing automatico conteúdo [ANO]"`
+- `"HeyGen avatar IA crescimento [ANO]"`
+- `"adoção IA criadores profissionais marketing [ANO]"`
 - `"Veo3 Google DeepMind vídeo som prompt"`
 - `"YouTube Shorts avatar IA criador"`
 - `"YouTube rotulagem conteúdo sintetico [ANO]"`
@@ -171,6 +179,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 31. **"Amazon investe US$ 25 bi adicionais na Anthropic"** — evento de 20/04/2026, receita supera US$ 30 bi/ano — ângulo de consolidação de mercado (não hype)
 32. **"5 GW de compute para a Anthropic"** — equivale a alimentar 3 milhões de casas só com servidores — dado visual forte para gancho de vídeo
 33. **"Amazon apostou US$ 33 bi total numa única IA"** — soma dos 3 rounds de investimento — narrativa de tamanho de aposta sem precedentes
+34. **"A Anthropic admitiu publicamente que quebrou o Claude"** — evento de 23/04/2026 (The Register), empresa de IA top admitindo falha é raro, altamente compartilhável, gera polarização sobre confiabilidade de LLMs
+35. **"Claude Code: de incluso no Pro ($20) para exigir o Max 5x ($100) em 30 dias"** — aumento de 5x no custo sem comunicação clara — impacto direto e verificável para devs independentes brasileiros
+36. **"Capability regression: quando atualizar o modelo o deixa mais burro"** — conceito técnico acessível, histórico (GPT-4, Gemini, agora Claude), evergreen e educacional
+37. **"85% dos criadores já usam IA em 2026 — dado subiu de 61% em 3 anos"** — número atualizado e mais forte que o 75% anterior, polarização clara, urgência prática
+38. **"O fluxo multimodal: como os top criadores combinam texto + vídeo + áudio numa única ferramenta"** — tendência de convergência de plataformas, tutorial prático, alto potencial de retenção
+39. **"HeyGen cresce exponencialmente: avatar de IA é o novo formato de vídeo de produto"** — dado de mercado, formato novo, pouquíssimo PT-BR, aplicação imediata
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -312,6 +326,8 @@ Evitar:
 | Claude Design (teste ao vivo) | "Claude Design: Crie Protótipos e Slides Sem Saber Design (Teste ao Vivo)" | Alto |
 | Claude Mythos + Trump + Pentágono | "A IA que Trump Quer para o Pentágono — e Que Pode Hackear Qualquer Sistema" | Alto |
 | Micro SaaS 5% PME Brasil | "Só 5% das Empresas Brasileiras Usam SaaS — A Maior Oportunidade que o Mercado Não Viu" | Alto |
+| Anthropic admitiu falha | "A Anthropic Admitiu que Quebrou o Claude — e o Que Isso Revela Sobre o Futuro da IA" | Alto |
+| 85% criadores IA | "85% dos Criadores Já Usam IA — e os 15% que Não Usam Estão Perdendo Dinheiro" | Alto |
 
 ---
 
@@ -327,3 +343,4 @@ Evitar:
 | 2026-04-20 | 1.6.0 | 5 novos ângulos quentes (Claude Cowork GA, ecossistema SO Anthropic, Micro SaaS $15bi→$60bi CAGR 30%, IA nativa vs feature, algoritmo YouTube interesses contínuos); 5 novos termos de busca (Cowork, thread persistente, CAGR micro SaaS); 2 novos exemplos de roteiros (Claude Cowork + Micro SaaS $60bi) |
 | 2026-04-21 | 1.7.0 | 3 novos ângulos quentes (Amazon US$ 25 bi adicionais, 5 GW compute, US$ 33 bi total Amazon→Anthropic); 2 novos exemplos de roteiros (Amazon/Anthropic + Claude Design teste ao vivo); merge com 1.6.0 preservando todos os ângulos e exemplos anteriores |
 | 2026-04-22 | 1.8.0 | 4 novos ângulos quentes (Claude Mythos + Trump + Pentágono, 5% PMEs BR usam SaaS, IA ofensiva/defensiva se mesclam, Claude Code removido do Pro); 5 novos termos de busca (Mythos, DoD Anthropic, IA militar, PME SaaS BR, micro SaaS nicho subatendido); 2 novos exemplos de roteiros; correção de marcador de conflito de merge residual no histórico |
+| 2026-04-24 | 1.9.0 | 6 novos ângulos quentes (Anthropic admitiu falha pública, Claude Code $20→$100 em 30 dias, capability regression, 85% criadores usam IA, fluxo multimodal, HeyGen exponencial); 10 novos termos de busca (degradação Claude, preço Max 5x, capability regression, fluxo multimodal, Opus Clip, HeyGen, adoção IA criadores); 2 novos exemplos de roteiros |
