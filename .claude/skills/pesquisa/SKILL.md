@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 1.9.0
-atualizado: 2026-04-24
+versao: 2.0.0
+atualizado: 2026-04-25
 tags:
   - skill
   - pesquisa
@@ -46,6 +46,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Cowork vs Notion vs Jira [ANO]"`
 - `"Anthropic sistema operacional profissional [ANO]"`
 - `"Anthropic Project Glasswing segurança"`
+- `"Claude Mythos zero-day vulnerabilidades [ANO]"`
+- `"Project Glasswing RCE FreeBSD zero-day [ANO]"`
 - `"Claude Mythos vulnerabilidades cibersegurança [ANO]"`
 - `"Anthropic Departamento Defesa contrato [ANO]"`
 - `"IA militar segurança ofensiva [ANO]"`
@@ -79,6 +81,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS ideias lucrativas [ANO]"`
 - `"PME brasileira adoção SaaS percentual [ANO]"`
 - `"micro SaaS nicho subatendido Brasil [ANO]"`
+- `"micro SaaS bolhas Brasil [ANO]"`
+- `"micro SaaS vertical SaaS saúde jurídico construção Brasil [ANO]"`
 - `"SaaS com IA [ANO]"`
 - `"micro SaaS agentes IA [ANO]"`
 - `"negócio digital solo founder [ANO]"`
@@ -185,6 +189,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 37. **"85% dos criadores já usam IA em 2026 — dado subiu de 61% em 3 anos"** — número atualizado e mais forte que o 75% anterior, polarização clara, urgência prática
 38. **"O fluxo multimodal: como os top criadores combinam texto + vídeo + áudio numa única ferramenta"** — tendência de convergência de plataformas, tutorial prático, alto potencial de retenção
 39. **"HeyGen cresce exponencialmente: avatar de IA é o novo formato de vídeo de produto"** — dado de mercado, formato novo, pouquíssimo PT-BR, aplicação imediata
+40. **"Claude Mythos encontrou zero-days em TODOS os SOs e navegadores — incluindo RCE de 17 anos"** — dado técnico mas acessível, evento de abril/26, impacto prático na segurança de qualquer pessoa, pouco PT-BR
+41. **"Project Glasswing: a Anthropic armou AWS, Apple, Google e Microsoft antes dos hackers"** — lógica de corrida armamentista com IA, ângulo de geopolítica tech, US$ 100M em créditos
+42. **"Micro SaaS no Brasil tem 3 bolhas — e você precisa saber em qual está"** — tipologia inédita do mercado local, dado de 67% das startups, prático e acionável, pouco conteúdo PT-BR de qualidade
+43. **"YouTube 2026: canal pequeno com nicho bate canal grande generalista — o algoritmo virou"** — contraintuitivo, dado de comportamento de plataforma, urgência para microcriadores brasileiros
+44. **"IA corta 93% do tempo de criação de conteúdo — mas 15% dos criadores ainda não usam"** — dado impactante + urgência + ângulo de oportunidade para quem ainda não adotou
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -328,6 +337,8 @@ Evitar:
 | Micro SaaS 5% PME Brasil | "Só 5% das Empresas Brasileiras Usam SaaS — A Maior Oportunidade que o Mercado Não Viu" | Alto |
 | Anthropic admitiu falha | "A Anthropic Admitiu que Quebrou o Claude — e o Que Isso Revela Sobre o Futuro da IA" | Alto |
 | 85% criadores IA | "85% dos Criadores Já Usam IA — e os 15% que Não Usam Estão Perdendo Dinheiro" | Alto |
+| Claude Mythos zero-days | "Claude Mythos Encontrou Zero-Days em TODO Sistema que Você Usa — e o Que Isso Muda" | Alto |
+| Micro SaaS 3 bolhas Brasil | "Micro SaaS no Brasil: as 3 Bolhas que Definem se Você Vai Lucrar ou Quebrar" | Alto |
 
 ---
 
@@ -344,3 +355,4 @@ Evitar:
 | 2026-04-21 | 1.7.0 | 3 novos ângulos quentes (Amazon US$ 25 bi adicionais, 5 GW compute, US$ 33 bi total Amazon→Anthropic); 2 novos exemplos de roteiros (Amazon/Anthropic + Claude Design teste ao vivo); merge com 1.6.0 preservando todos os ângulos e exemplos anteriores |
 | 2026-04-22 | 1.8.0 | 4 novos ângulos quentes (Claude Mythos + Trump + Pentágono, 5% PMEs BR usam SaaS, IA ofensiva/defensiva se mesclam, Claude Code removido do Pro); 5 novos termos de busca (Mythos, DoD Anthropic, IA militar, PME SaaS BR, micro SaaS nicho subatendido); 2 novos exemplos de roteiros; correção de marcador de conflito de merge residual no histórico |
 | 2026-04-24 | 1.9.0 | 6 novos ângulos quentes (Anthropic admitiu falha pública, Claude Code $20→$100 em 30 dias, capability regression, 85% criadores usam IA, fluxo multimodal, HeyGen exponencial); 10 novos termos de busca (degradação Claude, preço Max 5x, capability regression, fluxo multimodal, Opus Clip, HeyGen, adoção IA criadores); 2 novos exemplos de roteiros |
+| 2026-04-25 | 2.0.0 | 5 novos ângulos quentes (Mythos encontrou zero-days em todos os SOs/navegadores, RCE 17 anos FreeBSD, Project Glasswing US$ 100M, 3 bolhas micro SaaS Brasil, YouTube confiança repetida supera amplitude); 4 novos termos de busca (Glasswing zero-day, Claude Mythos RCE, micro SaaS bolhas Brasil, YouTube nicho contas pequenas); 2 novos exemplos de roteiros |
