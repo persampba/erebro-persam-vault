@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.0.0
-atualizado: 2026-04-25
+versao: 2.1.0
+atualizado: 2026-04-26
 tags:
   - skill
   - pesquisa
@@ -58,6 +58,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Code preço Max 5x plano Pro [ANO]"`
 - `"capability regression LLM RLHF lobotomy [ANO]"`
 - `"Anthropic planos preços mudança [MÊS] [ANO]"`
+- `"Google Anthropic investimento bilhões [ANO]"`
+- `"Claude atualizações lançamentos por dia [ANO]"`
+- `"Anthropic 74 atualizações 52 dias [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -73,6 +76,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"thumbnails que mais convertem YouTube [ANO]"`
 - `"shorts versus vídeos longos YouTube [ANO]"`
 - `"monetização YouTube criadores [ANO]"`
+- `"taxa de permanência inicial YouTube algoritmo [ANO]"`
+- `"marketing invisível branded content performance [ANO]"`
 
 ### Micro SaaS e Empreendedorismo Digital
 
@@ -108,6 +113,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube AI Slop combate algoritmo [ANO]"`
 - `"fluxo multimodal criadores conteúdo [ANO]"`
 - `"Opus Clip repurposing automatico conteúdo [ANO]"`
+- `"Opus Clip economia tempo criação conteúdo [ANO]"`
+- `"fluxo criador conteúdo IA ferramentas [ANO]"`
 - `"HeyGen avatar IA crescimento [ANO]"`
 - `"adoção IA criadores profissionais marketing [ANO]"`
 - `"Veo3 Google DeepMind vídeo som prompt"`
@@ -194,6 +201,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 42. **"Micro SaaS no Brasil tem 3 bolhas — e você precisa saber em qual está"** — tipologia inédita do mercado local, dado de 67% das startups, prático e acionável, pouco conteúdo PT-BR de qualidade
 43. **"YouTube 2026: canal pequeno com nicho bate canal grande generalista — o algoritmo virou"** — contraintuitivo, dado de comportamento de plataforma, urgência para microcriadores brasileiros
 44. **"IA corta 93% do tempo de criação de conteúdo — mas 15% dos criadores ainda não usam"** — dado impactante + urgência + ângulo de oportunidade para quem ainda não adotou
+45. **"Google apostou US$ 40 bilhões na Anthropic — por que uma empresa que TEM IA paga bilhões por outra"** — evento de 24/04/2026, paradoxo estratégico, pouco PT-BR, dado numérico impactante, conecta investimento com impacto prático
+46. **"74 atualizações do Claude em 52 dias — o ritmo impossível que está mudando tudo"** — dado de cadência sem precedentes, narrativa de transformação acelerada, evergreen enquanto o ritmo continuar
+47. **"Vídeos com abertura poderosa têm 3x mais chances de viralizar — o algoritmo mudou o jogo"** — dado do algoritmo YouTube/Instagram de 2026 sobre taxa de permanência inicial, tutorial prático de alta retenção
+48. **"Do rascunho a 4 plataformas em 2 horas: o fluxo de IA que os top criadores usam"** — tutorial com ferramentas reais (Opus Clip + Runway + Claude + CapCut), aplicação imediata, alta retenção
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -339,6 +350,8 @@ Evitar:
 | 85% criadores IA | "85% dos Criadores Já Usam IA — e os 15% que Não Usam Estão Perdendo Dinheiro" | Alto |
 | Claude Mythos zero-days | "Claude Mythos Encontrou Zero-Days em TODO Sistema que Você Usa — e o Que Isso Muda" | Alto |
 | Micro SaaS 3 bolhas Brasil | "Micro SaaS no Brasil: as 3 Bolhas que Definem se Você Vai Lucrar ou Quebrar" | Alto |
+| Google $40 bi Anthropic | "Google Apostou US$ 40 Bilhões na Anthropic — O Que Essa Decisão Muda Pra Você" | Alto |
+| IA 93% menos tempo criadores | "IA Corta 93% do Tempo de Criação — O Fluxo que os Top Criadores Usam em 2026" | Alto |
 
 ---
 
@@ -356,3 +369,4 @@ Evitar:
 | 2026-04-22 | 1.8.0 | 4 novos ângulos quentes (Claude Mythos + Trump + Pentágono, 5% PMEs BR usam SaaS, IA ofensiva/defensiva se mesclam, Claude Code removido do Pro); 5 novos termos de busca (Mythos, DoD Anthropic, IA militar, PME SaaS BR, micro SaaS nicho subatendido); 2 novos exemplos de roteiros; correção de marcador de conflito de merge residual no histórico |
 | 2026-04-24 | 1.9.0 | 6 novos ângulos quentes (Anthropic admitiu falha pública, Claude Code $20→$100 em 30 dias, capability regression, 85% criadores usam IA, fluxo multimodal, HeyGen exponencial); 10 novos termos de busca (degradação Claude, preço Max 5x, capability regression, fluxo multimodal, Opus Clip, HeyGen, adoção IA criadores); 2 novos exemplos de roteiros |
 | 2026-04-25 | 2.0.0 | 5 novos ângulos quentes (Mythos encontrou zero-days em todos os SOs/navegadores, RCE 17 anos FreeBSD, Project Glasswing US$ 100M, 3 bolhas micro SaaS Brasil, YouTube confiança repetida supera amplitude); 4 novos termos de busca (Glasswing zero-day, Claude Mythos RCE, micro SaaS bolhas Brasil, YouTube nicho contas pequenas); 2 novos exemplos de roteiros |
+| 2026-04-26 | 2.1.0 | 4 novos ângulos quentes (Google $40 bi Anthropic, 74 atualizações em 52 dias, abertura poderosa 3x mais viral, fluxo completo 4 plataformas em 2h); 7 novos termos de busca (Google/Anthropic investimento, Anthropic 74 updates, Opus Clip economia tempo, fluxo criador IA, taxa permanência inicial, marketing invisível branded content); 2 novos exemplos de roteiros |
