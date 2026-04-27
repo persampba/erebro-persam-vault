@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.1.0
-atualizado: 2026-04-26
+versao: 2.2.0
+atualizado: 2026-04-27
 tags:
   - skill
   - pesquisa
@@ -61,6 +61,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Google Anthropic investimento bilhões [ANO]"`
 - `"Claude atualizações lançamentos por dia [ANO]"`
 - `"Anthropic 74 atualizações 52 dias [ANO]"`
+- `"Anthropic ARR US$ 30 bilhões crescimento [ANO]"`
+- `"Claude Design vs Canva protótipo mockup [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -102,6 +104,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 ### Ferramentas para Criadores
 
 - `"criadores de conteúdo IA ferramentas [ANO]"`
+- `"stack IA criadores conteúdo completo [ANO]"`
+- `"IA corta 93 por cento tempo criação criadores [ANO]"`
 - `"edição de vídeo IA [ANO]"`
 - `"Descript alternativas [ANO]"`
 - `"Runway Gen [versão] review"`
@@ -150,6 +154,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 27 de abril 2026
+
+49. **"Google US$ 40 bi na Anthropic: o que muda quando os dois maiores tech controlam a mesma IA"** — ângulo de concentração de poder + impacto prático; dado fresco (24/04), poucas análises PT-BR
+50. **"Stack completo de IA para criadores: da ideia a 4 plataformas em 2 horas"** — tutorial evergreen com ferramentas reais, alto potencial de retenção e série
+51. **"IA corta 93% do tempo de criação — mas a maioria usa errado"** — dado impactante + correção de comportamento = alto CTR e retenção
+52. **"Claude Design na prática: deck de pitch + landing page em 20 minutos sem saber design"** — teste ao vivo, formato tutorial, produto de 10 dias de existência
 
 ### Ângulos quentes em abril 2026
 
@@ -352,6 +363,8 @@ Evitar:
 | Micro SaaS 3 bolhas Brasil | "Micro SaaS no Brasil: as 3 Bolhas que Definem se Você Vai Lucrar ou Quebrar" | Alto |
 | Google $40 bi Anthropic | "Google Apostou US$ 40 Bilhões na Anthropic — O Que Essa Decisão Muda Pra Você" | Alto |
 | IA 93% menos tempo criadores | "IA Corta 93% do Tempo de Criação — O Fluxo que os Top Criadores Usam em 2026" | Alto |
+| Google $40 bi Anthropic concentração | "Google Apostou US$ 40 Bilhões na Anthropic — O Que Essa Aposta Muda Para Você" | Alto |
+| Stack IA criadores 87% adoção | "87% dos Criadores Já Usam IA — O Stack Completo Que Eles Usam Para Produzir em 2026" | Alto |
 
 ---
 
@@ -370,3 +383,4 @@ Evitar:
 | 2026-04-24 | 1.9.0 | 6 novos ângulos quentes (Anthropic admitiu falha pública, Claude Code $20→$100 em 30 dias, capability regression, 85% criadores usam IA, fluxo multimodal, HeyGen exponencial); 10 novos termos de busca (degradação Claude, preço Max 5x, capability regression, fluxo multimodal, Opus Clip, HeyGen, adoção IA criadores); 2 novos exemplos de roteiros |
 | 2026-04-25 | 2.0.0 | 5 novos ângulos quentes (Mythos encontrou zero-days em todos os SOs/navegadores, RCE 17 anos FreeBSD, Project Glasswing US$ 100M, 3 bolhas micro SaaS Brasil, YouTube confiança repetida supera amplitude); 4 novos termos de busca (Glasswing zero-day, Claude Mythos RCE, micro SaaS bolhas Brasil, YouTube nicho contas pequenas); 2 novos exemplos de roteiros |
 | 2026-04-26 | 2.1.0 | 4 novos ângulos quentes (Google $40 bi Anthropic, 74 atualizações em 52 dias, abertura poderosa 3x mais viral, fluxo completo 4 plataformas em 2h); 7 novos termos de busca (Google/Anthropic investimento, Anthropic 74 updates, Opus Clip economia tempo, fluxo criador IA, taxa permanência inicial, marketing invisível branded content); 2 novos exemplos de roteiros |
+| 2026-04-27 | 2.2.0 | 4 novos ângulos quentes (Google $40 bi concentração de poder, stack completo IA criadores, IA corta 93% mas maioria usa errado, Claude Design teste ao vivo); 4 novos termos de busca (ARR Anthropic $30bi, Claude Design vs Canva, stack IA criadores completo, IA 93% tempo criação); 2 novos exemplos de roteiros |
