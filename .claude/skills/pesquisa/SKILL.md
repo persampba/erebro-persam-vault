@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.0.0
-atualizado: 2026-04-25
+versao: 2.4.0
+atualizado: 2026-04-29
 tags:
   - skill
   - pesquisa
@@ -24,6 +24,7 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Gemini Google novidades [ANO]"`
 - `"modelos de linguagem tendências [ANO]"`
 - `"agentes de IA autônomos [ANO]"`
+- `"agentes autônomos IA mercado bilhoes [ANO]"`
 - `"Claude Managed Agents beta"`
 - `"LLM benchmark novo [ANO]"`
 - `"IA generativa casos de uso empresa [ANO]"`
@@ -40,6 +41,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Design Anthropic protótipo [ANO]"`
 - `"Claude Design vs Figma [ANO]"`
 - `"Anthropic ecossistema Design Code produção [ANO]"`
+- `"Claude conectores MCP ferramentas criativas [ANO]"`
+- `"Claude Adobe Blender Ableton integração [ANO]"`
+- `"Anthropic MCP conectores criadores [ANO]"`
+- `"Claude conector Adobe Premiere edição [ANO]"`
 - `"Anthropic ARR receita crescimento [ANO]"`
 - `"Claude Cowork disponibilidade geral [ANO]"`
 - `"Claude Cowork thread persistente agente [ANO]"`
@@ -58,6 +63,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Code preço Max 5x plano Pro [ANO]"`
 - `"capability regression LLM RLHF lobotomy [ANO]"`
 - `"Anthropic planos preços mudança [MÊS] [ANO]"`
+- `"Google Anthropic investimento bilhões [ANO]"`
+- `"Claude atualizações lançamentos por dia [ANO]"`
+- `"Anthropic 74 atualizações 52 dias [ANO]"`
+- `"Anthropic ARR US$ 30 bilhões crescimento [ANO]"`
+- `"Claude Design vs Canva protótipo mockup [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -73,6 +83,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"thumbnails que mais convertem YouTube [ANO]"`
 - `"shorts versus vídeos longos YouTube [ANO]"`
 - `"monetização YouTube criadores [ANO]"`
+- `"taxa de permanência inicial YouTube algoritmo [ANO]"`
+- `"marketing invisível branded content performance [ANO]"`
+- `"YouTube Gemini AI algoritmo recomendação [ANO]"`
+- `"YouTube janela viral 24 horas [ANO]"`
+- `"fandom nicho YouTube algoritmo 2026"`
 
 ### Micro SaaS e Empreendedorismo Digital
 
@@ -87,7 +102,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS agentes IA [ANO]"`
 - `"negócio digital solo founder [ANO]"`
 - `"no-code micro SaaS [ANO]"`
+- `"micro SaaS 30 dias IA sem programar [ANO]"`
 - `"SaaS vertical nicho Brasil [ANO]"`
+- `"micro SaaS IA nativa vs feature [ANO]"`
+- `"micro SaaS nicho validação 30 dias roteiro [ANO]"`
+- `"PME brasileira nicho SaaS subatendido setor [ANO]"`
 - `"como lançar SaaS 30 dias [ANO]"`
 - `"receita recorrente digital empreendedor brasileiro"`
 - `"indie hacker Brasil histórias [ANO]"`
@@ -97,6 +116,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 ### Ferramentas para Criadores
 
 - `"criadores de conteúdo IA ferramentas [ANO]"`
+- `"stack IA criadores conteúdo completo [ANO]"`
+- `"IA corta 93 por cento tempo criação criadores [ANO]"`
 - `"edição de vídeo IA [ANO]"`
 - `"Descript alternativas [ANO]"`
 - `"Runway Gen [versão] review"`
@@ -108,6 +129,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube AI Slop combate algoritmo [ANO]"`
 - `"fluxo multimodal criadores conteúdo [ANO]"`
 - `"Opus Clip repurposing automatico conteúdo [ANO]"`
+- `"Opus Clip economia tempo criação conteúdo [ANO]"`
+- `"fluxo criador conteúdo IA ferramentas [ANO]"`
 - `"HeyGen avatar IA crescimento [ANO]"`
 - `"adoção IA criadores profissionais marketing [ANO]"`
 - `"Veo3 Google DeepMind vídeo som prompt"`
@@ -143,6 +166,24 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 29 de abril 2026
+
+57. **"A Anthropic colocou o Claude dentro do Adobe, Blender e Ableton — e está de graça"** — 9 conectores MCP lançados em 28/04, disponíveis em todos os planos incluindo gratuito, impacto imediato para criadores BR, pouquíssimo PT-BR, notícia com < 24h
+58. **"IA nativa vs. IA como feature — a diferença que decide quais micro SaaS sobrevivem"** — conceito técnico acessível, evergreen, alto potencial de polarização, conecta IA com estratégia de produto concreta
+59. **"De R$ 0 a R$ 10k/mês: o roteiro de 30 dias para criar um micro SaaS sem programar"** — guia acionável, dado de mercado forte ($15bi→$60bi CAGR 30%), urgência de janela, série com múltiplos episódios
+60. **"85% dos profissionais de marketing usam IA — o stack que os top criadores realmente usam"** — dado confirmado de abril 2026, lista prática e acionável, alta retenção por ser tutorialável
+
+### Ângulos quentes em 27 de abril 2026
+
+49. **"Google US$ 40 bi na Anthropic: o que muda quando os dois maiores tech controlam a mesma IA"** — ângulo de concentração de poder + impacto prático; dado fresco (24/04), poucas análises PT-BR
+50. **"Stack completo de IA para criadores: da ideia a 4 plataformas em 2 horas"** — tutorial evergreen com ferramentas reais, alto potencial de retenção e série
+51. **"IA corta 93% do tempo de criação — mas a maioria usa errado"** — dado impactante + correção de comportamento = alto CTR e retenção
+52. **"Claude Design na prática: deck de pitch + landing page em 20 minutos sem saber design"** — teste ao vivo, formato tutorial, produto de 10 dias de existência
+53. **"A Janela de 24 Horas que Decide Se Seu Vídeo Viraliza (O YouTube Mudou de Novo)"** — Gemini AI integrado ao algoritmo desde jan/2026, janela viral encolheu para 24–36h, dado urgente para criadores BR, pouquíssimo PT-BR sobre o tema
+54. **"67% das Startups de 2026 Serão Micro SaaS — Como Entrar Agora Sem Saber Programar"** — dado confirmado + Brasil com 95% PMEs sem SaaS + IA derrubou barreira técnica = convergência de oportunidade e acessibilidade
+55. **"O YouTube Usa IA para Ler Cada Frame do Seu Vídeo — e Isso Muda Sua Estratégia Toda"** — Gemini analisa visuais, ritmo, tom, emoção, intenção; tutorial prático de adaptação, evento jan/2026
+56. **"Fandom vs Viral: Por Que Canais de Nicho Estão Ganhando de Grandes em 2026"** — contraintuitivo + dado + oportunidade para microcriadores brasileiros, algoritmo prioritiza storyworld próprio
 
 ### Ângulos quentes em abril 2026
 
@@ -194,6 +235,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 42. **"Micro SaaS no Brasil tem 3 bolhas — e você precisa saber em qual está"** — tipologia inédita do mercado local, dado de 67% das startups, prático e acionável, pouco conteúdo PT-BR de qualidade
 43. **"YouTube 2026: canal pequeno com nicho bate canal grande generalista — o algoritmo virou"** — contraintuitivo, dado de comportamento de plataforma, urgência para microcriadores brasileiros
 44. **"IA corta 93% do tempo de criação de conteúdo — mas 15% dos criadores ainda não usam"** — dado impactante + urgência + ângulo de oportunidade para quem ainda não adotou
+45. **"Google apostou US$ 40 bilhões na Anthropic — por que uma empresa que TEM IA paga bilhões por outra"** — evento de 24/04/2026, paradoxo estratégico, pouco PT-BR, dado numérico impactante, conecta investimento com impacto prático
+46. **"74 atualizações do Claude em 52 dias — o ritmo impossível que está mudando tudo"** — dado de cadência sem precedentes, narrativa de transformação acelerada, evergreen enquanto o ritmo continuar
+47. **"Vídeos com abertura poderosa têm 3x mais chances de viralizar — o algoritmo mudou o jogo"** — dado do algoritmo YouTube/Instagram de 2026 sobre taxa de permanência inicial, tutorial prático de alta retenção
+48. **"Do rascunho a 4 plataformas em 2 horas: o fluxo de IA que os top criadores usam"** — tutorial com ferramentas reais (Opus Clip + Runway + Claude + CapCut), aplicação imediata, alta retenção
 
 ### Formatos com Melhor Performance em Abril 2026
 
@@ -339,6 +384,14 @@ Evitar:
 | 85% criadores IA | "85% dos Criadores Já Usam IA — e os 15% que Não Usam Estão Perdendo Dinheiro" | Alto |
 | Claude Mythos zero-days | "Claude Mythos Encontrou Zero-Days em TODO Sistema que Você Usa — e o Que Isso Muda" | Alto |
 | Micro SaaS 3 bolhas Brasil | "Micro SaaS no Brasil: as 3 Bolhas que Definem se Você Vai Lucrar ou Quebrar" | Alto |
+| Google $40 bi Anthropic | "Google Apostou US$ 40 Bilhões na Anthropic — O Que Essa Decisão Muda Pra Você" | Alto |
+| IA 93% menos tempo criadores | "IA Corta 93% do Tempo de Criação — O Fluxo que os Top Criadores Usam em 2026" | Alto |
+| Google $40 bi Anthropic concentração | "Google Apostou US$ 40 Bilhões na Anthropic — O Que Essa Aposta Muda Para Você" | Alto |
+| Stack IA criadores 87% adoção | "87% dos Criadores Já Usam IA — O Stack Completo Que Eles Usam Para Produzir em 2026" | Alto |
+| YouTube + Gemini AI janela 24h | "A Janela de 24 Horas que Decide Se Seu Vídeo Viraliza (O YouTube Mudou de Novo)" | Alto |
+| Micro SaaS sem programar 2026 | "67% das Startups de 2026 Serão Micro SaaS — Como Entrar Agora Sem Saber Programar" | Alto |
+| Claude 9 conectores MCP (Adobe, Blender, Ableton) | "A Anthropic Colocou o Claude Dentro do Adobe, Blender e Ableton — e Está de Graça" | Alto |
+| Micro SaaS IA nativa roteiro 30 dias | "De R$ 0 a R$ 10k/mês: Como Criar um Micro SaaS com IA Sem Saber Programar em 2026" | Alto |
 
 ---
 
@@ -356,3 +409,7 @@ Evitar:
 | 2026-04-22 | 1.8.0 | 4 novos ângulos quentes (Claude Mythos + Trump + Pentágono, 5% PMEs BR usam SaaS, IA ofensiva/defensiva se mesclam, Claude Code removido do Pro); 5 novos termos de busca (Mythos, DoD Anthropic, IA militar, PME SaaS BR, micro SaaS nicho subatendido); 2 novos exemplos de roteiros; correção de marcador de conflito de merge residual no histórico |
 | 2026-04-24 | 1.9.0 | 6 novos ângulos quentes (Anthropic admitiu falha pública, Claude Code $20→$100 em 30 dias, capability regression, 85% criadores usam IA, fluxo multimodal, HeyGen exponencial); 10 novos termos de busca (degradação Claude, preço Max 5x, capability regression, fluxo multimodal, Opus Clip, HeyGen, adoção IA criadores); 2 novos exemplos de roteiros |
 | 2026-04-25 | 2.0.0 | 5 novos ângulos quentes (Mythos encontrou zero-days em todos os SOs/navegadores, RCE 17 anos FreeBSD, Project Glasswing US$ 100M, 3 bolhas micro SaaS Brasil, YouTube confiança repetida supera amplitude); 4 novos termos de busca (Glasswing zero-day, Claude Mythos RCE, micro SaaS bolhas Brasil, YouTube nicho contas pequenas); 2 novos exemplos de roteiros |
+| 2026-04-26 | 2.1.0 | 4 novos ângulos quentes (Google $40 bi Anthropic, 74 atualizações em 52 dias, abertura poderosa 3x mais viral, fluxo completo 4 plataformas em 2h); 7 novos termos de busca (Google/Anthropic investimento, Anthropic 74 updates, Opus Clip economia tempo, fluxo criador IA, taxa permanência inicial, marketing invisível branded content); 2 novos exemplos de roteiros |
+| 2026-04-27 | 2.2.0 | 4 novos ângulos quentes (Google $40 bi concentração de poder, stack completo IA criadores, IA corta 93% mas maioria usa errado, Claude Design teste ao vivo); 4 novos termos de busca (ARR Anthropic $30bi, Claude Design vs Canva, stack IA criadores completo, IA 93% tempo criação); 2 novos exemplos de roteiros |
+| 2026-04-28 | 2.3.0 | 4 novos ângulos quentes (YouTube Gemini AI janela viral 24–36h, fandom supera viral no algoritmo, 67% micro SaaS sem programar, agentes autônomos US$ 8,5 bi); 5 novos termos de busca (Gemini AI algoritmo YouTube, janela viral 24h, fandom nicho YouTube, micro SaaS 30 dias sem programar, agentes autônomos mercado bilhões); 2 novos exemplos de roteiros |
+| 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
