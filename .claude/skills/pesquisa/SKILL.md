@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.4.0
-atualizado: 2026-04-29
+versao: 2.5.0
+atualizado: 2026-04-30
 tags:
   - skill
   - pesquisa
@@ -68,6 +68,18 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic 74 atualizações 52 dias [ANO]"`
 - `"Anthropic ARR US$ 30 bilhões crescimento [ANO]"`
 - `"Claude Design vs Canva protótipo mockup [ANO]"`
+- `"Harvard ChatGPT Claude substituição [ANO]"`
+- `"universidades adoção Claude Anthropic [ANO]"`
+- `"Harvard FAS Anthropic ChatGPT Edu [ANO]"`
+
+### Cibersegurança e IA Ofensiva/Defensiva
+
+- `"Europol cibercrime IA tendências [ANO]"`
+- `"deepfake chamada de video fraude [ANO]"`
+- `"phishing IA personalizado taxa clique [ANO]"`
+- `"agentes autonomos exploração vulnerabilidades [ANO]"`
+- `"cibercrime infraestrutura crítica IA [ANO]"`
+- `"deepfake tempo real chamada video [ANO]"`
 
 ### Marketing Digital e YouTube
 
@@ -166,6 +178,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 30 de abril 2026
+
+61. **"Harvard trocou ChatGPT pelo Claude — o que isso muda para você"** — FAS de Harvard anuncia migração em 28/04, maior validação institucional da Anthropic até hoje, pouco PT-BR, impacto no mercado de trabalho e educação, urgência < 72h
+62. **"As 5 formas que a IA está sendo usada para te atacar em 2026 — segundo a Europol"** — relatório publicado em 29/04, zero análises PT-BR, combina IA + segurança + impacto prático para qualquer pessoa, deepfakes + phishing + agentes autônomos
+63. **"Deepfake em tempo real: você não pode mais confiar no que vê em uma chamada de vídeo"** — tendência 1 do relatório Europol, caso concreto US$ 25M Hong Kong, tutorial de defesa prático, alto potencial de compartilhamento por choque
+64. **"75% dos vídeos de marketing já são feitos com IA — e quem não usa está perdendo para quem usa"** — dado confirmado de abril 2026, formato urgência + oportunidade, polarizante e com tutorial embutido
 
 ### Ângulos quentes em 29 de abril 2026
 
@@ -392,6 +411,8 @@ Evitar:
 | Micro SaaS sem programar 2026 | "67% das Startups de 2026 Serão Micro SaaS — Como Entrar Agora Sem Saber Programar" | Alto |
 | Claude 9 conectores MCP (Adobe, Blender, Ableton) | "A Anthropic Colocou o Claude Dentro do Adobe, Blender e Ableton — e Está de Graça" | Alto |
 | Micro SaaS IA nativa roteiro 30 dias | "De R$ 0 a R$ 10k/mês: Como Criar um Micro SaaS com IA Sem Saber Programar em 2026" | Alto |
+| Harvard troca ChatGPT pelo Claude | "Harvard Trocou ChatGPT pelo Claude — O Que Isso Muda Para Você" | Alto |
+| Europol 5 tendências cibercrime IA 2026 | "As 5 Formas que a IA Está Sendo Usada Para Te Atacar em 2026 — Segundo a Europol" | Alto |
 
 ---
 
@@ -413,3 +434,4 @@ Evitar:
 | 2026-04-27 | 2.2.0 | 4 novos ângulos quentes (Google $40 bi concentração de poder, stack completo IA criadores, IA corta 93% mas maioria usa errado, Claude Design teste ao vivo); 4 novos termos de busca (ARR Anthropic $30bi, Claude Design vs Canva, stack IA criadores completo, IA 93% tempo criação); 2 novos exemplos de roteiros |
 | 2026-04-28 | 2.3.0 | 4 novos ângulos quentes (YouTube Gemini AI janela viral 24–36h, fandom supera viral no algoritmo, 67% micro SaaS sem programar, agentes autônomos US$ 8,5 bi); 5 novos termos de busca (Gemini AI algoritmo YouTube, janela viral 24h, fandom nicho YouTube, micro SaaS 30 dias sem programar, agentes autônomos mercado bilhões); 2 novos exemplos de roteiros |
 | 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
+| 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
