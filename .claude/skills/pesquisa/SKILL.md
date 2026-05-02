@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.5.0
-atualizado: 2026-04-30
+versao: 2.6.0
+atualizado: 2026-05-02
 tags:
   - skill
   - pesquisa
@@ -54,6 +54,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Mythos zero-day vulnerabilidades [ANO]"`
 - `"Project Glasswing RCE FreeBSD zero-day [ANO]"`
 - `"Claude Mythos vulnerabilidades cibersegurança [ANO]"`
+- `"Claude Security beta público enterprise [ANO]"`
+- `"Claude Security codebase scanner patch IA [ANO]"`
+- `"Anthropic Claude Security vs Snyk Veracode [ANO]"`
+- `"Claude Security SAST DAST raciocínio LLM [ANO]"`
 - `"Anthropic Departamento Defesa contrato [ANO]"`
 - `"IA militar segurança ofensiva [ANO]"`
 - `"AI agentes autônomos infraestrutura [ANO]"`
@@ -178,6 +182,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 2 de maio 2026
+
+65. **"Claude Security em beta público: a IA que escaneia seu código e gera o patch em minutos"** — evento 30/04 (< 72h), disponível Enterprise já e Team/Max em breve, pouquíssimo PT-BR, impacto direto para devs e founders de micro SaaS
+66. **"De US$ 15 bi a US$ 60 bi em 6 anos: a janela do micro SaaS está aberta — e vai fechar"** — dado CAGR 30% + 67% startups 2026 + 95% PME BR sem SaaS = convergência de oportunidade única, série de episódios, alta retenção
+67. **"IA nativa vs. IA como feature: a única decisão que vai decidir se seu SaaS sobrevive em 2026"** — conceito técnico acessível, polarizante, evergreen, diferenciação estratégica clara
+68. **"87% dos criadores já usam IA — o stack completo que eles usam para produzir em 2026"** — dado atualizado, tutorial prático de alta retenção, Opus Clip + Runway + Claude + CapCut
 
 ### Ângulos quentes em 30 de abril 2026
 
@@ -413,6 +424,8 @@ Evitar:
 | Micro SaaS IA nativa roteiro 30 dias | "De R$ 0 a R$ 10k/mês: Como Criar um Micro SaaS com IA Sem Saber Programar em 2026" | Alto |
 | Harvard troca ChatGPT pelo Claude | "Harvard Trocou ChatGPT pelo Claude — O Que Isso Muda Para Você" | Alto |
 | Europol 5 tendências cibercrime IA 2026 | "As 5 Formas que a IA Está Sendo Usada Para Te Atacar em 2026 — Segundo a Europol" | Alto |
+| Claude Security beta público | "Claude Security: a IA que Hackers Temem — e Que Vai Defender o Seu Sistema" | Alto |
+| Micro SaaS IA nativa janela $60bi | "De US$ 15 bi a US$ 60 bi em 6 Anos: a Janela do Micro SaaS está Aberta — e Vai Fechar" | Alto |
 
 ---
 
@@ -435,3 +448,4 @@ Evitar:
 | 2026-04-28 | 2.3.0 | 4 novos ângulos quentes (YouTube Gemini AI janela viral 24–36h, fandom supera viral no algoritmo, 67% micro SaaS sem programar, agentes autônomos US$ 8,5 bi); 5 novos termos de busca (Gemini AI algoritmo YouTube, janela viral 24h, fandom nicho YouTube, micro SaaS 30 dias sem programar, agentes autônomos mercado bilhões); 2 novos exemplos de roteiros |
 | 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
 | 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
+| 2026-05-02 | 2.6.0 | 4 novos ângulos quentes (Claude Security beta público Enterprise, micro SaaS janela $60bi CAGR 30%, IA nativa vs feature, stack criadores 87% adoção); 4 novos termos de busca (Claude Security scanner, patch IA, vs Snyk/Veracode, SAST DAST LLM); 2 novos exemplos de roteiros (Claude Security + Micro SaaS IA nativa) |
