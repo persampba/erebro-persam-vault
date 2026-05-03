@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.6.0
-atualizado: 2026-05-02
+versao: 2.7.0
+atualizado: 2026-05-03
 tags:
   - skill
   - pesquisa
@@ -75,6 +75,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Harvard ChatGPT Claude substituição [ANO]"`
 - `"universidades adoção Claude Anthropic [ANO]"`
 - `"Harvard FAS Anthropic ChatGPT Edu [ANO]"`
+- `"Claude Autodesk Fusion design 3D CAD [ANO]"`
+- `"Claude para trabalho criativo conectores CAD [ANO]"`
+- `"Claude nova constituição valores [ANO]"`
+- `"computacao quantica IBM marco classico [ANO]"`
+- `"US$ 700 bilhoes infraestrutura IA big tech [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -108,6 +113,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 ### Micro SaaS e Empreendedorismo Digital
 
 - `"micro SaaS crescimento [ANO] Brasil"`
+- `"AI wrapper micro SaaS falha 90 porcento [ANO]"`
+- `"vertical SaaS CAGR crescimento horizontal [ANO]"`
+- `"micro SaaS IA nativa vs AI wrapper diferenca [ANO]"`
 - `"micro SaaS mercado bilhões CAGR [ANO]"`
 - `"micro SaaS ideias lucrativas [ANO]"`
 - `"PME brasileira adoção SaaS percentual [ANO]"`
@@ -182,6 +190,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 3 de maio 2026
+
+69. **"Claude Agora Cria Modelos 3D no Autodesk Fusion — O Fim do CAD Tradicional?"** — conector lançado em 01/05 (< 48h), parte do ecossistema "Claude para Trabalho Criativo", pouquíssimo PT-BR sobre Fusion especificamente, impacto direto para engenheiros, makers, arquitetos e founders de hardware, disponível em planos acessíveis
+70. **"90% dos Micro SaaS com IA Vão Falhar — O Que Separa os 10% que Sobrevivem"** — dado impactante e verificável (60-70% zero receita), polarizante, evergreen, educacional, acionável, conecta com tendência de vertical SaaS crescendo 2-3x mais rápido que horizontal
+71. **"US$ 700 Bilhões em Infraestrutura de IA em 2026 — O Que Esse Número Absurdo Significa na Prática"** — dado de investimento combinado big techs, contexto estratégico, potencial de série
+72. **"IBM Prevê 2026 Como o Ano em que Computação Quântica Supera Clássica — e o Que Isso Muda Para Você"** — marco histórico projetado, pouco PT-BR técnico acessível, ângulo de impacto prático
 
 ### Ângulos quentes em 2 de maio 2026
 
@@ -426,6 +441,8 @@ Evitar:
 | Europol 5 tendências cibercrime IA 2026 | "As 5 Formas que a IA Está Sendo Usada Para Te Atacar em 2026 — Segundo a Europol" | Alto |
 | Claude Security beta público | "Claude Security: a IA que Hackers Temem — e Que Vai Defender o Seu Sistema" | Alto |
 | Micro SaaS IA nativa janela $60bi | "De US$ 15 bi a US$ 60 bi em 6 Anos: a Janela do Micro SaaS está Aberta — e Vai Fechar" | Alto |
+| Claude + Autodesk Fusion CAD 3D | "Claude Agora Cria Modelos 3D no Autodesk Fusion — O Fim do CAD Tradicional?" | Alto |
+| AI wrappers 90% falha vertical SaaS | "90% dos Micro SaaS com IA Vão Falhar — O Que Separa os 10% que Sobrevivem" | Alto |
 
 ---
 
@@ -449,3 +466,4 @@ Evitar:
 | 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
 | 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
 | 2026-05-02 | 2.6.0 | 4 novos ângulos quentes (Claude Security beta público Enterprise, micro SaaS janela $60bi CAGR 30%, IA nativa vs feature, stack criadores 87% adoção); 4 novos termos de busca (Claude Security scanner, patch IA, vs Snyk/Veracode, SAST DAST LLM); 2 novos exemplos de roteiros (Claude Security + Micro SaaS IA nativa) |
+| 2026-05-03 | 2.7.0 | 4 novos ângulos quentes (Claude + Autodesk Fusion CAD 3D, 90% AI wrappers vão falhar, vertical SaaS 2-3x CAGR, IBM quântico supera clássico); 8 novos termos de busca (Claude Fusion CAD, AI wrapper falha, vertical SaaS CAGR, IA nativa vs wrapper, IBM quantum, computação quântica marco, US$ 700bi infraestrutura); 2 novos exemplos de roteiros; nova categoria de termos na seção Micro SaaS |
