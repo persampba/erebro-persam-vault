@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.7.0
-atualizado: 2026-05-03
+versao: 2.8.0
+atualizado: 2026-05-04
 tags:
   - skill
   - pesquisa
@@ -80,6 +80,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude nova constituição valores [ANO]"`
 - `"computacao quantica IBM marco classico [ANO]"`
 - `"US$ 700 bilhoes infraestrutura IA big tech [ANO]"`
+- `"Anthropic escritório Brasil São Paulo [ANO]"`
+- `"Anthropic AI Festival Brasil StartSe [ANO]"`
+- `"Brasil terceiro maior mercado Claude Anthropic [ANO]"`
+- `"Anthropic parceiros Brasil programa regional [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -143,6 +147,7 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"stack IA criadores conteúdo completo [ANO]"`
 - `"IA corta 93 por cento tempo criação criadores [ANO]"`
 - `"edição de vídeo IA [ANO]"`
+- `"Descript edição podcast texto transcrição [ANO]"`
 - `"Descript alternativas [ANO]"`
 - `"Runway Gen [versão] review"`
 - `"Google Veo [versão] novidades"`
@@ -190,6 +195,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 4 de maio 2026
+
+73. **"A Anthropic Está Vindo ao Brasil — e o Que Isso Muda Para Você"** — escritório em SP confirmado, AI Festival 13-14/05 em São Paulo, Brasil = 3º mercado global do Claude (atrás apenas de EUA e Índia), janela de 18-36 meses para posicionamento de criadores/founders BR, pouquíssimo PT-BR sobre impacto local
+74. **"O Stack Completo de IA para Criadores em 2026 (85% Já Usam — e os 15% Estão Perdendo Dinheiro)"** — dado de 85% verificável (ante 61% em 2023), tutorial prático com 5 ferramentas reais (Claude + Runway + Opus Clip + HeyGen + Descript), alta retenção, evergreen com potencial de série por ferramenta
+75. **"Por Que Vídeos Amadores Viralizaram Mais que Vídeos Produzidos em 2026"** — autenticidade como vantagem competitiva, dado de 83,5% das marcas usando IA, contraste entre polimento e engajamento real
+76. **"Plataformas Multimodais Vão Substituir Seu Stack de 5 Ferramentas — e Você Precisa Estar Pronto"** — convergência de texto + vídeo + áudio em 2026, tendência com janela de adaptação, evergreen estratégico
 
 ### Ângulos quentes em 3 de maio 2026
 
@@ -443,6 +455,8 @@ Evitar:
 | Micro SaaS IA nativa janela $60bi | "De US$ 15 bi a US$ 60 bi em 6 Anos: a Janela do Micro SaaS está Aberta — e Vai Fechar" | Alto |
 | Claude + Autodesk Fusion CAD 3D | "Claude Agora Cria Modelos 3D no Autodesk Fusion — O Fim do CAD Tradicional?" | Alto |
 | AI wrappers 90% falha vertical SaaS | "90% dos Micro SaaS com IA Vão Falhar — O Que Separa os 10% que Sobrevivem" | Alto |
+| Anthropic escritório Brasil + AI Festival SP | "A Anthropic Está Vindo ao Brasil — e o Que Isso Muda Para Você" | Alto |
+| Stack IA criadores 85% adoção + 5 ferramentas | "O Stack Completo de IA para Criadores em 2026 (85% Já Usam — e os 15% Estão Perdendo Dinheiro)" | Alto |
 
 ---
 
@@ -467,3 +481,4 @@ Evitar:
 | 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
 | 2026-05-02 | 2.6.0 | 4 novos ângulos quentes (Claude Security beta público Enterprise, micro SaaS janela $60bi CAGR 30%, IA nativa vs feature, stack criadores 87% adoção); 4 novos termos de busca (Claude Security scanner, patch IA, vs Snyk/Veracode, SAST DAST LLM); 2 novos exemplos de roteiros (Claude Security + Micro SaaS IA nativa) |
 | 2026-05-03 | 2.7.0 | 4 novos ângulos quentes (Claude + Autodesk Fusion CAD 3D, 90% AI wrappers vão falhar, vertical SaaS 2-3x CAGR, IBM quântico supera clássico); 8 novos termos de busca (Claude Fusion CAD, AI wrapper falha, vertical SaaS CAGR, IA nativa vs wrapper, IBM quantum, computação quântica marco, US$ 700bi infraestrutura); 2 novos exemplos de roteiros; nova categoria de termos na seção Micro SaaS |
+| 2026-05-04 | 2.8.0 | 4 novos ângulos quentes (Anthropic escritório Brasil + AI Festival SP, stack IA criadores 85% adoção, autenticidade vídeos virais, convergência multimodal); 5 novos termos de busca (Anthropic Brasil SP, AI Festival StartSe, 3º mercado Claude, Anthropic parceiros BR, Descript edição podcast); 2 novos exemplos de roteiros |
