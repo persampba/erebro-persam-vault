@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.6.0
-atualizado: 2026-05-02
+versao: 2.7.0
+atualizado: 2026-05-05
 tags:
   - skill
   - pesquisa
@@ -71,6 +71,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude atualizações lançamentos por dia [ANO]"`
 - `"Anthropic 74 atualizações 52 dias [ANO]"`
 - `"Anthropic ARR US$ 30 bilhões crescimento [ANO]"`
+- `"Anthropic joint venture Goldman Sachs Blackstone [ANO]"`
+- `"Anthropic Claude Wall Street consultoria [ANO]"`
+- `"Anthropic joint venture saúde manufatura financeiro [ANO]"`
+- `"Claude adoção empresarial médio porte implementação [ANO]"`
 - `"Claude Design vs Canva protótipo mockup [ANO]"`
 - `"Harvard ChatGPT Claude substituição [ANO]"`
 - `"universidades adoção Claude Anthropic [ANO]"`
@@ -96,6 +100,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"como viralizar YouTube [ANO]"`
 - `"branded content marketing invisível [ANO]"`
 - `"taxa de retenção YouTube algoritmo [ANO]"`
+- `"taxa de permanência inicial YouTube 30 segundos [ANO]"`
+- `"YouTube Gemini AI análise frame conteúdo [ANO]"`
+- `"gancho vídeo YouTube primeiros segundos algoritmo [ANO]"`
 - `"thumbnails que mais convertem YouTube [ANO]"`
 - `"shorts versus vídeos longos YouTube [ANO]"`
 - `"monetização YouTube criadores [ANO]"`
@@ -182,6 +189,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 5 de maio 2026
+
+69. **"A Anthropic foi dentro das empresas — e trouxe Goldman Sachs e Blackstone junto"** — joint venture de US$ 1,5 bi anunciada em 04/05 (< 24h), parceiros: Goldman Sachs, Blackstone, Hellman & Friedman; foco em saúde, manufatura e financeiro; modelo de embedded engineers inédito; zero PT-BR no momento da pesquisa; disruptivo para consultoria tradicional (Accenture, McKinsey)
+70. **"Os primeiros 30 segundos que decidem se o seu vídeo viraliza — o algoritmo do YouTube em 2026"** — dado de permanência inicial como métrica decisiva, integração Gemini AI frame a frame desde jan/2026, framework PCC (Provocação-Credencial-Contrato), evergreen e tutorialável, aplicação imediata para qualquer criador BR
 
 ### Ângulos quentes em 2 de maio 2026
 
@@ -426,6 +438,8 @@ Evitar:
 | Europol 5 tendências cibercrime IA 2026 | "As 5 Formas que a IA Está Sendo Usada Para Te Atacar em 2026 — Segundo a Europol" | Alto |
 | Claude Security beta público | "Claude Security: a IA que Hackers Temem — e Que Vai Defender o Seu Sistema" | Alto |
 | Micro SaaS IA nativa janela $60bi | "De US$ 15 bi a US$ 60 bi em 6 Anos: a Janela do Micro SaaS está Aberta — e Vai Fechar" | Alto |
+| Anthropic joint venture Goldman Sachs Blackstone $1,5bi | "A Anthropic Decidiu Ir Dentro das Empresas — e Trouxe Goldman Sachs e Blackstone Junto" | Alto |
+| YouTube taxa permanência inicial 30s Gemini AI | "Os Primeiros 30 Segundos Que Decidem Se o Seu Vídeo Viraliza — O Algoritmo do YouTube em 2026" | Alto |
 
 ---
 
@@ -449,3 +463,4 @@ Evitar:
 | 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
 | 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
 | 2026-05-02 | 2.6.0 | 4 novos ângulos quentes (Claude Security beta público Enterprise, micro SaaS janela $60bi CAGR 30%, IA nativa vs feature, stack criadores 87% adoção); 4 novos termos de busca (Claude Security scanner, patch IA, vs Snyk/Veracode, SAST DAST LLM); 2 novos exemplos de roteiros (Claude Security + Micro SaaS IA nativa) |
+| 2026-05-05 | 2.7.0 | 2 novos ângulos quentes (Anthropic joint venture $1,5bi Goldman Sachs/Blackstone < 24h, YouTube taxa permanência inicial 30s + Gemini AI frame-a-frame + framework PCC); 9 novos termos de busca (Anthropic joint venture Wall Street, Claude adoção empresarial, taxa permanência inicial 30s, Gemini AI análise frame, gancho vídeo algoritmo); 2 novos exemplos de roteiros |
