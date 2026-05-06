@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.9.0
-atualizado: 2026-05-05
+versao: 3.0.0
+atualizado: 2026-05-06
 tags:
   - skill
   - pesquisa
@@ -88,6 +88,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic AI Festival Brasil StartSe [ANO]"`
 - `"Brasil terceiro maior mercado Claude Anthropic [ANO]"`
 - `"Anthropic parceiros Brasil programa regional [ANO]"`
+- `"Anthropic agentes financeiros Wall Street bancos [ANO]"`
+- `"Anthropic joint venture Goldman Sachs Blackstone bancos médio porte [ANO]"`
+- `"Claude Code Auto Mode approval gates autônomo [ANO]"`
+- `"Dario Amodei vulnerabilidades cibernéticas janela meses [ANO]"`
+- `"Claude Microsoft 365 integração financeiro [ANO]"`
+- `"Claude agentes bancários KYC pitch builder earnings [ANO]"`
+- `"embedded engineers consultoria IA Anthropic [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -202,6 +209,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 6 de maio 2026
+
+79. **"A Anthropic Tomou Wall Street — e Dario Amodei Diz que Temos 6 a 12 Meses Para Evitar o Caos Cibernético"** — joint venture US$ 1,5 bi (04-05/05, < 48h), 10 agentes pré-construídos para bancos (pitch builder, KYC, auditor financeiro, reconciliador de razão geral, fechador de mês etc.), integração completa Microsoft 365, modelo inédito de "embedded engineers" que ameaça consultorias tradicionais (Accenture, McKinsey), mais alerta explosivo de Dario na CNBC sobre dezenas de milhares de vulnerabilidades e janela crítica de 6-12 meses; zero PT-BR no momento; combina Wall Street + segurança + impacto prático para devs e founders brasileiros
+80. **"Claude Code Auto Mode: Seu Agente Escreve o Código — Você Só Aprova"** — lançado em maio/26, fluxos multi-etapas com execução autônoma e "approval gates" configuráveis, novo paradigma dev onde o Claude executa sozinho e para apenas em decisões críticas (push, merge, deploy), impacto direto para devs solo e founders de micro SaaS, pouco PT-BR técnico sobre o tema; ângulo de antes/depois muito forte
+
 
 ### Ângulos quentes em 5 de maio 2026
 
@@ -471,6 +484,8 @@ Evitar:
 | Stack IA criadores 85% adoção + 5 ferramentas | "O Stack Completo de IA para Criadores em 2026 (85% Já Usam — e os 15% Estão Perdendo Dinheiro)" | Alto |
 | Anthropic joint venture Goldman Sachs Blackstone $1,5bi | "A Anthropic Decidiu Ir Dentro das Empresas — e Trouxe Goldman Sachs e Blackstone Junto" | Alto |
 | YouTube taxa permanência inicial 30s Gemini AI | "Os Primeiros 30 Segundos Que Decidem Se o Seu Vídeo Viraliza — O Algoritmo do YouTube em 2026" | Alto |
+| Anthropic Wall Street agentes financeiros + alerta Dario Amodei | "A Anthropic Tomou Wall Street — e Dario Amodei Diz que Temos 6 Meses Para Evitar o Caos Cibernético" | Alto |
+| Claude Code Auto Mode approval gates | "Claude Code Auto Mode: Seu Agente Escreve o Código — Você Só Aprova" | Alto |
 
 ---
 
@@ -497,3 +512,4 @@ Evitar:
 | 2026-05-03 | 2.7.0 | 4 novos ângulos quentes (Claude + Autodesk Fusion CAD 3D, 90% AI wrappers vão falhar, vertical SaaS 2-3x CAGR, IBM quântico supera clássico); 8 novos termos de busca (Claude Fusion CAD, AI wrapper falha, vertical SaaS CAGR, IA nativa vs wrapper, IBM quantum, computação quântica marco, US$ 700bi infraestrutura); 2 novos exemplos de roteiros; nova categoria de termos na seção Micro SaaS |
 | 2026-05-04 | 2.8.0 | 4 novos ângulos quentes (Anthropic escritório Brasil + AI Festival SP, stack IA criadores 85% adoção, autenticidade vídeos virais, convergência multimodal); 5 novos termos de busca (Anthropic Brasil SP, AI Festival StartSe, 3º mercado Claude, Anthropic parceiros BR, Descript edição podcast); 2 novos exemplos de roteiros |
 | 2026-05-05 | 2.9.0 | 2 novos ângulos quentes (Anthropic joint venture $1,5bi Goldman Sachs/Blackstone < 24h, YouTube 30s taxa permanência inicial + Gemini AI frame-a-frame + framework PCC); 9 novos termos de busca (Anthropic joint venture Wall Street, Claude adoção empresarial médio porte, taxa permanência inicial 30s, Gemini AI análise frame, gancho vídeo algoritmo); 2 novos exemplos de roteiros; merge com v2.8.0 preservando todos os ângulos e exemplos |
+| 2026-05-06 | 3.0.0 | 2 novos ângulos quentes (Anthropic Wall Street + 10 agentes financeiros + alerta Dario Amodei 6-12 meses de janela cibernética, Claude Code Auto Mode com approval gates); 8 novos termos de busca (agentes financeiros Wall Street, joint venture Goldman Sachs Blackstone, Claude Code Auto Mode, Dario Amodei vulnerabilidades, integração Microsoft 365, KYC pitch builder, embedded engineers); 2 novos exemplos de roteiros; versão major 3.0.0 pela primeira vez que um conjunto de ângulos une segurança + finanças + Wall Street num único evento de 48h |
