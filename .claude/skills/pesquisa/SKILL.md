@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.0.0
-atualizado: 2026-05-06
+versao: 3.1.0
+atualizado: 2026-05-07
 tags:
   - skill
   - pesquisa
@@ -95,6 +95,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Microsoft 365 integração financeiro [ANO]"`
 - `"Claude agentes bancários KYC pitch builder earnings [ANO]"`
 - `"embedded engineers consultoria IA Anthropic [ANO]"`
+- `"Anthropic SpaceX Colossus compute GPUs [ANO]"`
+- `"Anthropic IPO junho bolsa Nasdaq [ANO]"`
+- `"Claude Opus 4.7 visão resolução código [ANO]"`
+- `"Anthropic receita 80x crescimento Q1 [ANO]"`
+- `"Claude Code rate limits dobrados [ANO]"`
+- `"Dario Amodei compute gargalo crescimento [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -154,6 +160,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"indie hacker Brasil histórias [ANO]"`
 - `"build in public [ANO] exemplo"`
 - `"bootstrapped SaaS [ANO] receita"`
+- `"micro SaaS MEI financeiro automação Brasil [ANO]"`
+- `"freemium SaaS R$ 29 R$ 49 PME brasileira [ANO]"`
+- `"Lovable Bolt no-code SaaS MVP [ANO]"`
+- `"MEI obrigações DAS nota fiscal automação [ANO]"`
 
 ### Ferramentas para Criadores
 
@@ -180,6 +190,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube Shorts avatar IA criador"`
 - `"YouTube rotulagem conteúdo sintetico [ANO]"`
 - `"YouTube CEO carta criadores [ANO]"`
+- `"credibilidade criador YouTube algoritmo [ANO]"`
+- `"autenticidade vs producao polida YouTube engajamento [ANO]"`
+- `"YouTube volume espetaculo vs credibilidade [ANO]"`
 
 ### Tendências Gerais de Tecnologia
 
@@ -209,6 +222,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 7 de maio 2026
+
+81. **"A Anthropic Fechou com a SpaceX — e o Que Isso Muda Para Quem Usa Claude"** — acordo Anthropic + SpaceX anunciado em 06/05 (< 24h), acesso ao Colossus 1 com 220k GPUs NVIDIA em Memphis, Claude Code com rate limits dobrados imediatamente, Dario Amodei confirma compute era o gargalo, receita cresceu 80x no Q1/2026, IPO em junho se aproxima — quase zero PT-BR, impacto direto e imediato para devs e usuários Claude Code no Brasil
+82. **"5% das Empresas Brasileiras Usam SaaS — Como Capturar Esse Mercado com IA em 30 Dias"** — dado local de 5% de penetração SaaS em PMEs, 3,9 milhões de novas empresas (97,6% micro/pequenas), MEI financeiro como nicho de entrada validado, freemium R$ 29–49/mês como modelo com menor barreira, IA (Claude + Lovable + Supabase) permite solo founder fazer trabalho de 5 devs, evergreen com potencial de série de 4+ episódios
 
 ### Ângulos quentes em 6 de maio 2026
 
@@ -486,6 +504,8 @@ Evitar:
 | YouTube taxa permanência inicial 30s Gemini AI | "Os Primeiros 30 Segundos Que Decidem Se o Seu Vídeo Viraliza — O Algoritmo do YouTube em 2026" | Alto |
 | Anthropic Wall Street agentes financeiros + alerta Dario Amodei | "A Anthropic Tomou Wall Street — e Dario Amodei Diz que Temos 6 Meses Para Evitar o Caos Cibernético" | Alto |
 | Claude Code Auto Mode approval gates | "Claude Code Auto Mode: Seu Agente Escreve o Código — Você Só Aprova" | Alto |
+| Anthropic + SpaceX + 220k GPUs + IPO junho + 80x receita | "A Anthropic Fechou com a SpaceX — e o Que Isso Muda Para Quem Usa Claude" | Alto |
+| Micro SaaS MEI Brasil 5% penetração SaaS + roteiro 30 dias | "5% das Empresas Brasileiras Usam SaaS — Como Capturar Esse Mercado com IA em 30 Dias" | Alto |
 
 ---
 
@@ -513,3 +533,4 @@ Evitar:
 | 2026-05-04 | 2.8.0 | 4 novos ângulos quentes (Anthropic escritório Brasil + AI Festival SP, stack IA criadores 85% adoção, autenticidade vídeos virais, convergência multimodal); 5 novos termos de busca (Anthropic Brasil SP, AI Festival StartSe, 3º mercado Claude, Anthropic parceiros BR, Descript edição podcast); 2 novos exemplos de roteiros |
 | 2026-05-05 | 2.9.0 | 2 novos ângulos quentes (Anthropic joint venture $1,5bi Goldman Sachs/Blackstone < 24h, YouTube 30s taxa permanência inicial + Gemini AI frame-a-frame + framework PCC); 9 novos termos de busca (Anthropic joint venture Wall Street, Claude adoção empresarial médio porte, taxa permanência inicial 30s, Gemini AI análise frame, gancho vídeo algoritmo); 2 novos exemplos de roteiros; merge com v2.8.0 preservando todos os ângulos e exemplos |
 | 2026-05-06 | 3.0.0 | 2 novos ângulos quentes (Anthropic Wall Street + 10 agentes financeiros + alerta Dario Amodei 6-12 meses de janela cibernética, Claude Code Auto Mode com approval gates); 8 novos termos de busca (agentes financeiros Wall Street, joint venture Goldman Sachs Blackstone, Claude Code Auto Mode, Dario Amodei vulnerabilidades, integração Microsoft 365, KYC pitch builder, embedded engineers); 2 novos exemplos de roteiros; versão major 3.0.0 pela primeira vez que um conjunto de ângulos une segurança + finanças + Wall Street num único evento de 48h |
+| 2026-05-07 | 3.1.0 | 2 novos ângulos quentes (Anthropic + SpaceX Colossus 1 / 220k GPUs / Claude Code dobrado / IPO junho / receita 80x Q1, Micro SaaS MEI brasileiro / 5% penetração SaaS / roteiro 30 dias / freemium R$ 29–49); 12 novos termos de busca (Anthropic SpaceX Colossus, IPO Nasdaq, Opus 4.7 visão código, receita 80x Q1, rate limits dobrados, compute gargalo, MEI DAS nota fiscal automação, freemium PME brasileira, Lovable Bolt MVP, credibilidade YouTube algoritmo, autenticidade vs produção polida, volume espetáculo vs credibilidade); 2 novos exemplos de roteiros; descoberta do dia: credibilidade como moat no YouTube em maio/2026 supera produção polida — ângulo inédito para criadores BR |
