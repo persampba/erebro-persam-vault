@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.2.0
-atualizado: 2026-05-08
+versao: 3.3.0
+atualizado: 2026-05-09
 tags:
   - skill
   - pesquisa
@@ -108,6 +108,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Managed Agents novidades [MÊS] [ANO]"`
 - `"IA vertical modelos especializados nicho [ANO]"`
 - `"eficiência energética modelos IA menores [ANO]"`
+- `"Anthropic valuation $1 trillion enterprise race OpenAI [ANO]"`
+- `"Claude Developer Conference [ANO] autonomous software engineering recap"`
+- `"Code with Claude SF [ANO] conferência keynote anúncios"`
+- `"Claude nova constituição valores princípios [ANO]"`
+- `"autonomous software engineering agentes [ANO]"`
+- `"Anthropic embedded engineers enterprise contrato [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -229,6 +235,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 9 de maio 2026
+
+85. **"Anthropic Vai Valer US$ 1 Trilhão — O Que Acontece Quando Uma IA Vale Mais Que a Petrobras"** — Anthropic se aproximando de US$ 1 tri de valuation (saiu de US$ 4 bi em 2023); corrida enterprise contra OpenAI; receita cresceu 80x no Q1/26; modelo embedded engineers ameaça consultoria tradicional; comparação com Petrobras (R$ 450 bi) é ângulo local muito poderoso para audiência BR; zero PT-BR com esse ângulo de impacto prático local
+86. **"Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma"** — Code with Claude SF 2026 recap; Dreaming (agente aprende com sessões passadas agendado); orquestração multiagente (líder + sub-agentes especializados em paralelo); Auto Mode com approval gates; rate limits dobrados por acordo SpaceX; novo app desktop com barra lateral, drag-and-drop, terminal, editor; zero PT-BR de qualidade sobre a conferência; janela < 48h
 
 ### Ângulos quentes em 8 de maio 2026
 
@@ -520,6 +531,8 @@ Evitar:
 | Micro SaaS MEI Brasil 5% penetração SaaS + roteiro 30 dias | "5% das Empresas Brasileiras Usam SaaS — Como Capturar Esse Mercado com IA em 30 Dias" | Alto |
 | Claude Managed Agents Dreaming + orquestração multiagente Code with Claude SF 2026 | "Claude 'Sonha' Para Ficar Mais Inteligente — O Que É o Dreaming e Por Que Muda Tudo" | Alto |
 | Stack IA criadores 85% adoção 5 ferramentas sem patrocínio | "O Stack Completo de IA para Criadores em 2026 — O Que Realmente Funciona (Sem Patrocínio)" | Alto |
+| Anthropic US$ 1 tri valuation enterprise race OpenAI embedded engineers | "Anthropic Vai Valer US$ 1 Trilhão — O Que Acontece Quando Uma IA Vale Mais Que a Petrobras" | Alto |
+| Code with Claude SF 2026 conferência Dreaming multiagentes Auto Mode rate limits dobrados | "Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma em 10 Minutos" | Alto |
 
 ---
 
@@ -549,3 +562,4 @@ Evitar:
 | 2026-05-06 | 3.0.0 | 2 novos ângulos quentes (Anthropic Wall Street + 10 agentes financeiros + alerta Dario Amodei 6-12 meses de janela cibernética, Claude Code Auto Mode com approval gates); 8 novos termos de busca (agentes financeiros Wall Street, joint venture Goldman Sachs Blackstone, Claude Code Auto Mode, Dario Amodei vulnerabilidades, integração Microsoft 365, KYC pitch builder, embedded engineers); 2 novos exemplos de roteiros; versão major 3.0.0 pela primeira vez que um conjunto de ângulos une segurança + finanças + Wall Street num único evento de 48h |
 | 2026-05-07 | 3.1.0 | 2 novos ângulos quentes (Anthropic + SpaceX Colossus 1 / 220k GPUs / Claude Code dobrado / IPO junho / receita 80x Q1, Micro SaaS MEI brasileiro / 5% penetração SaaS / roteiro 30 dias / freemium R$ 29–49); 12 novos termos de busca (Anthropic SpaceX Colossus, IPO Nasdaq, Opus 4.7 visão código, receita 80x Q1, rate limits dobrados, compute gargalo, MEI DAS nota fiscal automação, freemium PME brasileira, Lovable Bolt MVP, credibilidade YouTube algoritmo, autenticidade vs produção polida, volume espetáculo vs credibilidade); 2 novos exemplos de roteiros; descoberta do dia: credibilidade como moat no YouTube em maio/2026 supera produção polida — ângulo inédito para criadores BR |
 | 2026-05-08 | 3.2.0 | 2 novos ângulos quentes (Claude Managed Agents "Dreaming" < 24h — agente aprende sozinho via processo agendado de análise de sessões, conferência Code with Claude SF 2026; Stack IA criadores 5 ferramentas sem patrocínio — dado 85% adoção, Opus Clip + Runway + HeyGen + CapCut + Claude); 9 novos termos de busca (Dreaming Managed Agents, orquestração multiagente, Code with Claude SF 2026, Claude agente memória persistente, IA vertical nicho, eficiência energética modelos menores); 2 novos exemplos de roteiros; descoberta do dia: feature "Dreaming" é conceito com metáfora poderosa (agente que sonha para aprender) — zero PT-BR e janela < 24h, potencial viral alto para canal de devs/founders |
+| 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
