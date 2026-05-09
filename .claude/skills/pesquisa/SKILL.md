@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 2.6.0
-atualizado: 2026-05-02
+versao: 3.3.0
+atualizado: 2026-05-09
 tags:
   - skill
   - pesquisa
@@ -71,10 +71,49 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude atualizações lançamentos por dia [ANO]"`
 - `"Anthropic 74 atualizações 52 dias [ANO]"`
 - `"Anthropic ARR US$ 30 bilhões crescimento [ANO]"`
+- `"Anthropic joint venture Goldman Sachs Blackstone [ANO]"`
+- `"Anthropic Claude Wall Street consultoria [ANO]"`
+- `"Anthropic joint venture saúde manufatura financeiro [ANO]"`
+- `"Claude adoção empresarial médio porte implementação [ANO]"`
 - `"Claude Design vs Canva protótipo mockup [ANO]"`
 - `"Harvard ChatGPT Claude substituição [ANO]"`
 - `"universidades adoção Claude Anthropic [ANO]"`
 - `"Harvard FAS Anthropic ChatGPT Edu [ANO]"`
+- `"Claude Autodesk Fusion design 3D CAD [ANO]"`
+- `"Claude para trabalho criativo conectores CAD [ANO]"`
+- `"Claude nova constituição valores [ANO]"`
+- `"computacao quantica IBM marco classico [ANO]"`
+- `"US$ 700 bilhoes infraestrutura IA big tech [ANO]"`
+- `"Anthropic escritório Brasil São Paulo [ANO]"`
+- `"Anthropic AI Festival Brasil StartSe [ANO]"`
+- `"Brasil terceiro maior mercado Claude Anthropic [ANO]"`
+- `"Anthropic parceiros Brasil programa regional [ANO]"`
+- `"Anthropic agentes financeiros Wall Street bancos [ANO]"`
+- `"Anthropic joint venture Goldman Sachs Blackstone bancos médio porte [ANO]"`
+- `"Claude Code Auto Mode approval gates autônomo [ANO]"`
+- `"Dario Amodei vulnerabilidades cibernéticas janela meses [ANO]"`
+- `"Claude Microsoft 365 integração financeiro [ANO]"`
+- `"Claude agentes bancários KYC pitch builder earnings [ANO]"`
+- `"embedded engineers consultoria IA Anthropic [ANO]"`
+- `"Anthropic SpaceX Colossus compute GPUs [ANO]"`
+- `"Anthropic IPO junho bolsa Nasdaq [ANO]"`
+- `"Claude Opus 4.7 visão resolução código [ANO]"`
+- `"Anthropic receita 80x crescimento Q1 [ANO]"`
+- `"Claude Code rate limits dobrados [ANO]"`
+- `"Dario Amodei compute gargalo crescimento [ANO]"`
+- `"Claude Managed Agents Dreaming feature [ANO]"`
+- `"Claude Managed Agents orquestração multiagente [ANO]"`
+- `"Code with Claude SF 2026 conferência recap"`
+- `"Claude agente aprende sozinho memória persistente [ANO]"`
+- `"Claude Managed Agents novidades [MÊS] [ANO]"`
+- `"IA vertical modelos especializados nicho [ANO]"`
+- `"eficiência energética modelos IA menores [ANO]"`
+- `"Anthropic valuation $1 trillion enterprise race OpenAI [ANO]"`
+- `"Claude Developer Conference [ANO] autonomous software engineering recap"`
+- `"Code with Claude SF [ANO] conferência keynote anúncios"`
+- `"Claude nova constituição valores princípios [ANO]"`
+- `"autonomous software engineering agentes [ANO]"`
+- `"Anthropic embedded engineers enterprise contrato [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -96,6 +135,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"como viralizar YouTube [ANO]"`
 - `"branded content marketing invisível [ANO]"`
 - `"taxa de retenção YouTube algoritmo [ANO]"`
+- `"taxa de permanência inicial YouTube 30 segundos [ANO]"`
+- `"YouTube Gemini AI análise frame conteúdo [ANO]"`
+- `"gancho vídeo YouTube primeiros segundos algoritmo [ANO]"`
 - `"thumbnails que mais convertem YouTube [ANO]"`
 - `"shorts versus vídeos longos YouTube [ANO]"`
 - `"monetização YouTube criadores [ANO]"`
@@ -108,6 +150,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 ### Micro SaaS e Empreendedorismo Digital
 
 - `"micro SaaS crescimento [ANO] Brasil"`
+- `"AI wrapper micro SaaS falha 90 porcento [ANO]"`
+- `"vertical SaaS CAGR crescimento horizontal [ANO]"`
+- `"micro SaaS IA nativa vs AI wrapper diferenca [ANO]"`
 - `"micro SaaS mercado bilhões CAGR [ANO]"`
 - `"micro SaaS ideias lucrativas [ANO]"`
 - `"PME brasileira adoção SaaS percentual [ANO]"`
@@ -128,6 +173,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"indie hacker Brasil histórias [ANO]"`
 - `"build in public [ANO] exemplo"`
 - `"bootstrapped SaaS [ANO] receita"`
+- `"micro SaaS MEI financeiro automação Brasil [ANO]"`
+- `"freemium SaaS R$ 29 R$ 49 PME brasileira [ANO]"`
+- `"Lovable Bolt no-code SaaS MVP [ANO]"`
+- `"MEI obrigações DAS nota fiscal automação [ANO]"`
 
 ### Ferramentas para Criadores
 
@@ -135,6 +184,7 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"stack IA criadores conteúdo completo [ANO]"`
 - `"IA corta 93 por cento tempo criação criadores [ANO]"`
 - `"edição de vídeo IA [ANO]"`
+- `"Descript edição podcast texto transcrição [ANO]"`
 - `"Descript alternativas [ANO]"`
 - `"Runway Gen [versão] review"`
 - `"Google Veo [versão] novidades"`
@@ -153,6 +203,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube Shorts avatar IA criador"`
 - `"YouTube rotulagem conteúdo sintetico [ANO]"`
 - `"YouTube CEO carta criadores [ANO]"`
+- `"credibilidade criador YouTube algoritmo [ANO]"`
+- `"autenticidade vs producao polida YouTube engajamento [ANO]"`
+- `"YouTube volume espetaculo vs credibilidade [ANO]"`
 
 ### Tendências Gerais de Tecnologia
 
@@ -182,6 +235,46 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 9 de maio 2026
+
+85. **"Anthropic Vai Valer US$ 1 Trilhão — O Que Acontece Quando Uma IA Vale Mais Que a Petrobras"** — Anthropic se aproximando de US$ 1 tri de valuation (saiu de US$ 4 bi em 2023); corrida enterprise contra OpenAI; receita cresceu 80x no Q1/26; modelo embedded engineers ameaça consultoria tradicional; comparação com Petrobras (R$ 450 bi) é ângulo local muito poderoso para audiência BR; zero PT-BR com esse ângulo de impacto prático local
+86. **"Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma"** — Code with Claude SF 2026 recap; Dreaming (agente aprende com sessões passadas agendado); orquestração multiagente (líder + sub-agentes especializados em paralelo); Auto Mode com approval gates; rate limits dobrados por acordo SpaceX; novo app desktop com barra lateral, drag-and-drop, terminal, editor; zero PT-BR de qualidade sobre a conferência; janela < 48h
+
+### Ângulos quentes em 8 de maio 2026
+
+83. **"Claude 'Sonha' Para Ficar Mais Inteligente — O Que É o Dreaming e Por Que Muda Tudo"** — feature Dreaming anunciada em 07/05 na conferência Code with Claude SF 2026 (< 24h); processo agendado que analisa sessões passadas do agente, extrai padrões e reorganiza memórias para que o agente melhore autonomamente; orquestração multiagente também lançada (agente principal delega a sub-agentes especializados); zero PT-BR sobre o tema; impacto direto para devs e founders de micro SaaS; rate limits Claude Code dobrados pelo acordo SpaceX; metáfora de "sonho" é poderosa e fácil de comunicar
+84. **"O Stack Completo de IA para Criadores em 2026 — O Que Realmente Funciona (Sem Patrocínio)"** — dado de 85% de adoção (ante 61% em 3 anos), stack de 5 ferramentas (Claude + Opus Clip + Runway + HeyGen + CapCut), posicionamento honesto e sem afiliado como diferencial, foco em criador brasileiro, evergreen com alta retenção por ser tutorialável e acionável
+
+### Ângulos quentes em 7 de maio 2026
+
+81. **"A Anthropic Fechou com a SpaceX — e o Que Isso Muda Para Quem Usa Claude"** — acordo Anthropic + SpaceX anunciado em 06/05 (< 24h), acesso ao Colossus 1 com 220k GPUs NVIDIA em Memphis, Claude Code com rate limits dobrados imediatamente, Dario Amodei confirma compute era o gargalo, receita cresceu 80x no Q1/2026, IPO em junho se aproxima — quase zero PT-BR, impacto direto e imediato para devs e usuários Claude Code no Brasil
+82. **"5% das Empresas Brasileiras Usam SaaS — Como Capturar Esse Mercado com IA em 30 Dias"** — dado local de 5% de penetração SaaS em PMEs, 3,9 milhões de novas empresas (97,6% micro/pequenas), MEI financeiro como nicho de entrada validado, freemium R$ 29–49/mês como modelo com menor barreira, IA (Claude + Lovable + Supabase) permite solo founder fazer trabalho de 5 devs, evergreen com potencial de série de 4+ episódios
+
+### Ângulos quentes em 6 de maio 2026
+
+79. **"A Anthropic Tomou Wall Street — e Dario Amodei Diz que Temos 6 a 12 Meses Para Evitar o Caos Cibernético"** — joint venture US$ 1,5 bi (04-05/05, < 48h), 10 agentes pré-construídos para bancos (pitch builder, KYC, auditor financeiro, reconciliador de razão geral, fechador de mês etc.), integração completa Microsoft 365, modelo inédito de "embedded engineers" que ameaça consultorias tradicionais (Accenture, McKinsey), mais alerta explosivo de Dario na CNBC sobre dezenas de milhares de vulnerabilidades e janela crítica de 6-12 meses; zero PT-BR no momento; combina Wall Street + segurança + impacto prático para devs e founders brasileiros
+80. **"Claude Code Auto Mode: Seu Agente Escreve o Código — Você Só Aprova"** — lançado em maio/26, fluxos multi-etapas com execução autônoma e "approval gates" configuráveis, novo paradigma dev onde o Claude executa sozinho e para apenas em decisões críticas (push, merge, deploy), impacto direto para devs solo e founders de micro SaaS, pouco PT-BR técnico sobre o tema; ângulo de antes/depois muito forte
+
+
+### Ângulos quentes em 5 de maio 2026
+
+77. **"A Anthropic foi dentro das empresas — e trouxe Goldman Sachs e Blackstone junto"** — joint venture de US$ 1,5 bi anunciada em 04/05 (< 24h), parceiros: Goldman Sachs, Blackstone, Hellman & Friedman; foco em saúde, manufatura e financeiro; modelo de embedded engineers inédito; zero PT-BR no momento da pesquisa; disruptivo para consultoria tradicional (Accenture, McKinsey)
+78. **"Os primeiros 30 segundos que decidem se o seu vídeo viraliza — o algoritmo do YouTube em 2026"** — dado de permanência inicial como métrica decisiva, integração Gemini AI frame a frame desde jan/2026, framework PCC (Provocação-Credencial-Contrato), evergreen e tutorialável, aplicação imediata para qualquer criador BR
+
+### Ângulos quentes em 4 de maio 2026
+
+73. **"A Anthropic Está Vindo ao Brasil — e o Que Isso Muda Para Você"** — escritório em SP confirmado, AI Festival 13-14/05 em São Paulo, Brasil = 3º mercado global do Claude (atrás apenas de EUA e Índia), janela de 18-36 meses para posicionamento de criadores/founders BR, pouquíssimo PT-BR sobre impacto local
+74. **"O Stack Completo de IA para Criadores em 2026 (85% Já Usam — e os 15% Estão Perdendo Dinheiro)"** — dado de 85% verificável (ante 61% em 2023), tutorial prático com 5 ferramentas reais (Claude + Runway + Opus Clip + HeyGen + Descript), alta retenção, evergreen com potencial de série por ferramenta
+75. **"Por Que Vídeos Amadores Viralizaram Mais que Vídeos Produzidos em 2026"** — autenticidade como vantagem competitiva, dado de 83,5% das marcas usando IA, contraste entre polimento e engajamento real
+76. **"Plataformas Multimodais Vão Substituir Seu Stack de 5 Ferramentas — e Você Precisa Estar Pronto"** — convergência de texto + vídeo + áudio em 2026, tendência com janela de adaptação, evergreen estratégico
+
+### Ângulos quentes em 3 de maio 2026
+
+69. **"Claude Agora Cria Modelos 3D no Autodesk Fusion — O Fim do CAD Tradicional?"** — conector lançado em 01/05 (< 48h), parte do ecossistema "Claude para Trabalho Criativo", pouquíssimo PT-BR sobre Fusion especificamente, impacto direto para engenheiros, makers, arquitetos e founders de hardware, disponível em planos acessíveis
+70. **"90% dos Micro SaaS com IA Vão Falhar — O Que Separa os 10% que Sobrevivem"** — dado impactante e verificável (60-70% zero receita), polarizante, evergreen, educacional, acionável, conecta com tendência de vertical SaaS crescendo 2-3x mais rápido que horizontal
+71. **"US$ 700 Bilhões em Infraestrutura de IA em 2026 — O Que Esse Número Absurdo Significa na Prática"** — dado de investimento combinado big techs, contexto estratégico, potencial de série
+72. **"IBM Prevê 2026 Como o Ano em que Computação Quântica Supera Clássica — e o Que Isso Muda Para Você"** — marco histórico projetado, pouco PT-BR técnico acessível, ângulo de impacto prático
 
 ### Ângulos quentes em 2 de maio 2026
 
@@ -426,6 +519,20 @@ Evitar:
 | Europol 5 tendências cibercrime IA 2026 | "As 5 Formas que a IA Está Sendo Usada Para Te Atacar em 2026 — Segundo a Europol" | Alto |
 | Claude Security beta público | "Claude Security: a IA que Hackers Temem — e Que Vai Defender o Seu Sistema" | Alto |
 | Micro SaaS IA nativa janela $60bi | "De US$ 15 bi a US$ 60 bi em 6 Anos: a Janela do Micro SaaS está Aberta — e Vai Fechar" | Alto |
+| Claude + Autodesk Fusion CAD 3D | "Claude Agora Cria Modelos 3D no Autodesk Fusion — O Fim do CAD Tradicional?" | Alto |
+| AI wrappers 90% falha vertical SaaS | "90% dos Micro SaaS com IA Vão Falhar — O Que Separa os 10% que Sobrevivem" | Alto |
+| Anthropic escritório Brasil + AI Festival SP | "A Anthropic Está Vindo ao Brasil — e o Que Isso Muda Para Você" | Alto |
+| Stack IA criadores 85% adoção + 5 ferramentas | "O Stack Completo de IA para Criadores em 2026 (85% Já Usam — e os 15% Estão Perdendo Dinheiro)" | Alto |
+| Anthropic joint venture Goldman Sachs Blackstone $1,5bi | "A Anthropic Decidiu Ir Dentro das Empresas — e Trouxe Goldman Sachs e Blackstone Junto" | Alto |
+| YouTube taxa permanência inicial 30s Gemini AI | "Os Primeiros 30 Segundos Que Decidem Se o Seu Vídeo Viraliza — O Algoritmo do YouTube em 2026" | Alto |
+| Anthropic Wall Street agentes financeiros + alerta Dario Amodei | "A Anthropic Tomou Wall Street — e Dario Amodei Diz que Temos 6 Meses Para Evitar o Caos Cibernético" | Alto |
+| Claude Code Auto Mode approval gates | "Claude Code Auto Mode: Seu Agente Escreve o Código — Você Só Aprova" | Alto |
+| Anthropic + SpaceX + 220k GPUs + IPO junho + 80x receita | "A Anthropic Fechou com a SpaceX — e o Que Isso Muda Para Quem Usa Claude" | Alto |
+| Micro SaaS MEI Brasil 5% penetração SaaS + roteiro 30 dias | "5% das Empresas Brasileiras Usam SaaS — Como Capturar Esse Mercado com IA em 30 Dias" | Alto |
+| Claude Managed Agents Dreaming + orquestração multiagente Code with Claude SF 2026 | "Claude 'Sonha' Para Ficar Mais Inteligente — O Que É o Dreaming e Por Que Muda Tudo" | Alto |
+| Stack IA criadores 85% adoção 5 ferramentas sem patrocínio | "O Stack Completo de IA para Criadores em 2026 — O Que Realmente Funciona (Sem Patrocínio)" | Alto |
+| Anthropic US$ 1 tri valuation enterprise race OpenAI embedded engineers | "Anthropic Vai Valer US$ 1 Trilhão — O Que Acontece Quando Uma IA Vale Mais Que a Petrobras" | Alto |
+| Code with Claude SF 2026 conferência Dreaming multiagentes Auto Mode rate limits dobrados | "Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma em 10 Minutos" | Alto |
 
 ---
 
@@ -449,3 +556,10 @@ Evitar:
 | 2026-04-29 | 2.4.0 | 4 novos ângulos quentes (Claude 9 conectores MCP para ferramentas criativas gratuitos, IA nativa vs feature em micro SaaS, roteiro 30 dias micro SaaS sem programar, 85% profissionais usam IA); 9 novos termos de busca (Claude conectores MCP, Claude Adobe Blender Ableton, Anthropic MCP criadores, Claude conector Adobe Premiere, micro SaaS IA nativa vs feature, micro SaaS validação 30 dias, PME nicho SaaS subatendido); 2 novos exemplos de roteiros |
 | 2026-04-30 | 2.5.0 | 4 novos ângulos quentes (Harvard troca ChatGPT pelo Claude, Europol 5 tendências cibercrime com IA, deepfake em tempo real em chamadas, 75% vídeos marketing feitos com IA); nova categoria de termos de busca "Cibersegurança e IA Ofensiva/Defensiva" com 6 termos; 3 novos termos de busca em IA e Modelos (Harvard/Claude, universidades adoção, FAS Anthropic); 2 novos exemplos de roteiros |
 | 2026-05-02 | 2.6.0 | 4 novos ângulos quentes (Claude Security beta público Enterprise, micro SaaS janela $60bi CAGR 30%, IA nativa vs feature, stack criadores 87% adoção); 4 novos termos de busca (Claude Security scanner, patch IA, vs Snyk/Veracode, SAST DAST LLM); 2 novos exemplos de roteiros (Claude Security + Micro SaaS IA nativa) |
+| 2026-05-03 | 2.7.0 | 4 novos ângulos quentes (Claude + Autodesk Fusion CAD 3D, 90% AI wrappers vão falhar, vertical SaaS 2-3x CAGR, IBM quântico supera clássico); 8 novos termos de busca (Claude Fusion CAD, AI wrapper falha, vertical SaaS CAGR, IA nativa vs wrapper, IBM quantum, computação quântica marco, US$ 700bi infraestrutura); 2 novos exemplos de roteiros; nova categoria de termos na seção Micro SaaS |
+| 2026-05-04 | 2.8.0 | 4 novos ângulos quentes (Anthropic escritório Brasil + AI Festival SP, stack IA criadores 85% adoção, autenticidade vídeos virais, convergência multimodal); 5 novos termos de busca (Anthropic Brasil SP, AI Festival StartSe, 3º mercado Claude, Anthropic parceiros BR, Descript edição podcast); 2 novos exemplos de roteiros |
+| 2026-05-05 | 2.9.0 | 2 novos ângulos quentes (Anthropic joint venture $1,5bi Goldman Sachs/Blackstone < 24h, YouTube 30s taxa permanência inicial + Gemini AI frame-a-frame + framework PCC); 9 novos termos de busca (Anthropic joint venture Wall Street, Claude adoção empresarial médio porte, taxa permanência inicial 30s, Gemini AI análise frame, gancho vídeo algoritmo); 2 novos exemplos de roteiros; merge com v2.8.0 preservando todos os ângulos e exemplos |
+| 2026-05-06 | 3.0.0 | 2 novos ângulos quentes (Anthropic Wall Street + 10 agentes financeiros + alerta Dario Amodei 6-12 meses de janela cibernética, Claude Code Auto Mode com approval gates); 8 novos termos de busca (agentes financeiros Wall Street, joint venture Goldman Sachs Blackstone, Claude Code Auto Mode, Dario Amodei vulnerabilidades, integração Microsoft 365, KYC pitch builder, embedded engineers); 2 novos exemplos de roteiros; versão major 3.0.0 pela primeira vez que um conjunto de ângulos une segurança + finanças + Wall Street num único evento de 48h |
+| 2026-05-07 | 3.1.0 | 2 novos ângulos quentes (Anthropic + SpaceX Colossus 1 / 220k GPUs / Claude Code dobrado / IPO junho / receita 80x Q1, Micro SaaS MEI brasileiro / 5% penetração SaaS / roteiro 30 dias / freemium R$ 29–49); 12 novos termos de busca (Anthropic SpaceX Colossus, IPO Nasdaq, Opus 4.7 visão código, receita 80x Q1, rate limits dobrados, compute gargalo, MEI DAS nota fiscal automação, freemium PME brasileira, Lovable Bolt MVP, credibilidade YouTube algoritmo, autenticidade vs produção polida, volume espetáculo vs credibilidade); 2 novos exemplos de roteiros; descoberta do dia: credibilidade como moat no YouTube em maio/2026 supera produção polida — ângulo inédito para criadores BR |
+| 2026-05-08 | 3.2.0 | 2 novos ângulos quentes (Claude Managed Agents "Dreaming" < 24h — agente aprende sozinho via processo agendado de análise de sessões, conferência Code with Claude SF 2026; Stack IA criadores 5 ferramentas sem patrocínio — dado 85% adoção, Opus Clip + Runway + HeyGen + CapCut + Claude); 9 novos termos de busca (Dreaming Managed Agents, orquestração multiagente, Code with Claude SF 2026, Claude agente memória persistente, IA vertical nicho, eficiência energética modelos menores); 2 novos exemplos de roteiros; descoberta do dia: feature "Dreaming" é conceito com metáfora poderosa (agente que sonha para aprender) — zero PT-BR e janela < 24h, potencial viral alto para canal de devs/founders |
+| 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
