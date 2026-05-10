@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.3.0
-atualizado: 2026-05-09
+versao: 3.4.0
+atualizado: 2026-05-10
 tags:
   - skill
   - pesquisa
@@ -114,6 +114,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude nova constituição valores princípios [ANO]"`
 - `"autonomous software engineering agentes [ANO]"`
 - `"Anthropic embedded engineers enterprise contrato [ANO]"`
+- `"Anthropic Akamai cloud deal [ANO]"`
+- `"Anthropic nuvem distribuição CDN latência [ANO]"`
+- `"Claude alinhamento blackmail sabotagem eliminado [ANO]"`
+- `"Anthropic AI safety alignment benchmark [ANO]"`
+- `"Claude Haiku 4.5 alinhamento 100 porcento [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -235,6 +240,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 10 de maio 2026
+
+87. **"Anthropic Fechou US$ 1,8 Bilhão com a Akamai — O Que Isso Muda Para Quem Usa Claude"** — acordo Anthropic + Akamai publicado em 09/05 (< 48h); contrato de nuvem de US$ 1,8 bi para suportar demanda explosiva pelo Claude; complementa acordo SpaceX (compute) com distribuição global (CDN); Akamai distribui em 4.000 pontos em 130+ países; menor latência para usuários brasileiros; receita triplicou de US$ 9 bi → US$ 30 bi em ARR em 4 meses; zero PT-BR no momento; impacto direto e prático para devs, founders e usuários do Claude no Brasil
+88. **"A Anthropic Resolveu o Problema Mais Temido da IA — e Quase Ninguém no Brasil Está Falando Disso"** — Anthropic eliminou comportamentos de chantagem e sabotagem nos modelos Claude (publicado 09/05); desde Haiku 4.5, 100% de aprovação nos testes de alinhamento com zero falhas; ângulo: empresa de IA admitindo e resolvendo publicamente um risco de segurança existencial; conecta com debate regulatório de IA; impacto para adoção enterprise; pouquíssimo PT-BR sobre alinhamento de forma acessível; potencial de polarização (AI safety vs. AI hype)
 
 ### Ângulos quentes em 9 de maio 2026
 
@@ -533,6 +543,8 @@ Evitar:
 | Stack IA criadores 85% adoção 5 ferramentas sem patrocínio | "O Stack Completo de IA para Criadores em 2026 — O Que Realmente Funciona (Sem Patrocínio)" | Alto |
 | Anthropic US$ 1 tri valuation enterprise race OpenAI embedded engineers | "Anthropic Vai Valer US$ 1 Trilhão — O Que Acontece Quando Uma IA Vale Mais Que a Petrobras" | Alto |
 | Code with Claude SF 2026 conferência Dreaming multiagentes Auto Mode rate limits dobrados | "Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma em 10 Minutos" | Alto |
+| Anthropic + Akamai US$ 1,8 bi deal CDN distribuição global latência Brasil receita ARR 3x | "Anthropic Fechou US$ 1,8 Bilhão com a Akamai — O Que Isso Muda Para Quem Usa Claude" | Alto |
+| Anthropic alinhamento eliminou chantagem sabotagem Haiku 4.5 100% benchmark AI safety | "A Anthropic Resolveu o Problema Mais Temido da IA — e Quase Ninguém no Brasil Está Falando Disso" | Alto |
 
 ---
 
@@ -563,3 +575,4 @@ Evitar:
 | 2026-05-07 | 3.1.0 | 2 novos ângulos quentes (Anthropic + SpaceX Colossus 1 / 220k GPUs / Claude Code dobrado / IPO junho / receita 80x Q1, Micro SaaS MEI brasileiro / 5% penetração SaaS / roteiro 30 dias / freemium R$ 29–49); 12 novos termos de busca (Anthropic SpaceX Colossus, IPO Nasdaq, Opus 4.7 visão código, receita 80x Q1, rate limits dobrados, compute gargalo, MEI DAS nota fiscal automação, freemium PME brasileira, Lovable Bolt MVP, credibilidade YouTube algoritmo, autenticidade vs produção polida, volume espetáculo vs credibilidade); 2 novos exemplos de roteiros; descoberta do dia: credibilidade como moat no YouTube em maio/2026 supera produção polida — ângulo inédito para criadores BR |
 | 2026-05-08 | 3.2.0 | 2 novos ângulos quentes (Claude Managed Agents "Dreaming" < 24h — agente aprende sozinho via processo agendado de análise de sessões, conferência Code with Claude SF 2026; Stack IA criadores 5 ferramentas sem patrocínio — dado 85% adoção, Opus Clip + Runway + HeyGen + CapCut + Claude); 9 novos termos de busca (Dreaming Managed Agents, orquestração multiagente, Code with Claude SF 2026, Claude agente memória persistente, IA vertical nicho, eficiência energética modelos menores); 2 novos exemplos de roteiros; descoberta do dia: feature "Dreaming" é conceito com metáfora poderosa (agente que sonha para aprender) — zero PT-BR e janela < 24h, potencial viral alto para canal de devs/founders |
 | 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
+| 2026-05-10 | 3.4.0 | 2 novos ângulos quentes (Anthropic + Akamai US$ 1,8 bi — contrato de distribuição global CDN que complementa SpaceX compute, menor latência BR, ARR triplicou em 4 meses; Anthropic eliminou chantagem e sabotagem — 100% nos testes de alinhamento desde Haiku 4.5, ângulo de AI safety acessível); 5 novos termos de busca (Anthropic Akamai cloud deal, distribuição CDN latência, alinhamento blackmail sabotagem, AI safety alignment benchmark, Haiku 4.5 alinhamento 100%); 2 novos exemplos de roteiros; descoberta do dia: ângulo de AI safety com linguagem acessível ("Anthropic resolveu o problema mais temido da IA") tem potencial viral alto por unir medo + solução + dado verificável — zero PT-BR sobre alinhamento de forma não-técnica |
