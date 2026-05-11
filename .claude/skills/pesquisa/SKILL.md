@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.4.0
-atualizado: 2026-05-10
+versao: 3.5.0
+atualizado: 2026-05-11
 tags:
   - skill
   - pesquisa
@@ -119,6 +119,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude alinhamento blackmail sabotagem eliminado [ANO]"`
 - `"Anthropic AI safety alignment benchmark [ANO]"`
 - `"Claude Haiku 4.5 alinhamento 100 porcento [ANO]"`
+- `"Claude Microsoft 365 add-ins Excel PowerPoint Word [ANO]"`
+- `"Claude Office trabalhador comum produtividade [ANO]"`
+- `"Anthropic Microsoft 365 integração planos Team Enterprise [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -211,6 +214,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"credibilidade criador YouTube algoritmo [ANO]"`
 - `"autenticidade vs producao polida YouTube engajamento [ANO]"`
 - `"YouTube volume espetaculo vs credibilidade [ANO]"`
+- `"autenticidade YouTube algoritmo Gemini AI [ANO]"`
+- `"paradoxo IA autenticidade criadores YouTube [ANO]"`
+- `"Gemini AI frame análise YouTube conteúdo sintético [ANO]"`
+- `"Castmagic podcast automação conteúdo [ANO]"`
 
 ### Tendências Gerais de Tecnologia
 
@@ -240,6 +247,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 11 de maio 2026
+
+89. **"Claude Chegou ao Excel e PowerPoint — O Que Muda para Quem Trabalha com Office Todo Dia"** — add-ins nativos do Claude para Microsoft 365 (Excel, PowerPoint, Word, Outlook em breve) disponíveis em planos Team/Enterprise; 40M+ usuários Office no Brasil; Claude vê o arquivo e age dentro do painel lateral; casos de uso: relatório de vendas em 3 min, deck de pitch em 15 min, resumo de contrato de 40 páginas em 20s; ângulo inédito para trabalhador comum, não só dev/founder; zero PT-BR com esse nível de detalhe prático para o trabalhador brasileiro
+90. **"85% dos Criadores Usam IA — Mas o YouTube Está Premiando Quem Parece Humano. Entenda o Paradoxo"** — paradoxo central: 75% dos vídeos de marketing usam IA mas o Gemini AI (integrado ao YouTube desde jan/2026) analisa frame a frame buscando marcadores de autenticidade (rosto, micro-expressão, variação vocal, contato visual); framework zona verde (onde IA ajuda) vs. zona vermelha (onde IA prejudica); canais <50k em nichos têm engajamento 3–4x maior que generalistas; janela viral 24–36h; o paradoxo é um filtro, não um obstáculo — ângulo de oportunidade para criadores BR com baixo orçamento
 
 ### Ângulos quentes em 10 de maio 2026
 
@@ -545,6 +557,8 @@ Evitar:
 | Code with Claude SF 2026 conferência Dreaming multiagentes Auto Mode rate limits dobrados | "Claude Developer Conference 2026: O Futuro da Engenharia de Software Autônoma em 10 Minutos" | Alto |
 | Anthropic + Akamai US$ 1,8 bi deal CDN distribuição global latência Brasil receita ARR 3x | "Anthropic Fechou US$ 1,8 Bilhão com a Akamai — O Que Isso Muda Para Quem Usa Claude" | Alto |
 | Anthropic alinhamento eliminou chantagem sabotagem Haiku 4.5 100% benchmark AI safety | "A Anthropic Resolveu o Problema Mais Temido da IA — e Quase Ninguém no Brasil Está Falando Disso" | Alto |
+| Claude Microsoft 365 add-ins Excel PowerPoint Word Outlook trabalhador comum Office Brasil | "Claude Chegou ao Excel e PowerPoint — O Que Muda para Quem Trabalha com Office Todo Dia" | Alto |
+| YouTube algoritmo Gemini AI autenticidade paradoxo 85% criadores usam IA mas premia humanos | "85% dos Criadores Usam IA — Mas o YouTube Está Premiando Quem Parece Humano. Entenda o Paradoxo" | Alto |
 
 ---
 
@@ -576,3 +590,4 @@ Evitar:
 | 2026-05-08 | 3.2.0 | 2 novos ângulos quentes (Claude Managed Agents "Dreaming" < 24h — agente aprende sozinho via processo agendado de análise de sessões, conferência Code with Claude SF 2026; Stack IA criadores 5 ferramentas sem patrocínio — dado 85% adoção, Opus Clip + Runway + HeyGen + CapCut + Claude); 9 novos termos de busca (Dreaming Managed Agents, orquestração multiagente, Code with Claude SF 2026, Claude agente memória persistente, IA vertical nicho, eficiência energética modelos menores); 2 novos exemplos de roteiros; descoberta do dia: feature "Dreaming" é conceito com metáfora poderosa (agente que sonha para aprender) — zero PT-BR e janela < 24h, potencial viral alto para canal de devs/founders |
 | 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
 | 2026-05-10 | 3.4.0 | 2 novos ângulos quentes (Anthropic + Akamai US$ 1,8 bi — contrato de distribuição global CDN que complementa SpaceX compute, menor latência BR, ARR triplicou em 4 meses; Anthropic eliminou chantagem e sabotagem — 100% nos testes de alinhamento desde Haiku 4.5, ângulo de AI safety acessível); 5 novos termos de busca (Anthropic Akamai cloud deal, distribuição CDN latência, alinhamento blackmail sabotagem, AI safety alignment benchmark, Haiku 4.5 alinhamento 100%); 2 novos exemplos de roteiros; descoberta do dia: ângulo de AI safety com linguagem acessível ("Anthropic resolveu o problema mais temido da IA") tem potencial viral alto por unir medo + solução + dado verificável — zero PT-BR sobre alinhamento de forma não-técnica |
+| 2026-05-11 | 3.5.0 | 2 novos ângulos quentes (Claude no Microsoft 365 com add-ins Excel/PowerPoint/Word/Outlook para trabalhador comum brasileiro — ângulo de impacto prático massivo além de devs/founders; paradoxo IA vs. autenticidade no YouTube — 85% dos criadores usam IA mas algoritmo Gemini AI premia presença humana real, framework zona verde/vermelha); 6 novos termos de busca (Claude Microsoft 365 add-ins Office trabalhador, Claude Excel PowerPoint Word Outlook, autenticidade YouTube algoritmo 2026, Gemini AI frame análise criadores, paradoxo IA autenticidade criadores, Castmagic podcast automação conteúdo); 2 novos exemplos de roteiros; descoberta do dia: ângulo "Office para trabalhador comum" tem alcance 10–20x maior que ângulos dev/founder porque atinge 40M+ usuários de Office no Brasil que nunca viram conteúdo prático sobre IA em suas ferramentas cotidianas |
