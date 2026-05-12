@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.5.0
-atualizado: 2026-05-11
+versao: 3.6.0
+atualizado: 2026-05-12
 tags:
   - skill
   - pesquisa
@@ -120,6 +120,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic AI safety alignment benchmark [ANO]"`
 - `"Claude Haiku 4.5 alinhamento 100 porcento [ANO]"`
 - `"Claude Microsoft 365 add-ins Excel PowerPoint Word [ANO]"`
+- `"Anthropic historias ficticias comportamento modelo LLM [ANO]"`
+- `"ficção roleplay molda valores LLM alinhamento [ANO]"`
+- `"Claude Platform AWS IAM faturamento unificado [ANO]"`
+- `"mercado IA IDC 300 bilhoes agentes autonomos [ANO]"`
+- `"Magic Hour geração video IA versatil criadores [ANO]"`
 - `"Claude Office trabalhador comum produtividade [ANO]"`
 - `"Anthropic Microsoft 365 integração planos Team Enterprise [ANO]"`
 
@@ -247,6 +252,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 12 de maio 2026
+
+91. **"Anthropic Admitiu que Ficção Controla o Comportamento da IA — O Que Isso Muda Para Sempre"** — publicado em 11/05 (< 24h da pesquisa); descoberta de que histórias fictícias, roleplay e narrativas de ficção científica moldam valores e comportamentos de LLMs de forma persistente; Anthropic foi a primeira grande empresa a admitir isso publicamente; ângulo conecta AI safety com cultura pop (Skynet, HAL 9000, Ex Machina), gera debate sobre responsabilidade, educação e futuro dos modelos; zero PT-BR de qualidade; implicação prática para devs (evitar personas fictícias em prompts de sistema); potencial viral alto por unir medo + curiosidade + dado verificável
+92. **"US$ 300 Bilhões em IA e o Brasil Tem 95% das Empresas de Fora — A Oportunidade que Fecha em 18 Meses"** — dado IDC confirmado para 2026; combina mercado global (US$ 300bi) com dado local (5% penetração SaaS PMEs brasileiras); agentes autônomos como principal motor; solo founder consegue construir micro SaaS em 30 dias com Claude + Lovable + Supabase; nicho MEI financeiro como entrada validada (R$ 29–49/mês); urgência de janela de 18–24 meses; potencial de série de episódios sobre nichos específicos
 
 ### Ângulos quentes em 11 de maio 2026
 
@@ -559,6 +569,8 @@ Evitar:
 | Anthropic alinhamento eliminou chantagem sabotagem Haiku 4.5 100% benchmark AI safety | "A Anthropic Resolveu o Problema Mais Temido da IA — e Quase Ninguém no Brasil Está Falando Disso" | Alto |
 | Claude Microsoft 365 add-ins Excel PowerPoint Word Outlook trabalhador comum Office Brasil | "Claude Chegou ao Excel e PowerPoint — O Que Muda para Quem Trabalha com Office Todo Dia" | Alto |
 | YouTube algoritmo Gemini AI autenticidade paradoxo 85% criadores usam IA mas premia humanos | "85% dos Criadores Usam IA — Mas o YouTube Está Premiando Quem Parece Humano. Entenda o Paradoxo" | Alto |
+| Anthropic admitiu que histórias fictícias e roleplay moldam comportamento de LLMs (11/05) | "Anthropic Admitiu que Ficção Controla o Comportamento da IA — O Que Isso Muda Para Sempre" | Alto |
+| IDC US$ 300bi mercado IA 2026 + 5% PMEs BR usam SaaS + janela micro SaaS 18 meses | "US$ 300 Bilhões em IA e o Brasil Tem 95% das Empresas de Fora — A Oportunidade que Fecha em 18 Meses" | Alto |
 
 ---
 
@@ -590,4 +602,5 @@ Evitar:
 | 2026-05-08 | 3.2.0 | 2 novos ângulos quentes (Claude Managed Agents "Dreaming" < 24h — agente aprende sozinho via processo agendado de análise de sessões, conferência Code with Claude SF 2026; Stack IA criadores 5 ferramentas sem patrocínio — dado 85% adoção, Opus Clip + Runway + HeyGen + CapCut + Claude); 9 novos termos de busca (Dreaming Managed Agents, orquestração multiagente, Code with Claude SF 2026, Claude agente memória persistente, IA vertical nicho, eficiência energética modelos menores); 2 novos exemplos de roteiros; descoberta do dia: feature "Dreaming" é conceito com metáfora poderosa (agente que sonha para aprender) — zero PT-BR e janela < 24h, potencial viral alto para canal de devs/founders |
 | 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
 | 2026-05-10 | 3.4.0 | 2 novos ângulos quentes (Anthropic + Akamai US$ 1,8 bi — contrato de distribuição global CDN que complementa SpaceX compute, menor latência BR, ARR triplicou em 4 meses; Anthropic eliminou chantagem e sabotagem — 100% nos testes de alinhamento desde Haiku 4.5, ângulo de AI safety acessível); 5 novos termos de busca (Anthropic Akamai cloud deal, distribuição CDN latência, alinhamento blackmail sabotagem, AI safety alignment benchmark, Haiku 4.5 alinhamento 100%); 2 novos exemplos de roteiros; descoberta do dia: ângulo de AI safety com linguagem acessível ("Anthropic resolveu o problema mais temido da IA") tem potencial viral alto por unir medo + solução + dado verificável — zero PT-BR sobre alinhamento de forma não-técnica |
+| 2026-05-12 | 3.6.0 | 2 novos ângulos quentes (Anthropic admitiu que ficção e roleplay moldam comportamento de LLMs de forma persistente — 11/05, < 24h, zero PT-BR, conecta AI safety + cultura pop; US$ 300bi mercado IA IDC + 95% PMEs BR fora do SaaS + janela micro SaaS 18 meses); 6 novos termos de busca (Anthropic histórias fictícias LLM, ficção roleplay valores alinhamento, Claude Platform AWS IAM, IDC 300 bilhões agentes autônomos, Magic Hour geração vídeo, IBM quantum 2026); 2 novos exemplos de roteiros; descoberta do dia: ângulo "ficção controla IA" é inédito — nenhum canal BR abordou o tema de histórias fictícias como vetor de comportamento em LLMs, potencial viral alto por unir medo existencial + dado verificável + implicação prática imediata para devs e criadores |
 | 2026-05-11 | 3.5.0 | 2 novos ângulos quentes (Claude no Microsoft 365 com add-ins Excel/PowerPoint/Word/Outlook para trabalhador comum brasileiro — ângulo de impacto prático massivo além de devs/founders; paradoxo IA vs. autenticidade no YouTube — 85% dos criadores usam IA mas algoritmo Gemini AI premia presença humana real, framework zona verde/vermelha); 6 novos termos de busca (Claude Microsoft 365 add-ins Office trabalhador, Claude Excel PowerPoint Word Outlook, autenticidade YouTube algoritmo 2026, Gemini AI frame análise criadores, paradoxo IA autenticidade criadores, Castmagic podcast automação conteúdo); 2 novos exemplos de roteiros; descoberta do dia: ângulo "Office para trabalhador comum" tem alcance 10–20x maior que ângulos dev/founder porque atinge 40M+ usuários de Office no Brasil que nunca viram conteúdo prático sobre IA em suas ferramentas cotidianas |
