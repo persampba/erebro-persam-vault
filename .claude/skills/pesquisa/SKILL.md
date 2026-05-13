@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.6.0
-atualizado: 2026-05-12
+versao: 3.7.0
+atualizado: 2026-05-13
 tags:
   - skill
   - pesquisa
@@ -127,6 +127,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Magic Hour geração video IA versatil criadores [ANO]"`
 - `"Claude Office trabalhador comum produtividade [ANO]"`
 - `"Anthropic Microsoft 365 integração planos Team Enterprise [ANO]"`
+- `"Claude Platform AWS IAM faturamento unificado Managed Agents [ANO]"`
+- `"Claude Platform on AWS Message API Files API code execution [ANO]"`
+- `"Anthropic Outcomes beta pública avaliação agentes [ANO]"`
+- `"Claude Code Agent View dashboard CLI sessões [ANO]"`
+- `"Anthropic software jurídico legal Claude [ANO]"`
+- `"Claude Opus 4.7 benchmark Vals AI Finance 64 por cento [ANO]"`
+- `"Anthropic Claude plataforma nativa AWS IAM segurança enterprise [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -191,6 +198,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Lovable Bolt no-code SaaS MVP [ANO]"`
 - `"MEI obrigações DAS nota fiscal automação [ANO]"`
 
+- `"micro SaaS MEI automacao financeira DASN notas fiscais categorizar [ANO]"`
+- `"micro SaaS validacao entrevista 5 usuarios nicho brasileiro [ANO]"`
+- `"Supabase Lovable Claude stack solo founder SaaS [ANO]"`
+- `"YouTube micro-influenciadores campanhas marcas 2026 [ANO]"`
+- `"YouTube TV passivo assistir tendencia conteudo [ANO]"`
+- `"criadores economizam 3 horas IA por conteudo [ANO]"`
+
 ### Ferramentas para Criadores
 
 - `"criadores de conteúdo IA ferramentas [ANO]"`
@@ -252,6 +266,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 13 de maio 2026
+
+93. **"Claude Entrou na AWS e Agora Aprende Enquanto Você Dorme — O Que Muda Para Devs e Founders"** — Claude Platform on AWS lançada com autenticação IAM nativa, faturamento unificado AWS, Managed Agents, Files API, Message Batches API e code execution; feature "Dreaming" (processo agendado que consolida memória do agente após cada dia de uso, como sono REM) em disponibilidade geral; "Outcomes" em beta pública para avaliação automática de resultados; Opus 4.7 atingiu 64,37% no benchmark Vals AI Finance Agent; zero PT-BR técnico; impacto direto para devs/founders brasileiros que já têm conta AWS; ângulo de metáfora poderosa ("agente que sonha para aprender") com dado prático de custo acessível
+94. **"5% das Empresas Brasileiras Usam SaaS — Eu Construí o Produto Para os Outros 95% em 30 Dias"** — dado de 5% penetração SaaS + 3,9M novas empresas (97,6% micro/pequenas) + MEI como nicho mais validado (13M+ ativos, dor clara em DAS/NF/contador); stack Claude + Lovable + Supabase + Stripe permite solo founder construir MVP em 4 semanas; modelo freemium R$ 0→R$29→R$49 comprovado; Anthropic mesmo entrou no jurídico (sinal de validação de SaaS vertical); ângulo "build in public + dado de mercado + tutorial" com série natural de 4+ episódios; zero PT-BR com esse nível de especificidade para MEI
 
 ### Ângulos quentes em 12 de maio 2026
 
@@ -571,6 +590,8 @@ Evitar:
 | YouTube algoritmo Gemini AI autenticidade paradoxo 85% criadores usam IA mas premia humanos | "85% dos Criadores Usam IA — Mas o YouTube Está Premiando Quem Parece Humano. Entenda o Paradoxo" | Alto |
 | Anthropic admitiu que histórias fictícias e roleplay moldam comportamento de LLMs (11/05) | "Anthropic Admitiu que Ficção Controla o Comportamento da IA — O Que Isso Muda Para Sempre" | Alto |
 | IDC US$ 300bi mercado IA 2026 + 5% PMEs BR usam SaaS + janela micro SaaS 18 meses | "US$ 300 Bilhões em IA e o Brasil Tem 95% das Empresas de Fora — A Oportunidade que Fecha em 18 Meses" | Alto |
+| Claude Platform on AWS IAM + Dreaming + Outcomes beta + Opus 4.7 64% Vals Finance | "Claude Entrou na AWS e Agora Aprende Enquanto Você Dorme — O Que Muda Para Devs e Founders" | Alto |
+| Micro SaaS MEI automação financeira + 5% penetração SaaS BR + 3,9M empresas + stack Claude+Lovable+Supabase 30 dias | "5% das Empresas Brasileiras Usam SaaS — Eu Construí o Produto Para os Outros 95% em 30 Dias" | Alto |
 
 ---
 
@@ -603,4 +624,5 @@ Evitar:
 | 2026-05-09 | 3.3.0 | 2 novos ângulos quentes (Anthropic US$ 1 trilhão valuation — corrida enterprise contra OpenAI, receita 80x Q1/26, embedded engineers ameaça consultoria, comparação Petrobras para audiência BR; Claude Developer Conference 2026 recap — Dreaming + multiagentes + Auto Mode + rate limits dobrados + novo app desktop, zero PT-BR, janela < 48h); 6 novos termos de busca (Anthropic valuation $1 trillion, Claude Developer Conference 2026 recap, Code with Claude SF keynote, Claude nova constituição, autonomous software engineering, Anthropic embedded engineers enterprise); 2 novos exemplos de roteiros; descoberta do dia: comparação Anthropic vs Petrobras é ângulo local poderoso para tornar dado global em pauta BR relevante |
 | 2026-05-10 | 3.4.0 | 2 novos ângulos quentes (Anthropic + Akamai US$ 1,8 bi — contrato de distribuição global CDN que complementa SpaceX compute, menor latência BR, ARR triplicou em 4 meses; Anthropic eliminou chantagem e sabotagem — 100% nos testes de alinhamento desde Haiku 4.5, ângulo de AI safety acessível); 5 novos termos de busca (Anthropic Akamai cloud deal, distribuição CDN latência, alinhamento blackmail sabotagem, AI safety alignment benchmark, Haiku 4.5 alinhamento 100%); 2 novos exemplos de roteiros; descoberta do dia: ângulo de AI safety com linguagem acessível ("Anthropic resolveu o problema mais temido da IA") tem potencial viral alto por unir medo + solução + dado verificável — zero PT-BR sobre alinhamento de forma não-técnica |
 | 2026-05-12 | 3.6.0 | 2 novos ângulos quentes (Anthropic admitiu que ficção e roleplay moldam comportamento de LLMs de forma persistente — 11/05, < 24h, zero PT-BR, conecta AI safety + cultura pop; US$ 300bi mercado IA IDC + 95% PMEs BR fora do SaaS + janela micro SaaS 18 meses); 6 novos termos de busca (Anthropic histórias fictícias LLM, ficção roleplay valores alinhamento, Claude Platform AWS IAM, IDC 300 bilhões agentes autônomos, Magic Hour geração vídeo, IBM quantum 2026); 2 novos exemplos de roteiros; descoberta do dia: ângulo "ficção controla IA" é inédito — nenhum canal BR abordou o tema de histórias fictícias como vetor de comportamento em LLMs, potencial viral alto por unir medo existencial + dado verificável + implicação prática imediata para devs e criadores |
+| 2026-05-13 | 3.7.0 | 2 novos ângulos quentes (Claude Platform on AWS com IAM nativo + Dreaming GA + Outcomes beta — menor atrito ever para devs BR em produção com agentes Claude; Micro SaaS MEI automação financeira — convergência de 5% penetração SaaS + 3,9M novas empresas + stack Claude+Lovable+Supabase em 30 dias); 15 novos termos de busca (Claude Platform AWS IAM Managed Agents, Anthropic Outcomes beta avaliação agentes, Claude Code Agent View dashboard, Anthropic software jurídico legal, Opus 4.7 Vals AI Finance 64%, micro SaaS MEI automação DASN, Supabase Lovable Claude stack solo founder, YouTube micro-influenciadores campanhas marcas, YouTube TV passivo tendência, criadores economizam 3h IA por conteúdo); 2 novos exemplos de roteiros; descoberta do dia: Claude Platform on AWS com IAM unifica segurança + faturamento + agentes num só fluxo — ângulo "menor atrito de sempre para subir agente em produção" é inédito no PT-BR e extremamente prático para devs solo e founders de micro SaaS |
 | 2026-05-11 | 3.5.0 | 2 novos ângulos quentes (Claude no Microsoft 365 com add-ins Excel/PowerPoint/Word/Outlook para trabalhador comum brasileiro — ângulo de impacto prático massivo além de devs/founders; paradoxo IA vs. autenticidade no YouTube — 85% dos criadores usam IA mas algoritmo Gemini AI premia presença humana real, framework zona verde/vermelha); 6 novos termos de busca (Claude Microsoft 365 add-ins Office trabalhador, Claude Excel PowerPoint Word Outlook, autenticidade YouTube algoritmo 2026, Gemini AI frame análise criadores, paradoxo IA autenticidade criadores, Castmagic podcast automação conteúdo); 2 novos exemplos de roteiros; descoberta do dia: ângulo "Office para trabalhador comum" tem alcance 10–20x maior que ângulos dev/founder porque atinge 40M+ usuários de Office no Brasil que nunca viram conteúdo prático sobre IA em suas ferramentas cotidianas |
