@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 3.8.0
-atualizado: 2026-05-14
+versao: 3.9.0
+atualizado: 2026-05-15
 tags:
   - skill
   - pesquisa
@@ -142,6 +142,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude conector jurídico MCP escritório advocacia [ANO]"`
 - `"Claude Outlook beta público [ANO]"`
 - `"Claude Excel PowerPoint GA disponibilidade geral [ANO]"`
+- `"Claude for Small Business automação PME [ANO]"`
+- `"Anthropic small business QuickBooks PayPal HubSpot 15 habilidades [ANO]"`
+- `"Claude integrações DocuSign Google Workspace Microsoft 365 PME [ANO]"`
+- `"Anthropic Solopreneur Accelerator Program empreendedor [ANO]"`
+- `"Claude for Small Business sem custo adicional Team [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -245,6 +250,10 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"paradoxo IA autenticidade criadores YouTube [ANO]"`
 - `"Gemini AI frame análise YouTube conteúdo sintético [ANO]"`
 - `"Castmagic podcast automação conteúdo [ANO]"`
+- `"YouTube AI Slop Neal Mohan prioridade [ANO]"`
+- `"YouTube Gemini análise frame autenticidade zona verde zona vermelha [ANO]"`
+- `"stack IA criadores Claude Opus Clip Runway HeyGen CapCut [ANO]"`
+- `"criadores conteúdo IA bastidores vs frente câmera [ANO]"`
 
 ### Tendências Gerais de Tecnologia
 
@@ -274,6 +283,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 15 de maio 2026
+
+97. **"A Anthropic Lançou Claude Para Pequenos Negócios — E Isso Muda Tudo Para o Empreendedor Brasileiro"** — Claude for Small Business disponível (13/05, < 48h); 15 habilidades pré-construídas (folha de pagamento, balancete, contratos, onboarding, relatórios); conectores nativos com QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace e Microsoft 365; sem custo adicional no plano Team (US$ 20/assento/mês); app Mac redesenhado; contexto BR explosivo: 5% PMEs usam SaaS, 3,9M novas empresas (97,6% micro/pequenas), mercado de USD 7,9bi → USD 25,5bi até 2034; Anthropic também lançou Solopreneur Accelerator Program com parceiros CDFIs; zero PT-BR de qualidade com esse nível de análise local; janela de busca orgânica < 48–72h
+98. **"85% dos Criadores Usam IA — Mas o YouTube Premia Quem Parece Humano. O Stack Certo Para 2026"** — Gemini AI integrado ao núcleo do algoritmo do YouTube desde jan/2026; CEO Neal Mohan definiu combate a AI Slop como prioridade #1 em 2026; algoritmo analisa frame a frame: expressões faciais, variação vocal, contato visual, ritmo; framework zona verde (pesquisa/roteiro/edição/repurposing via IA) vs zona vermelha (substituição de rosto/voz por IA); stack completo: Claude + CapCut + Opus Clip + Runway + HeyGen; 85% dos criadores usam IA (↑ de 61% em 3 anos); paradoxo: mais IA em uso, mas a IA do YouTube filtra o uso errado; evergreen com potencial de série por ferramenta
 
 ### Ângulos quentes em 14 de maio 2026
 
@@ -607,6 +621,8 @@ Evitar:
 | Micro SaaS MEI automação financeira + 5% penetração SaaS BR + 3,9M empresas + stack Claude+Lovable+Supabase 30 dias | "5% das Empresas Brasileiras Usam SaaS — Eu Construí o Produto Para os Outros 95% em 30 Dias" | Alto |
 | Claude for Small Business < 24h + QuickBooks/PayPal/HubSpot/Canva/DocuSign + 15 skills + 5% PME BR + 3,9M novas empresas | "A Anthropic Lançou Claude Para Pequenos Negócios — E Isso Muda Tudo Para o Empreendedor Brasileiro" | Alto |
 | 85% criadores usam IA + Gemini AI YouTube frame a frame autenticidade + framework zona verde/vermelha + stack 5 ferramentas Claude/OpusClip/Runway/HeyGen/CapCut | "85% dos Criadores Usam IA — Mas o YouTube Premia Quem Parece Humano. O Stack Certo Para 2026" | Alto |
+| Claude for Small Business 15 skills + 7 conectores + 5% PMEs BR + mercado USD 7,9bi → 25,5bi + Solopreneur Accelerator + ângulo do empreendedor sem dev | "A Anthropic Lançou Claude Para Pequenos Negócios — E Isso Muda Tudo Para o Empreendedor Brasileiro" | Alto |
+| Gemini AI núcleo YouTube jan/2026 + Neal Mohan AI Slop #1 prioridade + zona verde (bastidores) vs zona vermelha (substituição) + stack Claude/CapCut/OpusClip/Runway/HeyGen + dado 85% cresceu de 61% | "85% dos Criadores Usam IA — Mas o YouTube Premia Quem Parece Humano. O Stack Certo Para 2026" | Alto |
 
 ---
 
@@ -641,4 +657,5 @@ Evitar:
 | 2026-05-12 | 3.6.0 | 2 novos ângulos quentes (Anthropic admitiu que ficção e roleplay moldam comportamento de LLMs de forma persistente — 11/05, < 24h, zero PT-BR, conecta AI safety + cultura pop; US$ 300bi mercado IA IDC + 95% PMEs BR fora do SaaS + janela micro SaaS 18 meses); 6 novos termos de busca (Anthropic histórias fictícias LLM, ficção roleplay valores alinhamento, Claude Platform AWS IAM, IDC 300 bilhões agentes autônomos, Magic Hour geração vídeo, IBM quantum 2026); 2 novos exemplos de roteiros; descoberta do dia: ângulo "ficção controla IA" é inédito — nenhum canal BR abordou o tema de histórias fictícias como vetor de comportamento em LLMs, potencial viral alto por unir medo existencial + dado verificável + implicação prática imediata para devs e criadores |
 | 2026-05-13 | 3.7.0 | 2 novos ângulos quentes (Claude Platform on AWS com IAM nativo + Dreaming GA + Outcomes beta — menor atrito ever para devs BR em produção com agentes Claude; Micro SaaS MEI automação financeira — convergência de 5% penetração SaaS + 3,9M novas empresas + stack Claude+Lovable+Supabase em 30 dias); 15 novos termos de busca (Claude Platform AWS IAM Managed Agents, Anthropic Outcomes beta avaliação agentes, Claude Code Agent View dashboard, Anthropic software jurídico legal, Opus 4.7 Vals AI Finance 64%, micro SaaS MEI automação DASN, Supabase Lovable Claude stack solo founder, YouTube micro-influenciadores campanhas marcas, YouTube TV passivo tendência, criadores economizam 3h IA por conteúdo); 2 novos exemplos de roteiros; descoberta do dia: Claude Platform on AWS com IAM unifica segurança + faturamento + agentes num só fluxo — ângulo "menor atrito de sempre para subir agente em produção" é inédito no PT-BR e extremamente prático para devs solo e founders de micro SaaS |
 | 2026-05-14 | 3.8.0 | 2 novos ângulos quentes (Claude for Small Business < 24h — integração QuickBooks/PayPal/HubSpot/Canva/DocuSign/G Workspace/M365 + 15 habilidades pré-construídas + sem custo extra, valida nicho BR de 5% penetração SaaS + 3,9M novas empresas; paradoxo IA vs. autenticidade YouTube 2026 — 85% criadores usam IA mas Gemini AI premia presença humana, framework zona verde/vermelha + stack Claude+OpusClip+Runway+HeyGen+CapCut); 14 novos termos de busca (Claude for Small Business, Anthropic SMB QuickBooks PayPal HubSpot Canva, 15 skills pré-construídas PME, Claude conector jurídico MCP, Claude Outlook beta, Claude Excel PowerPoint GA); 2 novos exemplos de roteiros; descoberta do dia: Claude for Small Business é o ângulo com maior janela de busca orgânica em PT-BR — validação institucional da Anthropic do mesmo nicho que micro SaaS BR deveria estar construindo, zero concorrência de conteúdo em português no momento do lançamento |
+| 2026-05-15 | 3.9.0 | 2 novos ângulos quentes (Claude for Small Business confirmado com 15 habilidades pré-construídas + 7 conectores + Solopreneur Accelerator Program + mercado SaaS BR USD 7,9bi → 25,5bi até 2034 + zero PT-BR de qualidade < 48h; paradoxo IA vs autenticidade YouTube 2026 — CEO Neal Mohan AI Slop prioridade #1 + Gemini AI análise frame a frame + framework zona verde/vermelha explicitado + stack Claude+CapCut+Opus Clip+Runway+HeyGen detalhado com cálculo de tempo real); 11 novos termos de busca (Claude for Small Business automação PME, Anthropic Solopreneur Accelerator, Claude integrações DocuSign G Workspace, YouTube AI Slop Neal Mohan, Gemini zona verde/vermelha criadores, stack IA Claude Opus Clip Runway HeyGen CapCut, criadores IA bastidores vs frente câmera); 4 novos exemplos de roteiros; descoberta do dia: framework zona verde/vermelha para uso de IA em YouTube é o conceito mais acionável e diferenciado para criadores brasileiros em 2026 — resolve o paradoxo de "usar IA sem ser punido pelo algoritmo" de forma prática e visual, com potencial de série de episódios por ferramenta |
 | 2026-05-11 | 3.5.0 | 2 novos ângulos quentes (Claude no Microsoft 365 com add-ins Excel/PowerPoint/Word/Outlook para trabalhador comum brasileiro — ângulo de impacto prático massivo além de devs/founders; paradoxo IA vs. autenticidade no YouTube — 85% dos criadores usam IA mas algoritmo Gemini AI premia presença humana real, framework zona verde/vermelha); 6 novos termos de busca (Claude Microsoft 365 add-ins Office trabalhador, Claude Excel PowerPoint Word Outlook, autenticidade YouTube algoritmo 2026, Gemini AI frame análise criadores, paradoxo IA autenticidade criadores, Castmagic podcast automação conteúdo); 2 novos exemplos de roteiros; descoberta do dia: ângulo "Office para trabalhador comum" tem alcance 10–20x maior que ângulos dev/founder porque atinge 40M+ usuários de Office no Brasil que nunca viram conteúdo prático sobre IA em suas ferramentas cotidianas |
