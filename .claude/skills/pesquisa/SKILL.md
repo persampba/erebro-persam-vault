@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 4.2.0
-atualizado: 2026-06-01
+versao: 4.3.0
+atualizado: 2026-06-02
 tags:
   - skill
   - pesquisa
@@ -166,6 +166,14 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"agente autônomo clínica consultório agendamento WhatsApp [ANO]"`
 - `"agente autônomo e-commerce suporte pós-venda Shopify [ANO]"`
 - `"Claude Managed Agents sandbox privada MCP privado [ANO]"`
+- `"Anthropic IPO confidencial SEC bolsa [ANO]"`
+- `"Anthropic valuation US$ 965 bilhões IPO Nasdaq [ANO]"`
+- `"Anthropic ARR US$ 47 bilhões crescimento [ANO]"`
+- `"Claude Mythos ENISA União Europeia cibersegurança [ANO]"`
+- `"Dynamic Workflows Claude subagentes orquestração [ANO]"`
+- `"Magic Hour geração vídeo IA plataforma criadores [ANO]"`
+- `"Noiz voz storytelling áudio edição criadores [ANO]"`
+- `"mercado SaaS Brasil 7 bilhões 2025 crescimento [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -307,6 +315,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 
 99. **"Claude Opus 4.8: A IA que Quase Vale US$ 1 Trilhão — e o Que Muda Para Você"** — lançado em 28/05 (< 72h); Opus 4.8 traz melhorias em codificação, competências agênticas (trabalha autônomo por mais tempo), raciocínio e honestidade sobre progresso; mesmo preço do 4.7; Anthropic levantou US$ 65 bilhões, valuation de US$ 965 bilhões (quase 1 trilhão); comparação com Petrobras (R$ 450bi) é ângulo local poderoso; receita cresceu 80x no Q1/2026; Claude Mythos Preview chegando a todos em breve; Dynamic Workflows (Code with Claude MIT 21/05) para busca de bugs, auditorias de segurança e otimização; zero PT-BR com esse nível de análise; janela < 72h do lançamento
 100. **"O Mercado de US$ 60 Bilhões que 95% dos Empreendedores Brasileiros Estão Ignorando"** — micro SaaS indo de US$ 15,7bi para US$ 59,6bi até 2030 (CAGR 30%); 67% das startups digitais de 2026 são micro SaaS; Brasil com apenas 5% das PMEs usando SaaS + 3,9M novas empresas (97,6% micro/pequenas); IA derrubou barreira técnica — founder solo com Claude + Lovable + Supabase + Stripe constrói em 30 dias; vertical SaaS cresce 2–3x mais rápido que horizontal; freemium R$0→R$29→R$49 como modelo validado; janela de 18–24 meses antes de nichos mais óbvios ficarem saturados; potencial de série de 4+ episódios
+
+### Ângulos quentes em 2 de junho 2026
+
+105. **"A Anthropic Pediu IPO — e Agora Vale Quase US$ 1 Trilhão. O Que Muda Para Você"** — IPO confidencial protocolado na SEC em 01/06 (< 24h); ARR chegou a US$ 47 bilhões (ante US$ 30bi em abril = +57% em menos de 60 dias); valuation US$ 965 bilhões; Claude Mythos confirmado para ENISA (infraestrutura crítica da UE); Dynamic Workflows permite que Claude crie e orquestre rede de subagentes dinamicamente; comparação Petrobras (R$ 450bi) como âncora local; ângulo central: "o que IPO muda para preços, roadmap e acesso a features para o usuário brasileiro"; zero PT-BR com esse nível de análise prática; janela < 24h
+
+106. **"5% das Empresas Brasileiras Usam SaaS — Eu Construí o Produto Para os Outros 95% em 30 Dias"** — Mercado SaaS Brasil US$ 7,9bi (2025) → US$ 25,5bi (2034) CAGR 13,87%; apenas 5% das PMEs usam SaaS; 3,9M novas empresas abertas em 12 meses (97,6% micro/pequenas); IA (Claude + Lovable + Supabase + Stripe) permite solo founder fazer o trabalho de 5 devs; MEI financeiro como nicho mais validado (13M+ ativos, dor clara DAS/NF/DASN); 3 erros reais do builder expostos (construir antes de validar, features demais, preço baixo demais); modelo freemium R$ 29 → R$ 49; evergreen com série natural de 4+ episódios
 
 ### Ângulos quentes em 1 de junho 2026
 
@@ -664,6 +678,8 @@ Evitar:
 | Mercado agentes autônomos US$ 8,5bi→35bi 2030 CAGR 42% + diferença agente vs chatbot + 3 nichos BR (MEI fiscal, clínica agendamento, e-commerce suporte) + stack Claude Managed Agents MCP Lovable Supabase Stripe + 5% PMEs BR sem SaaS | "US$ 8,5 Bilhões Hoje, US$ 35 Bilhões em 2030 — Como Criar Seu Agente Autônomo com Claude Agora" | Alto |
 | Claude Mythos iminente para todos (29/05 < 72h) + zero-days todos os SOs + RCE FreeBSD 17 anos + Project Glasswing US$ 100M + Opus 4.8 disponível + US$ 965bi valuation + implicações práticas devs/founders BR + janela de preparação pré-lançamento | "Claude Mythos Chega Para Todos — A IA Que Encontra Zero-Days Está Prestes a Mudar Tudo" | Alto |
 | 87% criadores usam IA (40% diário) + Gemini AI núcleo YouTube desde jan/2026 + Neal Mohan AI Slop prioridade #1 + framework zona verde (bastidores) / zona vermelha (substituição) + stack Claude/Opus Clip/CapCut/Runway/HeyGen + 3h economizadas por conteúdo + série por ferramenta | "87% dos Criadores Usam IA — Mas o YouTube Premia Quem Parece Humano. O Stack Certo Para Junho 2026" | Alto |
+| Anthropic IPO confidencial SEC 01/06 < 24h + ARR $47bi (+57% em 2 meses) + valuation $965bi + Claude Mythos para ENISA UE + Dynamic Workflows subagentes + comparação Petrobras R$450bi BR + ângulo preços/roadmap pós-IPO para usuário BR | "A Anthropic Pediu IPO — e Agora Vale Quase US$ 1 Trilhão. O Que Muda Para Você" | Alto |
+| Mercado SaaS BR $7,9bi→$25,5bi CAGR 13,87% + 5% PMEs + 3,9M novas empresas + MEI nicho (13M+, DAS/NF/DASN) + stack Claude+Lovable+Supabase+Stripe + 3 erros reais builder + freemium R$29→R$49 + série 4+ episódios | "5% das Empresas Brasileiras Usam SaaS — Eu Construí o Produto Para os Outros 95% em 30 Dias" | Alto |
 
 ---
 
@@ -703,3 +719,4 @@ Evitar:
 | 2026-05-11 | 3.5.0 | 2 novos ângulos quentes (Claude no Microsoft 365 com add-ins Excel/PowerPoint/Word/Outlook para trabalhador comum brasileiro — ângulo de impacto prático massivo além de devs/founders; paradoxo IA vs. autenticidade no YouTube — 85% dos criadores usam IA mas algoritmo Gemini AI premia presença humana real, framework zona verde/vermelha); 6 novos termos de busca (Claude Microsoft 365 add-ins Office trabalhador, Claude Excel PowerPoint Word Outlook, autenticidade YouTube algoritmo 2026, Gemini AI frame análise criadores, paradoxo IA autenticidade criadores, Castmagic podcast automação conteúdo); 2 novos exemplos de roteiros; descoberta do dia: ângulo "Office para trabalhador comum" tem alcance 10–20x maior que ângulos dev/founder porque atinge 40M+ usuários de Office no Brasil que nunca viram conteúdo prático sobre IA em suas ferramentas cotidianas |
 | 2026-05-31 | 4.1.0 | 2 novos ângulos quentes (Claude Code +50% limites semanais até 13/07 como estratégia anti-Codex da OpenAI — ângulo de guerra competitiva + setting ultracode + sandbox privada beta + impacto prático imediato para devs BR; mercado de agentes autônomos US$ 8,5bi→35bi CAGR 42% + 3 nichos brasileiros validados MEI/clínica/e-commerce + tutorial stack completo Claude Managed Agents MCP Lovable Supabase); 10 novos termos de busca (Claude Code limites 50% anti-Codex, OpenAI Codex agente sandbox, ultracode setting xhigh, Anthropic vs OpenAI guerra dev, mercado agentes autônomos 35bi, agente MEI DAS fiscal, agente clínica agendamento WhatsApp, agente e-commerce suporte, Claude Managed Agents sandbox privada MCP); 2 novos exemplos na tabela; descoberta do dia: ângulo "guerra de ferramentas entre Anthropic e OpenAI" com data de expiração concreta (13/07) é o formato ideal para criar urgência genuína sem ser clickbait — o espectador dev tem uma ação clara e um prazo real para agir |
 | 2026-06-01 | 4.2.0 | 2 novos ângulos quentes (Claude Mythos iminente para todos + US$ 965bi valuation + RCE FreeBSD 17 anos + Project Glasswing US$ 100M + Opus 4.8 disponível + implicações práticas devs BR; paradoxo IA + autenticidade YouTube — 87% adoção diária, Gemini AI analisa frame a frame, framework zona verde/vermelha atualizado, stack 5 ferramentas com dado de 3h economizadas por conteúdo); 4 novos termos de busca sugeridos (Claude Mythos disponibilidade geral clientes, Anthropic Mythos cibersegurança zero-day, Gemini AI YouTube frame autenticidade zona verde, stack criadores IA junho 2026 Claude Opus Clip); 2 novos exemplos na tabela de roteiros; descoberta do dia: o framework zona verde/vermelha para uso de IA em YouTube é o conceito mais acionável para criadores BR em 2026 — resolve o paradoxo de "usar IA sem ser punido pelo algoritmo" de forma binária e prática, com potencial de série de 5 episódios (um por ferramenta do stack) |
+| 2026-06-02 | 4.3.0 | 2 novos ângulos quentes (Anthropic IPO confidencial SEC 01/06 + ARR $47bi +57% em 2 meses + valuation $965bi + Mythos para ENISA + Dynamic Workflows subagentes + comparação Petrobras BR — janela < 24h; Micro SaaS Brasil $7,9bi→$25,5bi CAGR 13,87% + 5% PMEs + 3,9M novas empresas + MEI financeiro nicho validado + stack Claude+Lovable+Supabase + 3 erros reais builder + freemium R$29→R$49 — série natural 4+ ep.); 9 novos termos de busca (Anthropic IPO confidencial SEC, valuation $965bi IPO, ARR $47bi crescimento, Claude Mythos ENISA UE, Dynamic Workflows subagentes, Magic Hour geração vídeo, Noiz voz storytelling, mercado SaaS Brasil $7,9bi 2025, YouTube Shorts 15-30s alcance orgânico); 2 novos exemplos na tabela de roteiros; descoberta do dia: IPO da Anthropic em 01/06 com ARR de $47bi (+57% em 60 dias) é o maior evento de janela de busca da semana — o ângulo "o que abertura de capital significa para o preço do Claude e o usuário brasileiro" tem zero concorrência em PT-BR e conecta dado global com impacto prático imediato |
