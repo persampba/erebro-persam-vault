@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 4.7.0
-atualizado: 2026-06-06
+versao: 4.9.0
+atualizado: 2026-06-08
 tags:
   - skill
   - pesquisa
@@ -179,7 +179,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude outage instabilidade [ANO]"`
 - `"autenticidade YouTube vídeos amadores virais [ANO]"`
 - `"Noiz plataforma áudio voz storytelling criadores [ANO]"`
+- `"Noiz.ai síntese voz humana podcast YouTubers [ANO]"`
 - `"Magic Hour geração vídeo text-to-video criadores [ANO]"`
+- `"Magic Hour plataforma completa vídeo IA text-to-video [ANO]"`
 - `"vertical SaaS saúde jurídico construção Brasil [ANO]"`
 - `"Claude Dynamic Workflows orquestração subagentes codebase [ANO]"`
 - `"Claude Opus 4.8 Dynamic Workflows auditoria bugs segurança [ANO]"`
@@ -208,6 +210,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Managed Agents sandbox auto-hospedada Cloudflare Daytona Modal Vercel [ANO]"`
 - `"Anthropic partner hub 40000 empresas 10000 consultores [ANO]"`
 - `"Anthropic Services Track certificacao parceiros [ANO]"`
+- `"Anthropic CFO preço eficiência token custo [ANO]"`
+- `"Claude cada versao mais barata ciclo virtuoso [ANO]"`
+- `"ciclo virtuoso RL inferência treinamento custo IA [ANO]"`
+- `"aprendizado reforco inferencia custo treinamento LLM [ANO]"`
+- `"líderes brasileiros agentes autonomos 75 porcento 2026"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -352,6 +359,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 
 99. **"Claude Opus 4.8: A IA que Quase Vale US$ 1 Trilhão — e o Que Muda Para Você"** — lançado em 28/05 (< 72h); Opus 4.8 traz melhorias em codificação, competências agênticas (trabalha autônomo por mais tempo), raciocínio e honestidade sobre progresso; mesmo preço do 4.7; Anthropic levantou US$ 65 bilhões, valuation de US$ 965 bilhões (quase 1 trilhão); comparação com Petrobras (R$ 450bi) é ângulo local poderoso; receita cresceu 80x no Q1/2026; Claude Mythos Preview chegando a todos em breve; Dynamic Workflows (Code with Claude MIT 21/05) para busca de bugs, auditorias de segurança e otimização; zero PT-BR com esse nível de análise; janela < 72h do lançamento
 100. **"O Mercado de US$ 60 Bilhões que 95% dos Empreendedores Brasileiros Estão Ignorando"** — micro SaaS indo de US$ 15,7bi para US$ 59,6bi até 2030 (CAGR 30%); 67% das startups digitais de 2026 são micro SaaS; Brasil com apenas 5% das PMEs usando SaaS + 3,9M novas empresas (97,6% micro/pequenas); IA derrubou barreira técnica — founder solo com Claude + Lovable + Supabase + Stripe constrói em 30 dias; vertical SaaS cresce 2–3x mais rápido que horizontal; freemium R$0→R$29→R$49 como modelo validado; janela de 18–24 meses antes de nichos mais óbvios ficarem saturados; potencial de série de 4+ episódios
+
+### Ângulos quentes em 8 de junho 2026
+
+117. **"Como o Claude Fica Mais Barato a Cada Versão — O Ciclo Virtuoso Que Vai Derrubar os Preços de IA Para Sempre"** — CFO da Anthropic explicou em 07/06 (< 48h) o mecanismo técnico: aprendizado por reforço funciona como inferência dentro de ambiente controlado, tornando cada ciclo de treinamento mais barato que o anterior; modelos mais eficientes para inferência reduzem custo por token e financiam o próximo salto; custo do Claude caiu >75% desde 2023 sem perda de capacidade; zero PT-BR sobre a lógica de precificação estratégica de IA; impacto prático direto para founders e usuários BR (margem vai melhorar com o tempo); evergreen + série natural (preços → Managed Agents → build ao vivo MEI)
+
+118. **"75% dos Líderes Brasileiros Querem Agentes Autônomos em 2026 — Como Criar o Seu com Claude em 30 Dias"** — dado local verificável (75% dos líderes BR esperam agentes autônomos operando de forma independente até o final de 2026); Claude Managed Agents em public beta com sandbox auto-hospedada (Cloudflare, Daytona, Modal, Vercel) e MCP privado; diferença conceitual chatbot vs agente como ângulo educacional de alto potencial de retenção; 3 nichos BR validados (MEI fiscal 13M+, clínica agendamento, e-commerce suporte pós-venda); custo agente vs. custo humano (R$ 80–200/mês vs. R$ 3.000–4.500/mês); mercado US$ 8,5bi→35bi CAGR 42%; série natural de 4 episódios (conceito → build MEI → build clínica → escala)
 
 ### Ângulos quentes em 7 de junho 2026
 
@@ -757,6 +770,8 @@ Evitar:
 | VentureBeat confirmou 80% código produção Anthropic de autoria do Claude maio/2026 + engenheiros 8× mais merge/dia + paradigma velocidade de digitação → clareza de especificação + recursive self-improvement dado com empresa/data/número verificável + stack Claude+Lovable+Supabase valida builder solo 30 dias + 5% PMEs BR sem SaaS + série natural 2 episódios (conceito → build MEI ao vivo) + zero PT-BR | "A IA que Constrói a Si Mesma — 80% do Código da Anthropic Já É Escrito pelo Claude" | Alto |
 | Claude Managed Agents sandbox auto-hospedada + MCP privado + Cloudflare Daytona Modal Vercel + Anthropic Partner Network 40k empresas + impacto prático CTOs BR preocupados com privacidade de dados + série natural conceito→build→deploy | "Claude Managed Agents em Sandbox Privada — Seu Agente Agora Vive Dentro da Sua Empresa" | Alto |
 | 87% criadores usam IA (40% diariamente) + 75% vídeos marketing com IA + Gemini AI análise frame a frame + abertura 3× mais viral + UGC-style bastidores como tendência ascendente + canais <50k nichos 3–4× mais engajados + framework zona verde/vermelha definitivo + stack < US$ 80/mês + 3h economizadas + evergreen série por ferramenta | "O Paradoxo da IA no YouTube 2026 — 87% Usam IA, Mas o Algoritmo Premia Quem Parece Humano" | Alto |
+| CFO Anthropic 07/06 < 48h + ciclo virtuoso RL→inferência→treinamento→próximo modelo + custo caiu >75% desde 2023 + piso intocável de investimento + zero PT-BR sobre precificação estratégica + dado verificável com executivo nomeado + impacto prático para founders BR (margem vai melhorar) + série 3 episódios (preços → Managed Agents → build MEI) | "Como o Claude Fica Mais Barato a Cada Versão — O Ciclo Virtuoso Que Vai Derrubar os Preços de IA Para Sempre" | Alto |
+| 75% líderes BR querem agentes autônomos até dez/2026 + Claude Managed Agents beta público sandbox privada + diferença chatbot vs agente como ângulo educacional + 3 nichos BR validados (MEI 13M+ / clínica agendamento / e-commerce suporte) + custo agente R$80–200 vs. humano R$3k–4,5k + mercado $8,5bi→$35bi CAGR 42% + série 4 episódios (conceito → build MEI → build clínica → escala) | "75% dos Líderes Brasileiros Querem Agentes Autônomos em 2026 — Como Criar o Seu com Claude em 30 Dias" | Alto |
 
 ---
 
@@ -802,3 +817,4 @@ Evitar:
 | 2026-06-06 | 4.7.0 | 2 novos ângulos quentes (#113 Anthropic pediu pausa global em IA 05/06 < 24h + Claude chamou de "pre-IPO cosplay" + primeiro evento de IA discordando publicamente da política da criadora + debate alinhamento empresa vs. valores humanos + regulatory capture + zero PT-BR + polarização máxima; #114 VentureBeat confirmou 80% código produção Anthropic de autoria do Claude + 8× produtividade engenheiros + recursive self-improvement dado verificável + novo paradigma "velocidade digitação → clareza especificação" + série natural 2 episódios); 14 novos termos de busca (Anthropic pausa global fronteira, Claude pre-IPO cosplay, regulatory capture IA big tech, alinhamento empresa vs. humanos, VentureBeat 80% código Claude, merge 8x dia produtividade, clareza especificação novo paradigma dev, Claude Managed Agents Cloudflare Daytona Modal Vercel, Anthropic partner hub 40000 empresas 10000 consultores); 4 novos exemplos na tabela de roteiros; descoberta do dia: o ângulo "a empresa pediu pausa e o produto disse não" é o formato de paradoxo mais viral possível para canal de IA — não tem resposta certa, gera debate genuíno nos comentários por semanas, e o dado de regulatory capture conecta IA com empreendedorismo de forma que qualquer founder brasileiro entende imediatamente |
 | 2026-06-07 | 4.8.0 | 2 novos ângulos quentes (#115 Claude Managed Agents sandbox privada + MCP privado — impacto prático para CTOs e founders BR com dados sensíveis; #116 paradoxo IA YouTube consolidado — framework zona verde/vermelha definitivo com dados atualizados de junho 2026); 4 novos termos de busca (Claude Managed Agents sandbox auto-hospedada Cloudflare, MCP privado agente corporativo, YouTube paradoxo IA autenticidade 87%, stack criadores IA US$ 80 mês ROI); 2 novos exemplos na tabela de roteiros; descoberta do dia: o ângulo "agente dentro da empresa sem sair" resolve a objeção número um de CTOs e founders brasileiros sobre adoção de IA — privacidade de dados — com uma resposta técnica concreta e acessível; combina urgência (public beta recém-lançado) com evergreen (privacidade nunca perde relevância) |
 | 2026-06-04 | 4.5.0 | 2 novos ângulos quentes (Claude Opus 4.8 Dynamic Workflows — agente cria subagentes especializados em tempo real, distribui tarefas em paralelo e consolida resultados; Managed Agents com sandbox auto-hospedada e MCP privado em beta público; fast mode 2,5× mais rápido; impacto direto para devs solo e founders; zero PT-BR técnico acessível; Micro SaaS US$ 60bi CAGR 30% + 3 nichos validados BR MEI/clínica/e-commerce + stack Claude+Lovable+Supabase+Stripe < R$200/mês + plano de 30 dias + série 4 episódios); 10 novos termos de busca (Claude Dynamic Workflows orquestração subagentes, Opus 4.8 Dynamic Workflows auditoria, Managed Agents sandbox auto-hospedada MCP privado, Dynamic Workflows vs Claude Code agente autônomo, Anthropic Services Track certificação, micro SaaS repurposing CRM conformidade, micro SaaS MEI clínica e-commerce nichos BR, vídeos virais autenticidade bastidores YouTube emocional, YouTube profundidade temática consistência criador algoritmo, 87% criadores IA 3h economizadas conteúdo); 2 novos exemplos na tabela; descoberta do dia: Dynamic Workflows é o primeiro ângulo de "o agente monta o próprio time" em PT-BR — a metáfora de gerente vs. ferramenta é imediatamente compreensível para qualquer founder ou dev, não exige conhecimento técnico prévio, e o dado concreto de auditoria de codebase inteira em minutos substitui horas de revisão manual, criando urgência prática sem precisar de janela de notícia |
+| 2026-06-08 | 4.9.0 | 2 novos ângulos quentes (#117 CFO Anthropic explicou ciclo virtuoso de precificação 07/06 < 48h — RL→inferência→treinamento→próximo modelo mais barato, custo caiu >75% desde 2023, zero PT-BR sobre precificação estratégica, série 3 ep.; #118 75% líderes BR querem agentes autônomos até dez/2026 + Claude Managed Agents beta público sandbox privada + diferença chatbot vs agente + 3 nichos BR validados + custo agente vs. humano + série 4 ep.); 7 novos termos de busca (Anthropic CFO preço eficiência token custo, Claude cada versao mais barata ciclo virtuoso, ciclo virtuoso RL inferência treinamento custo IA, aprendizado reforco inferencia custo treinamento LLM, líderes brasileiros agentes autonomos 75%, Noiz.ai síntese voz humana podcast, Magic Hour plataforma completa vídeo IA); 2 novos exemplos na tabela de roteiros; descoberta do dia: o ângulo "como IA fica mais barata estruturalmente" é o mais evergreen para canal de empreendedorismo digital — o mecanismo técnico (ciclo virtuoso de RL) se torna vantagem competitiva para quem entende antes dos concorrentes, e a comparação de custo de API vs. custo de humano é o argumento mais poderoso para convencer o empreendedor conservador a adotar agentes |
