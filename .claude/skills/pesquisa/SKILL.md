@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 5.2.0
-atualizado: 2026-06-11
+versao: 5.3.0
+atualizado: 2026-06-12
 tags:
   - skill
   - pesquisa
@@ -237,6 +237,16 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Fable 5 Apple iOS 27 Foundation Models [ANO]"`
 - `"Claude Fable 5 vs Opus 4.8 qual usar [ANO]"`
 - `"Anthropic Mythos público acesso geral data [ANO]"`
+- `"Claude Corps programa bolsistas nonprofits [ANO]"`
+- `"Anthropic Claude Corps 1000 fellows organizações sem fins lucrativos [ANO]"`
+- `"Claude Corps carreira IA impacto social bolsas [ANO]"`
+- `"Anthropic US$ 150 milhões programa social nonprofits [ANO]"`
+- `"Claude Fable 5 autocensura fallback cibersegurança biologia [ANO]"`
+- `"Claude Fable 5 Apple Foundation Models iOS 27 [ANO]"`
+- `"Claude Fable 5 preço dobrado US$ 10 US$ 50 token [ANO]"`
+- `"Claude Fable 5 Dynamic Workflows auditoria codebase paralela [ANO]"`
+- `"Claude Code Ultracode configuração xhigh autonomo [ANO]"`
+- `"Anthropic modelo autocensura fallback segurança ofensiva [ANO]"`
 - `"YouTube Gemini AI substituiu algoritmo completamente [ANO]"`
 - `"YouTube permanência inicial 30 segundos sinal principal [ANO]"`
 - `"paradoxo IA YouTube 87 porcento criadores algoritmo premia humano [ANO]"`
@@ -389,6 +399,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 
 99. **"Claude Opus 4.8: A IA que Quase Vale US$ 1 Trilhão — e o Que Muda Para Você"** — lançado em 28/05 (< 72h); Opus 4.8 traz melhorias em codificação, competências agênticas (trabalha autônomo por mais tempo), raciocínio e honestidade sobre progresso; mesmo preço do 4.7; Anthropic levantou US$ 65 bilhões, valuation de US$ 965 bilhões (quase 1 trilhão); comparação com Petrobras (R$ 450bi) é ângulo local poderoso; receita cresceu 80x no Q1/2026; Claude Mythos Preview chegando a todos em breve; Dynamic Workflows (Code with Claude MIT 21/05) para busca de bugs, auditorias de segurança e otimização; zero PT-BR com esse nível de análise; janela < 72h do lançamento
 100. **"O Mercado de US$ 60 Bilhões que 95% dos Empreendedores Brasileiros Estão Ignorando"** — micro SaaS indo de US$ 15,7bi para US$ 59,6bi até 2030 (CAGR 30%); 67% das startups digitais de 2026 são micro SaaS; Brasil com apenas 5% das PMEs usando SaaS + 3,9M novas empresas (97,6% micro/pequenas); IA derrubou barreira técnica — founder solo com Claude + Lovable + Supabase + Stripe constrói em 30 dias; vertical SaaS cresce 2–3x mais rápido que horizontal; freemium R$0→R$29→R$49 como modelo validado; janela de 18–24 meses antes de nichos mais óbvios ficarem saturados; potencial de série de 4+ episódios
+
+### Ângulos quentes em 12 de junho 2026
+
+125. **"Claude Corps: A Anthropic Vai Pagar 1.000 Pessoas Para Ensinar IA — e O Que Isso Diz Sobre o Futuro"** — anunciado em 11/06 (< 24h); Anthropic doa US$ 150 milhões para contratar 1.000 bolsistas alocados dentro de ONGs por 12 meses; foco em início de carreira + impacto social; cada bolsista treinado em Claude multiplica o conhecimento para dezenas de pessoas dentro das organizações; ângulo duplo: oportunidade de carreira direta + sinal estratégico de que Anthropic está construindo ecossistema de usuários avançados no setor social; contexto: valuation US$ 965 bi + ARR US$ 47 bi + IPO confidencial SEC = empresa no topo do mercado investindo em legitimidade social antes do IPO; zero PT-BR de qualidade com esse ângulo; janela < 24h; série natural (o que é → como se candidatar → o que muda para o mercado de trabalho em IA)
+
+126. **"Claude Fable 5: O Modelo Que Se Censura Sozinho — O Que Mudou Para Você"** — lançado em 09/06 (3 dias atrás); primeira versão pública do Mythos; melhor desempenho em engenharia de software, knowledge work, visão e pesquisa científica; comportamento inédito: autocensura automática em cibersegurança ofensiva/biologia com fallback para Opus 4.8 em tempo real sem interrupção visível; primeiro modelo que toma decisão sobre qual versão de si mesmo deve responder; preço dobrado (US$ 10/M entrada, US$ 50/M saída vs. US$ 5/US$ 25 do Opus 4.8); integração Apple Foundation Models no iOS/macOS/iPadOS 27; Claude Code Dynamic Workflows para auditoria paralela de codebases; zero PT-BR de qualidade 3 dias após lançamento; série natural (review → teste ao vivo → micro SaaS em produção com Fable 5); ângulo de comparação custo vs. valor para devs e founders BR; permanece relevante por 7–14 dias
 
 ### Ângulos quentes em 11 de junho 2026
 
