@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 5.4.0
-atualizado: 2026-06-13
+versao: 5.5.0
+atualizado: 2026-06-14
 tags:
   - skill
   - pesquisa
@@ -261,6 +261,15 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Fable 5 vs Opus 4.8 quando usar análise custo benefício [ANO]"`
 - `"Anthropic Mythos 5 acesso restrito parceiros vetados [ANO]"`
 - `"Claude Corps como aplicar inscrição guia 2026 [ANO]"`
+- `"Claude Corps brasileiros como aplicar visa internacional [ANO]"`
+- `"Claude Corps elegibilidade internacional não americano [ANO]"`
+- `"Claude Corps remoto presencial formato trabalho [ANO]"`
+- `"UGC-style AI videos marketing digital tendencia autenticidade [ANO]"`
+- `"Physical AI robotica drones veiculos autonomos mercado [ANO]"`
+- `"Anthropic Institute Jack Clark think tank segurança IA [ANO]"`
+- `"micro SaaS 67 porcento startups digitais dado [ANO]"`
+- `"AI Act regulação startup SaaS Europa impacto [ANO]"`
+- `"Anthropic IPO outono 2026 data prevista Nasdaq SEC [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -407,6 +416,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 
 99. **"Claude Opus 4.8: A IA que Quase Vale US$ 1 Trilhão — e o Que Muda Para Você"** — lançado em 28/05 (< 72h); Opus 4.8 traz melhorias em codificação, competências agênticas (trabalha autônomo por mais tempo), raciocínio e honestidade sobre progresso; mesmo preço do 4.7; Anthropic levantou US$ 65 bilhões, valuation de US$ 965 bilhões (quase 1 trilhão); comparação com Petrobras (R$ 450bi) é ângulo local poderoso; receita cresceu 80x no Q1/2026; Claude Mythos Preview chegando a todos em breve; Dynamic Workflows (Code with Claude MIT 21/05) para busca de bugs, auditorias de segurança e otimização; zero PT-BR com esse nível de análise; janela < 72h do lançamento
 100. **"O Mercado de US$ 60 Bilhões que 95% dos Empreendedores Brasileiros Estão Ignorando"** — micro SaaS indo de US$ 15,7bi para US$ 59,6bi até 2030 (CAGR 30%); 67% das startups digitais de 2026 são micro SaaS; Brasil com apenas 5% das PMEs usando SaaS + 3,9M novas empresas (97,6% micro/pequenas); IA derrubou barreira técnica — founder solo com Claude + Lovable + Supabase + Stripe constrói em 30 dias; vertical SaaS cresce 2–3x mais rápido que horizontal; freemium R$0→R$29→R$49 como modelo validado; janela de 18–24 meses antes de nichos mais óbvios ficarem saturados; potencial de série de 4+ episódios
+
+### Ângulos quentes em 14 de junho de 2026
+
+129. **"Claude Corps: Você Pode Ganhar US$ 85k Para Aprender IA — Inscrições Fecham em 33 Dias"** — anunciado em 11/06 (3 dias); Anthropic investe US$ 150M para pagar 1.000 fellows; US$ 85k/ano + US$ 10k grant; 18+, menos de 2 anos de experiência, sem exigência de diploma; 400+ ONGs anfitriãs (saúde pública, moradia, educação, segurança alimentar); candidaturas até **17/07** para 1º cohort de 100 fellows (out/2026); pergunta quente para BR: elegibilidade de internacionais e formato remoto — sem resposta clara no FAQ público; ângulo duplo: oportunidade de carreira real + sinal estratégico da Anthropic pré-IPO (valuation US$ 965bi, ARR US$ 47bi, IPO confidencial SEC outono/2026); diferença do roteiro de 12/06 que cobriu o anúncio: este é o guia prático de como se candidatar, quem pode ir, e o que esperar; zero PT-BR com esse nível de detalhe prático + análise de elegibilidade para brasileiros; janela de inscrição ativa (33 dias)
+
+130. **"67% das Novas Startups São Micro SaaS — O Que os Outros 33% Estão Perdendo em 2026"** — dado de abertura forte e contraintuitivo; micro SaaS US$ 15,7bi (2024) → US$ 59,6bi (2030) CAGR 30%; SaaS com IA crescendo 38% a/a; 67% das startups digitais de 2026 são micro SaaS — dado nunca coberto com esse ângulo em PT-BR; Brasil com apenas 5% de adoção PME (20M+ empresas ativas); vertical SaaS cresce 2–3× mais que horizontal; IA (Claude + Lovable + Supabase + Stripe) = MVP em 30 dias por menos de R$ 200/mês; nichos mais validados hoje: MEI financeiro (13,2M+), clínicas (400k+), e-commerce (1,7M lojas); modelo freemium R$ 0→R$ 29→R$ 49 confirmado; janela de 18–24 meses antes de saturação dos nichos mais óbvios; ângulo contrarian vs. "você pode fazer micro SaaS" — foca no custo de oportunidade de NÃO ter entrado ainda; potencial de série de 4+ episódios (mercado → validação → build MEI → primeiros clientes); evergreen com dado concreto atualizável a cada trimestre
 
 ### Ângulos quentes em 13 de junho de 2026
 
