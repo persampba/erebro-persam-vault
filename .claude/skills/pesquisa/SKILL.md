@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 5.5.0
-atualizado: 2026-06-14
+versao: 5.6.0
+atualizado: 2026-06-15
 tags:
   - skill
   - pesquisa
@@ -270,6 +270,16 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS 67 porcento startups digitais dado [ANO]"`
 - `"AI Act regulação startup SaaS Europa impacto [ANO]"`
 - `"Anthropic IPO outono 2026 data prevista Nasdaq SEC [ANO]"`
+- `"Claude Fable 5 retirado ar diretiva exportação governo EUA [ANO]"`
+- `"Anthropic verificação identidade obrigatoria julho 2026 [ANO]"`
+- `"controle exportação IA modelo fronteira governo americano [ANO]"`
+- `"Anthropic KYC identidade usuários acesso Claude [ANO]"`
+- `"Claude Fable 5 72 horas offline regulação exportação [ANO]"`
+- `"diretiva exportação IA tecnologia estratégica governo EUA [ANO]"`
+- `"Physical AI saindo digital fisico robótica drones veículos [ANO]"`
+- `"Google Flow text-to-video Android gratuito ultrarrealista [ANO]"`
+- `"Meta Edits Apple Creator Studio Big Tech criadores gratuito [ANO]"`
+- `"SaaS habilitado por IA crescimento 38 porcento anual [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -925,3 +935,4 @@ Evitar:
 | 2026-06-11 | 5.2.0 | 2 novos ângulos quentes (#123 agentes autônomos BR — 75% líderes BR + Claude Managed Agents sandbox privada + 3 nichos validados MEI/clínica/e-commerce + stack R$ 200/mês + série 4 ep.; #124 stack IA criadores 6 ferramentas sem patrocínio — 87% adoção, Claude+Perplexity+Opus Clip+CapCut+Runway+Noiz.ai < US$ 80/mês, 3h economizadas, regra zona verde/vermelha por ferramenta, evergreen série por ferramenta); 8 novos termos de busca (Noiz.ai stack criadores áudio 2026, stack IA criadores sem patrocínio 6 ferramentas, Perplexity AI pesquisa criadores YouTube, agentes autônomos Brasil líderes 75%, Claude Managed Agents MEI clínica e-commerce, chatbot vs agente diferença prática, micro SaaS freemium R$ 29 R$ 49 PME validado, Claude Managed Agents nicho BR); 2 novos exemplos na tabela de roteiros; descoberta do dia: Noiz.ai emergiu como ferramenta de referência para áudio de criadores BR em 2026 — síntese de voz humana e produção integrada redefinindo fluxo de podcasters e YouTubers; o stack de 6 ferramentas com custo explícito e regra de uso correto/incorreto por ferramenta é o formato mais acionável e diferenciado que um criador BR pode consumir, porque elimina o excesso de opções e diz exatamente o que fazer — e o que não fazer |
 | 2026-06-12 | 5.3.0 | 2 novos ângulos quentes (#125 Claude Corps US$ 150M/1.000 bolsistas/ONGs/12 meses/US$ 85k+US$ 10k grant/sem diploma/18+/< 2 anos experiência — programa anunciado 11/06 < 24h, sinal estratégico pré-IPO, série natural o que é → como candidatar → mercado trabalho IA; #126 Claude Fable 5 3 dias pós-lançamento — autocensura automática com fallback Opus 4.8, preço dobrado, série review→teste→build); 2 novos exemplos na tabela de roteiros (#125 Claude Corps, #126 Fable 5 censura) |
 | 2026-06-13 | 5.4.0 | 2 novos ângulos quentes (#127 Google Flow Android < 30 dias — texto→vídeo ultrarrealista gratuito da Google, Meta Edits e Apple Creator Studio também no mercado, Big Tech entrou ecossistema criadores com ferramentas gratuitas, impacto direto no stack Runway/HeyGen/CapCut, framework decisão ferramenta por ferramenta, evergreen série por ferramenta; #128 Fable 5 vale pagar o dobro? — calculadora custo por token × tarefas/mês, 3 perfis usuário BR com recomendação específica, urgência 22/06 preço dobra, ângulo contraditório modelo mais caro pode custar menos no total); 9 novos termos de busca (Google Flow Android geração vídeo ultrarrealista criadores, Google Flow vs Runway Gen vídeo IA, Meta Edits Apple Creator Studio Google Flow plataformas, Big Tech criadores vídeo IA gratuito, Claude Fable 5 custo por token calculadora API, Fable 5 vs Opus 4.8 quando usar análise custo, Mythos 5 acesso restrito parceiros vetados, Claude Corps como aplicar inscrição guia 2026, Claude Corps processo seleção julho 2026); 4 novos exemplos na tabela (#125, #126, #127, #128); descoberta do dia: Google Flow é a primeira ferramenta de texto→vídeo ultrarrealista de uma big tech disponível gratuitamente para Android — a entrada simultânea de Google, Meta e Apple no mercado de criadores com ferramentas gratuitas ou muito baratas é o evento que mais vai impactar os preços do ecossistema de vídeo IA nos próximos 6 meses, e zero PT-BR abordou o tema do ponto de vista do criador brasileiro que já usa Runway ou HeyGen e precisa decidir o que manter no stack |
+| 2026-06-15 | 5.6.0 | 2 novos ângulos quentes (#129 Claude Fable 5 retirado em 72h por diretiva de exportação do governo EUA — primeiro modelo de IA comercial removido por ordem governamental na história do setor, conecta geopolítica + controle de IA + IPO Anthropic + verificação de identidade, zero PT-BR, janela < 72h da suspensão; #130 Anthropic verificação de identidade obrigatória a partir de 8/07 — janela ativa de 23 dias, KYC como infraestrutura de controle de exportação, impacto em usuários BR, documentação aceita, privacidade, acesso diferenciado por jurisdição, par natural com roteiro Fable 5); 17 novos termos de busca (Claude Fable 5 retirado ar diretiva exportação, Anthropic verificação identidade julho 2026, controle exportação IA modelo fronteira, Anthropic KYC identidade usuários, Fable 5 72 horas offline regulação, diretiva exportação IA tecnologia estratégica, Physical AI saindo digital fisico, Google Flow text-to-video ultrarrealista, Meta Edits Apple Creator Studio Big Tech, SaaS habilitado por IA 38% crescimento); 2 novos exemplos na tabela de roteiros (#129, #130); descoberta do dia: o episódio do Fable 5 retirado por ordem governamental e a verificação de identidade obrigatória de julho são os dois lados da mesma moeda — controle de acesso a IA de fronteira — e o ângulo duplo (drama do lançamento + impacto prático no dia 8/07) cria uma série natural de 2 vídeos que se alimentam mutuamente, com a urgência concreta do prazo de 23 dias como motor de views orgânicos |
