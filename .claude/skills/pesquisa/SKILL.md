@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 6.6.0
-atualizado: 2026-06-25
+versao: 6.7.0
+atualizado: 2026-06-26
 tags:
   - skill
   - pesquisa
@@ -336,6 +336,9 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Claude Tag governança IA times empresas [ANO]"`
 - `"Ask YouTube Gemini Omni Shorts Remix criadores [ANO]"`
 - `"Ask YouTube SEO semântico conversacional busca [ANO]"`
+- `"Gemini Omni edição vídeo conversação sem skill técnico [ANO]"`
+- `"YouTube Speech to song Shorts melodia diálogo criadores [ANO]"`
+- `"Claude Tag administrador funções personalizadas Enterprise [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
@@ -429,6 +432,11 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube micro-influenciadores campanhas marcas 2026 [ANO]"`
 - `"YouTube TV passivo assistir tendencia conteudo [ANO]"`
 - `"criadores economizam 3 horas IA por conteudo [ANO]"`
+- `"fundador solo micro SaaS 10k 60k mes receita sem investidor [ANO]"`
+- `"micro SaaS margens 70 80 porcento lucro recorrente nicho [ANO]"`
+- `"PME brasileira planilha WhatsApp digitalizacao SaaS oportunidade [ANO]"`
+- `"micro SaaS validar landing page lista espera pre-reserva [ANO]"`
+- `"precificar SaaS por valor nao custo ticket medio [ANO]"`
 
 ### Ferramentas para Criadores
 
@@ -509,6 +517,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 
 99. **"Claude Opus 4.8: A IA que Quase Vale US$ 1 Trilhão — e o Que Muda Para Você"** — lançado em 28/05 (< 72h); Opus 4.8 traz melhorias em codificação, competências agênticas (trabalha autônomo por mais tempo), raciocínio e honestidade sobre progresso; mesmo preço do 4.7; Anthropic levantou US$ 65 bilhões, valuation de US$ 965 bilhões (quase 1 trilhão); comparação com Petrobras (R$ 450bi) é ângulo local poderoso; receita cresceu 80x no Q1/2026; Claude Mythos Preview chegando a todos em breve; Dynamic Workflows (Code with Claude MIT 21/05) para busca de bugs, auditorias de segurança e otimização; zero PT-BR com esse nível de análise; janela < 72h do lançamento
 100. **"O Mercado de US$ 60 Bilhões que 95% dos Empreendedores Brasileiros Estão Ignorando"** — micro SaaS indo de US$ 15,7bi para US$ 59,6bi até 2030 (CAGR 30%); 67% das startups digitais de 2026 são micro SaaS; Brasil com apenas 5% das PMEs usando SaaS + 3,9M novas empresas (97,6% micro/pequenas); IA derrubou barreira técnica — founder solo com Claude + Lovable + Supabase + Stripe constrói em 30 dias; vertical SaaS cresce 2–3x mais rápido que horizontal; freemium R$0→R$29→R$49 como modelo validado; janela de 18–24 meses antes de nichos mais óbvios ficarem saturados; potencial de série de 4+ episódios
+
+### Ângulos quentes em 26 de junho de 2026
+
+131. **"Claude Tag: A Anthropic Colocou um Funcionário de IA Dentro do Slack — e Ele Executa as Tarefas"** — lançado em 23/06 (< 72h); Claude Tag vive dentro do Slack; @mencione Claude com uma tarefa em linguagem natural, ele decompõe em etapas e executa numa thread; disponível em beta fechado para Claude Enterprise e Team; Fable 5 como modelo base; impacto para equipes e founders: Slack deixa de ser mensageria e vira ambiente de delegação com IA; Claude também entrou no Apple Foundation Models (iOS 27, macOS 27, watchOS 27) — distribuição nativa para bilhões de dispositivos sem API key; ângulo central: "de chatbot que você consulta a agente que você delega"; impacto prático para equipes pequenas BR que já usam Slack; zero PT-BR de qualidade 72h após lançamento; série natural (o que é o Tag → demonstração ao vivo → comparação com Claude.ai → impacto para founders)
+
+132. **"95% das PMEs Brasileiras Usam Planilha — Como Criar o SaaS que Resolve o Problema em 30 Dias"** — apenas 5% das PMEs brasileiras usam qualquer SaaS; mercado global de SaaS atinge $300bi em 2026; fundadores solo constroem negócios de $10k-$60k/mês sem investidor; margens de 70-80% em micro SaaS vertical bem estruturado; IA nativa como núcleo do produto (não feature de marketing) é o diferencial validado; ângulo duplo: dado de mercado impactante (95% ainda fora) + tutorial de como entrar; processo de validação em 5 etapas (problema → landing → entrevista → MVP → precificação por valor); exemplo concreto: nutricionista, salão de beleza, escritório de advocacia, corretora de imóveis; série natural de 4 episódios; evergreen com dado atualizável; zero PT-BR com essa combinação de dado estrutural + passo a passo verificado
 
 ### Ângulos quentes em 14 de junho de 2026
 
