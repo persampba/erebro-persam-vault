@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.6.0
-atualizado: 2026-07-09
+versao: 7.7.0
+atualizado: 2026-07-13
 tags:
   - skill
   - pesquisa
@@ -392,6 +392,25 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube publicidade video digital 223 bilhoes 2026 [ANO]"`
 - `"89 porcento empresas usam video marketing 2026 dado [ANO]"`
 - `"micro SaaS America Latina 46 bilhoes 2027 Brasil 48 porcento [ANO]"`
+- `"Claude Reflect dashboard uso habitos IA [ANO]"`
+- `"Anthropic Reflect Spotify Wrapped IA uso mensal [ANO]"`
+- `"Claude Reflect 4D AI Fluency Framework [ANO]"`
+- `"Anthropic Reflect retenção engajamento estratégia [ANO]"`
+- `"Claude Reflect quiet hours wellbeing IA [ANO]"`
+- `"Claude Reflect beta Free Pro Max memória [ANO]"`
+- `"IA pós-hype maturidade mercado julho 2026 [ANO]"`
+- `"estratégia multimodelo IA empresa madura [ANO]"`
+- `"agentes autonomos IDC 50 porcento empresas 2027 [ANO]"`
+- `"Physical AI robótica drones veículos autonomos mercado 2026 [ANO]"`
+- `"SaaS habilitado IA 38 porcento crescimento [ANO]"`
+- `"Brasil SaaS mercado 7 bilhoes 2025 25 bilhoes 2034 [ANO]"`
+- `"YouTube Shorts avatar IA criador imagem gerada [ANO]"`
+- `"YouTube Playables Gemini 3 games prompt [ANO]"`
+- `"YouTube Speech to Song Shorts melodia diálogo [ANO]"`
+- `"Gemini Omni edição vídeo conversacional sem técnico [ANO]"`
+- `"Claude Microsoft 365 escrita email calendario OneDrive [ANO]"`
+- `"Claude Enterprise analytics admin direitos modelo gastos [ANO]"`
+- `"Claude for Government FedRAMP High beta [ANO]"`
 
 ### Cibersegurança e IA Ofensiva/Defensiva
 
