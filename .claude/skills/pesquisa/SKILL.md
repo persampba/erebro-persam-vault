@@ -337,6 +337,14 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS iOS Foundation Models app nativo nicho BR [ANO]"`
 - `"Swift Foundation Models Claude nativo app sem backend [ANO]"`
 - `"Claude Tag Slack beta Team Enterprise [ANO]"`
+- `"Claude Fable 5 extensão terceira vez julho [ANO]"`
+- `"Fable 5 até 19 julho créditos US$ 10 US$ 50 [ANO]"`
+- `"Claude Honeycomb EAP Cursor modelo secreto [ANO]"`
+- `"Opus 5 leak Cursor Anthropic Honeycomb [ANO]"`
+- `"Claude Honeycomb 1M context window extra-high-effort [ANO]"`
+- `"Claude Reflect dashboard uso mensal hábitos IA [ANO]"`
+- `"Anthropic Reflect Spotify Wrapped IA retenção [ANO]"`
+- `"Claude Reflect privacidade dados comportamento usuário [ANO]"`
 - `"Anthropic Claude Tag membro equipe Slack [ANO]"`
 - `"Claude Tag vs Claude Slack integração antiga [ANO]"`
 - `"Claude Tag identidade organizacional agente [ANO]"`
@@ -1259,10 +1267,19 @@ Evitar:
 
 ---
 
+## Ângulos Quentes em 14 de julho de 2026
+
+173. **"Fable 5 Estendido Pela 3ª Vez — E Um Modelo Secreto Foi Avistado no Cursor"** — em 13/07 (< 24h) a Anthropic prorrogou o Fable 5 pela **terceira vez** até 19/07 11:59 PM PT, com 50% do limite semanal incluso nos planos pagos; na mesma semana o modelo misterioso **"Claude Honeycomb EAP"** apareceu brevemente no Cursor (editor de código com IA mais usado por devs profissionais) e desapareceu em minutos — spec sheet visto pela comunidade mostrou contexto de 1M tokens + modo extra-high-effort + safety classifiers com fallback para Opus 4.8; comunidade de devs acredita ser o **Opus 5** com codinome Honeycomb; Anthropic nem confirma nem nega; especulação aponta para lançamento ainda em julho de 2026; após 19/07: créditos pagos a US$ 10/M input + US$ 50/M output; zero PT-BR com esse nível de análise; urgência genuína real (5 dias); calculadora de custo por perfil de usuário como diferencial acionável; série 3 ep. (extensão + Honeycomb → depois de 19/07 o que mudou → Opus 5 confirmado ou não); → [[Roteiros/roteiro-2026-07-14-fable-5-extendido-opus-5-vazamento]]
+
+174. **"Claude Reflect: A Anthropic Criou um Spotify Wrapped Para Seus Hábitos de IA — E Isso Muda Tudo"** — lançado 09/07 (< 5 dias) em beta para planos Free, Pro e Max (com memória ativada); dashboard mensal que mostra tópicos mais abordados, dia mais ativo, hora de pico e padrão de trabalho com o Claude; permite visualizar os últimos 1, 3, 6 ou 12 meses de atividade; analogia explícita ao Spotify Wrapped como estratégia de retenção e engajamento; paradoxo genuíno: a empresa que publicou a Constituição pública de valores com privacidade como pilar central agora coleta e apresenta dados detalhados de comportamento de usuário; Anthropic usa dados de uso para engajamento, compartilhamento viral e lock-in de plataforma; ângulo duplo: valor prático real (auditoria de ROI de IA, identificação de padrões de alta performance, benchmarking de evolução) + estratégia de negócios por trás; zero PT-BR com esse ângulo duplo; evergreen (debate de privacidade vs. conveniência não envelhece); série natural 3 ep. (o que é + como usar → uso estratégico avançado → privacidade e o que a Anthropic faz com seus dados); → [[Roteiros/roteiro-2026-07-14-claude-reflect-spotify-wrapped-ia]]
+
+---
+
 ## Histórico de Atualizações
 
 | Data | Versão | Mudança |
 |------|--------|---------|
+| 2026-07-14 | 7.8.0 | 2 novos ângulos quentes (#173 Fable 5 estendido 3ª vez até 19/07 + Honeycomb EAP (Opus 5?) avistado no Cursor — spec sheet 1M tokens + extra-high-effort + fallback Opus 4.8, urgência 5 dias, calculadora custo por perfil usuário, série 3 ep.; #174 Claude Reflect lançado 09/07 — dashboard mensal de hábitos de IA similar ao Spotify Wrapped, beta Free/Pro/Max com memória, paradoxo privacidade vs. retenção, ângulo duplo valor prático + estratégia de negócios Anthropic, evergreen); 8 novos termos de busca adicionados na categoria IA e Modelos (Fable 5 extensão 3ª vez Honeycomb, Opus 5 leak Cursor Anthropic, Claude Honeycomb EAP 1M context window, Claude Reflect dashboard uso habitos mensal, Anthropic Reflect Spotify Wrapped IA habitos, Claude Reflect Free Pro Max memória, Fable 5 créditos US$ 10 US$ 50 depois 19 julho, Claude Reflect privacidade dados comportamento); descoberta do dia: a extensão triple do Fable 5 combinada com o aparecimento do Honeycomb EAP no Cursor é o formato ideal de "urgência real + especulação verificada + ação concreta hoje" que maximiza engajamento sem recorrer a clickbait; Claude Reflect como Spotify Wrapped é o ângulo de produto mais compartilhável de julho/2026 — o momento de revelação de "quanto tempo passei fazendo X" é desenhado para viralizar em X/LinkedIn |
 | 2026-04-14 | 1.1.0 | Criação inicial da skill com termos, ângulos, critérios e exemplos baseados na pesquisa de estreia |
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
 | 2026-04-16 | 1.3.0 | Adicionadas fontes prioritárias a monitorar; checklist de qualidade; ângulos de contraste e build-in-public; novos ângulos quentes de abril; 2 novos exemplos (Routines + Micro SaaS Agentes); seções de estrutura de nota e workflow unificadas |
