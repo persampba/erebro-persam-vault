@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.8.0
-atualizado: 2026-07-15
+versao: 7.9.0
+atualizado: 2026-07-16
 tags:
   - skill
   - pesquisa
@@ -491,6 +491,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Apple Creator Studio iOS 27 sintese voz criadores [ANO]"`
 - `"stack IA criadores revisao cancelar manter [ANO]"`
 - `"Opus 4.8 disponibilidade pos-KYC usuarios verificados [ANO]"`
+- `"Claude for Teachers K-12 gratuito professores 1 ano premium [ANO]"`
+- `"Anthropic corrida BigTechs educacao sala de aula [ANO]"`
+- `"Claude Learning Commons Connector curriculo 50 estados [ANO]"`
+- `"Gartner agentes IA 5 porcento 40 porcento corporativo [ANO]"`
+- `"Microsoft AI Diffusion Report 17.8 porcento populacao ativa [ANO]"`
+- `"IA pos-hype maturidade corporativa transicao execucao infraestrutura [ANO]"`
+- `"gastos globais IA 2 trilhoes 2026 PIB Brasil [ANO]"`
 
 ### Micro SaaS e Empreendedorismo Digital
 
@@ -536,6 +543,8 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"PME brasileira planilha WhatsApp digitalizacao SaaS oportunidade [ANO]"`
 - `"micro SaaS validar landing page lista espera pre-reserva [ANO]"`
 - `"precificar SaaS por valor nao custo ticket medio [ANO]"`
+- `"micro SaaS BNCC professores brasileiros planejamento pedagogico [ANO]"`
+- `"equivalente Learning Commons Connector BNCC Brasil [ANO]"`
 
 ### Ferramentas para Criadores
 
@@ -1300,10 +1309,19 @@ Evitar:
 
 ---
 
+## Ângulos Quentes em 16 de julho de 2026
+
+175. **"A Anthropic Entrou nas Salas de Aula — E o Brasil Pode Ganhar Com Isso"** — lançado 14/07 (< 48h); Anthropic lançou Claude for Teachers: 1 ano de Claude premium gratuito para professores K-12 verificados nos EUA (Claude Code + Cowork + recursos avançados); 8 parceiros educacionais (ASSISTments, Brisk Teaching, Canva Education, Coteach, Diffit, Eedi, MagicSchool, Snorkl); Learning Commons Connector com currículos baseados em evidências dos 50 estados americanos; dados de alunos protegidos por K-12 DPA (FERPA); parceria com AFT (1,7M professores americanos); prazo de cadastro 30/06/2027; analogia histórica tripla: Microsoft Office nas escolas nos anos 90 (virou padrão corporativo), Google Suite nos anos 2010, iPad nos anos 2010 — todas geraram fidelidade de produto por décadas; multiplicador do professor: influencia 900–4.500 pessoas em 30 anos de carreira; BigTechs na corrida: OpenAI (ChatGPT Edu) + Google (Gemini for Education) + Microsoft (Copilot Education), mas Anthropic diferenciada por focar em professores (não alunos) — quem ensina define o que é usado na sala de aula; Brasil fora por ora = 3 janelas concretas: (1) busca orgânica PT-BR aberta — "Claude for Teachers como usar" em PT-BR está praticamente vazia, (2) guia prático Claude Pro para professores BR com prompts BNCC, (3) micro SaaS de planejamento pedagógico alinhado à BNCC — 2,2M professores rede pública, nenhum equivalente ao Learning Commons Connector existe no Brasil; stack micro SaaS BNCC: Claude API + Supabase + Lovable + Stripe, menos de R$ 200/mês, R$ 29–49/professor ou R$ 299–999/escola; série natural 3 ep. (este vídeo → demo ao vivo plano de aula com Claude + BNCC → como construir micro SaaS BNCC); → [[Roteiros/roteiro-2026-07-16-claude-for-teachers-brasil]]
+
+176. **"O Hype da IA Acabou — E o Que Vem Depois É Muito Mais Assustador Para Quem Ficou Parado"** — dado Gartner publicado em julho/2026; agentes de IA em aplicações corporativas: 5% em 2025 → 40% em 2026 (crescimento de 8x em 12 meses); Microsoft AI Diffusion Report Q1/2026: 17,8% da população mundial em idade ativa usa IA generativa, 26 economias já ultrapassaram 30% de adoção; gastos globais com IA superam US$ 2 trilhões em 2026 (mais que o PIB do Brasil inteiro); velocidade histórica de adoção: internet levou 10 anos para chegar a 30% global, smartphone levou 8 anos, IA generativa chegou lá em menos de 3 anos; transição cultural definitiva: de "projeto piloto" para "infraestrutura operacional" — a pergunta mudou de "será que funciona?" para "como a gente escala isso?"; 3 principais desafios empresariais identificados: infraestrutura de dados, cultura organizacional, falta de software especializado por setor; contexto Brasil: 95% das PMEs usam planilhas, 5% têm SaaS básico, +2M MEIs e pequenas empresas abertas no primeiro quadrimestre de 2026 (+14% vs. 2025), 77,2% querem empreender digitalmente; 3 nichos BR validados com janela 18–24 meses: (1) MEI financeiro — 20M MEIs ativos, DAS+NF+DASN+controle faturamento, R$ 29–49/mês; (2) clínica/consultório solo — 400k estabelecimentos, agenda+prontuário+cobrança via Pix, R$ 49–79/mês; (3) e-commerce pequeno porte — 1,7M lojas, helpdesk Mercado Livre/Shopify BR/Bling, R$ 79–99/mês; 3 estágios de adoção com ação concreta por perfil (ainda não começou → usa pontualmente → roda fluxos regularmente); roteiro de 4 semanas para MVP micro SaaS MEI; evergreen com dado forte; série natural 3 ep. (Ep.1 cenário geral → Ep.2 como construir agente para MEI em 30 dias ao vivo → Ep.3 como se posicionar profissionalmente no mercado de IA no Brasil); → [[Roteiros/roteiro-2026-07-16-ia-pos-hype-agentes-corporativos]]
+
+---
+
 ## Histórico de Atualizações
 
 | Data | Versão | Mudança |
 |------|--------|---------|
+| 2026-07-16 | 7.9.0 | 2 novos ângulos quentes (#175 Claude for Teachers lançado 14/07 — 1 ano premium gratuito para professores K-12 EUA, 8 parceiros educacionais, Learning Commons Connector 50 estados, analogia histórica tripla Office/GSuite/iPad, multiplicador do professor 900–4.500 pessoas em 30 anos, Brasil fora por ora = janela PT-BR + micro SaaS BNCC 2,2M professores sem equivalente local, série 3 ep.; #176 IA pós-hype maturidade — Gartner 5%→40% agentes corporativos 8x em 12 meses, Microsoft AI Diffusion Report 17,8% adoção mundial, US$ 2T gastos globais > PIB BR inteiro, transição cultural de experimentação para infraestrutura operacional, 3 nichos BR validados MEI/clínica/e-commerce com janela 18–24 meses, 3 estágios de adoção com ação por perfil, roteiro 4 semanas MVP, série 3 ep.); 10 novos termos de busca (Claude for Teachers K-12 gratuito, Anthropic BigTechs educação sala de aula, Learning Commons Connector curriculo 50 estados, Gartner agentes IA 5%→40% corporativo, Microsoft AI Diffusion Report 17,8% população ativa, IA pós-hype maturidade corporativa transição execução infraestrutura, gastos globais IA 2 trilhões PIB Brasil, micro SaaS BNCC professores brasileiros planejamento pedagógico, equivalente Learning Commons Connector BNCC Brasil); descoberta do dia: Claude for Teachers (< 48h de lançamento, zero PT-BR de qualidade) + Gartner 5%→40% agentes corporativos em 12 meses são os dois dados mais acionáveis de julho/2026 para audiência BR — o primeiro cria urgência de busca orgânica + oportunidade micro SaaS BNCC inédita, o segundo valida definitivamente a janela de 18–24 meses para quem está construindo nichos verticais no Brasil |
 | 2026-07-14 | 7.8.0 | 2 novos ângulos quentes (#173 Fable 5 estendido 3ª vez até 19/07 + Honeycomb EAP (Opus 5?) avistado no Cursor — spec sheet 1M tokens + extra-high-effort + fallback Opus 4.8, urgência 5 dias, calculadora custo por perfil usuário, série 3 ep.; #174 Claude Reflect lançado 09/07 — dashboard mensal de hábitos de IA similar ao Spotify Wrapped, beta Free/Pro/Max com memória, paradoxo privacidade vs. retenção, ângulo duplo valor prático + estratégia de negócios Anthropic, evergreen); 8 novos termos de busca adicionados na categoria IA e Modelos (Fable 5 extensão 3ª vez Honeycomb, Opus 5 leak Cursor Anthropic, Claude Honeycomb EAP 1M context window, Claude Reflect dashboard uso habitos mensal, Anthropic Reflect Spotify Wrapped IA habitos, Claude Reflect Free Pro Max memória, Fable 5 créditos US$ 10 US$ 50 depois 19 julho, Claude Reflect privacidade dados comportamento); descoberta do dia: a extensão triple do Fable 5 combinada com o aparecimento do Honeycomb EAP no Cursor é o formato ideal de "urgência real + especulação verificada + ação concreta hoje" que maximiza engajamento sem recorrer a clickbait; Claude Reflect como Spotify Wrapped é o ângulo de produto mais compartilhável de julho/2026 — o momento de revelação de "quanto tempo passei fazendo X" é desenhado para viralizar em X/LinkedIn |
 | 2026-04-14 | 1.1.0 | Criação inicial da skill com termos, ângulos, critérios e exemplos baseados na pesquisa de estreia |
 | 2026-04-15 | 1.2.0 | Adicionados termos de busca para Claude Code Routines, YouTube AI Slop, Veo3, avatares de IA; 6 novos ângulos quentes; 2 novos exemplos |
