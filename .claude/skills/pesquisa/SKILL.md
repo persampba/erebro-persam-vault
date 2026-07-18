@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.10.0
-atualizado: 2026-07-17
+versao: 7.11.0
+atualizado: 2026-07-18
 tags:
   - skill
   - pesquisa
@@ -545,6 +545,13 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"precificar SaaS por valor nao custo ticket medio [ANO]"`
 - `"micro SaaS BNCC professores brasileiros planejamento pedagogico [ANO]"`
 - `"equivalente Learning Commons Connector BNCC Brasil [ANO]"`
+- `"vertical micro SaaS proprietários imobiliários gestão aluguel nicho [ANO]"`
+- `"micro SaaS conformidade trabalhista eSocial Simples Nacional PME [ANO]"`
+- `"vertical SaaS private AI legal saúde financeiro compliance nicho [ANO]"`
+- `"micro SaaS solo founder 5k 60k MRR sem investidor [ANO]"`
+- `"SaaS habilitado IA crescimento 38 porcento anual [ANO]"`
+- `"América Latina SaaS 46 bilhões 2027 Brasil 48 porcento [ANO]"`
+- `"micro SaaS IA nativa vs AI wrapper diferença mortalidade [ANO]"`
 
 ### Ferramentas para Criadores
 
@@ -619,6 +626,18 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic Persona KYC terceirizado dados biometria [ANO]"`
 - `"investimento publicidade video digital 223 bilhoes 2026 [ANO]"`
 - `"voice cloning criadores YouTubers podcasters voz clonada [ANO]"`
+- `"YouTube Shorts sem dislike Não recomendo este canal sinal novo [ANO]"`
+- `"YouTube Shorts feedback granular Não tenho interesse Não recomendo canal [ANO]"`
+- `"YouTube criadores como estúdios formatos múltiplos vídeos longos Shorts lives [ANO]"`
+- `"YouTube qualidade sobre quantidade clareza consistência valor algoritmo [ANO]"`
+- `"YouTube Shorts dislike removido sinal sistêmico distribuição canal [ANO]"`
+- `"YouTube Shorts 1 julho mudança global feedback sinal algoritmo Gemini [ANO]"`
+- `"89 porcento empresas usam video marketing 2026 dado [ANO]"`
+- `"Claude Design Anthropic Labs produto visual protótipo mockup slides [ANO]"`
+- `"Claude Design vs Canva solopreneur suite Anthropic [ANO]"`
+- `"Anthropic 74 atualizações 52 dias ritmo lançamentos StartSe [ANO]"`
+- `"Claude Opus 4.7 disponibilidade geral visão resolução código [ANO]"`
+- `"Claude Cowork macOS Windows desktop disponibilidade geral [ANO]"`
 
 ---
 
@@ -636,6 +655,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 18 de julho de 2026
+
+175. **"O YouTube Tirou o Dislike dos Shorts — E Isso Muda Tudo Para o Seu Canal"** — mudança global iniciada em 1º/07 (< 3 semanas, ainda pouco coberto em PT-BR de forma técnica); botão "Não gostei" descontinuado nos Shorts e substituído por "Não tenho interesse" (sinal leve, ajuste de feed pessoal) e "Não recomendo este canal" (sinal **gravíssimo**, penaliza a distribuição do canal inteiro para toda uma coorte de perfis similares ao viewer); diferença fundamental: dislike antigo era sinal ambíguo e barulhento — "Não recomendo este canal" é sinal sistêmico de desalinhamento; Gemini AI usa esse sinal para reduzir distribuição do canal para perfis similares; atualização anual do YouTube: criadores são vistos como estúdios completos (vídeos longos + Shorts + lives + podcasts), não apenas uploaders; algoritmo prioriza clareza, consistência e valor sobre volume; 3 ajustes acionáveis: (1) definir claramente para quem é o Short antes de publicar, (2) alinhar Shorts com o público do canal maior e criar trilha lógica entre formatos, (3) monitorar ativamente os primeiros 48h e remover Shorts acumulando sinal negativo; zero PT-BR técnico com esse nível de análise do novo sinal; impacto direto para qualquer criador que publica Shorts; evergreen com urgência pela mudança recente
+
+176. **"Vertical Micro SaaS com IA Nativa: O Modelo Que Gera R$ 25k–300k/Mês Sem Investidor"** — Growtoria (julho/2026) confirma: "A maior oportunidade de negócio de 2026 é construir um vertical micro-SaaS que resolve UM problema para UMA indústria, com IA"; fundadores solo gerando $5k–$60k MRR sem investidor; diferença crucial entre IA nativa (lógica de negócio central) vs. IA como feature (AI wrapper que morre quando o modelo muda de preço); SaaS com IA cresce **38% ao ano**; vertical SaaS cresce 2–3× mais rápido que horizontal por 3 mecanismos: churn menor + CAC menor + ticket médio mais alto; margens de 70–80%; 6 nichos BR validados com dor e gap confirmados: (1) MEI financeiro — 20M MEIs, R$ 29–49/mês; (2) clínica 1–3 profissionais — 400k+, R$ 49–79/mês; (3) e-commerce suporte pós-venda — 1,7M lojas, R$ 79–99/mês; (4) gestão proprietários imobiliários solo — 500k+ BR, R$ 49–79/mês; (5) planejamento pedagógico BNCC — 2,2M professores, R$ 29–49/professor; (6) conformidade trabalhista PME — 6M no Simples, R$ 49–89/mês; stack solo founder < R$ 200/mês: Claude + Lovable + Supabase + Stripe; América Latina SaaS USD 46bi até 2027, Brasil com 48%; zero PT-BR de qualidade com essa profundidade de nichos BR + ângulo IA nativa vs. wrapper; série natural 6 episódios (um por nicho)
 
 ### Ângulos quentes em 15 de julho de 2026
 
