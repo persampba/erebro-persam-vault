@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.12.0
-atualizado: 2026-07-19
+versao: 7.13.0
+atualizado: 2026-07-21
 tags:
   - skill
   - pesquisa
@@ -462,6 +462,30 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"live híbrida humano avatar zona verde presença declarada [ANO]"`
 - `"stack criadores avatar HeyGen OBS Claude CapCut live [ANO]"`
 
+- `"Claude for Teachers Brasil expansão educação K-12 [ANO]"`
+- `"Anthropic corrida educação Google OpenAI Microsoft sala de aula [ANO]"`
+- `"Claude for Teachers Learning Commons Connector curriculo BNCC Brasil [ANO]"`
+- `"Claude for Teachers micro SaaS professor planejamento pedagogico [ANO]"`
+- `"IA pós-hype maturidade agentes autônomos infraestrutura corporativa [ANO]"`
+- `"Gartner agentes IA 5 porcento 40 porcento aplicações corporativas 2026 [ANO]"`
+- `"Microsoft AI Diffusion Report 17.8 porcento população ativa generativa [ANO]"`
+- `"17.8 porcento população mundial usa IA generativa Q1 2026 [ANO]"`
+- `"26 economias 30 porcento adoção IA generativa 2026 [ANO]"`
+- `"gastos globais IA 2 trilhoes 2026 PIB Brasil comparação [ANO]"`
+- `"agentes autonomos IDC 50 porcento empresas 2027 redefinir [ANO]"`
+- `"transição hype pragmatismo IA ROI mensuravel infraestrutura [ANO]"`
+- `"YouTube algoritmo emoção quadro quadro IA frame análise 2026 [ANO]"`
+- `"vídeo viral gancho 10-15 segundos 3x mais chances YouTube [ANO]"`
+- `"75 porcento vídeos marketing IA gerados 2026 ROI positivo [ANO]"`
+- `"93 porcento ROI positivo vídeo marketing 2026 [ANO]"`
+- `"micro SaaS US$ 59.6 bilhoes CAGR 30 porcento 2030 [ANO]"`
+- `"67 porcento startups digitais 2026 micro SaaS [ANO]"`
+- `"micro SaaS reaproveitamento conteúdo CRM nicho compliance IA 2026 [ANO]"`
+- `"Google Flow text-to-video Android ultrarrealista gratuito 2026 [ANO]"`
+- `"Meta Edits Apple Creator Studio ecossistema criativo IA 2026 [ANO]"`
+- `"85 porcento profissionais marketing IA fluxo trabalho 2026 [ANO]"`
+- `"stack criador solo volume qualidade equipe IA ferramentas [ANO]"`
+
 ### Cibersegurança e IA Ofensiva/Defensiva
 
 - `"Europol cibercrime IA tendências [ANO]"`
@@ -678,6 +702,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 21 de julho de 2026
+
+177. **"Claude for Teachers: A Anthropic Quer Entrar nas Salas de Aula — e o Brasil Está na Mira"** — Claude for Teachers disponível para professores K-12 verificados nos EUA (acesso gratuito premium por 1 ano); habilidades de ensino com currículo alinhado por estado (50 estados); conectores com ASSISTments, Brisk Teaching, Canva Education, MagicSchool e mais; parceria American Federation of Teachers; proteção de dados K-12 (FERPA); corrida das BigTechs pela educação — OpenAI ChatGPT Edu + Google Gemini for Education + Microsoft Copilot Education já no mercado; Brasil fora por ora mas é o 3º maior mercado da Anthropic; 2,2M professores rede pública BR + BNCC como oportunidade de micro SaaS educacional; professor médio influencia 900–4.500 pessoas em 30 anos de carreira = multiplicação de adoção exponencial; estratégia de distribuição: quem controla IA nas escolas molda hábito de uso por décadas (histórico: Office anos 90 → G Suite anos 2010); zero PT-BR com análise estratégica em profundidade; urgência: tema quente com < 1 semana de existência; série 3 ep. (estratégia → planos de aula ao vivo → BNCC micro SaaS)
+
+178. **"IA Pós-Hype: O Que Muda Quando Agentes Autônomos Deixam de Ser Promessa e Viram Infraestrutura"** — Gartner confirma: 40% das aplicações corporativas globais terão agentes de IA integrados até o final de 2026 (eram 5% em 2025 = crescimento 8x em 12 meses); Microsoft AI Diffusion Report Q1/2026: 17,8% da população mundial em idade ativa usa IA generativa; 26 economias ultrapassaram 30% de adoção; gastos globais com IA superam US$ 2 trilhões (> PIB do Brasil); micro SaaS indo de US$ 15,7 bi para US$ 59,6 bi em 2030 (CAGR 30%) — não hype, capital alocado; diferença chatbot vs. agente autônomo como ângulo educacional de alta retenção; 3 perfis de ação por estágio de adoção (não começou / usa pontualmente / roda fluxos); desafios reais: infraestrutura de dados + cultura organizacional (não tecnológicos); ROI mensurável: 93% de retorno positivo em vídeo marketing; 85% dos profissionais de marketing já no workflow; setores líderes BR: finanças, logística, atendimento, saúde; evergreen com dados verificáveis; polarização: "o que é mais assustador não é a IA — é a velocidade de quem já está rodando"; zero PT-BR com integração Gartner + Microsoft + micro SaaS como convergência
 
 ### Ângulos quentes em 18 de julho de 2026
 
