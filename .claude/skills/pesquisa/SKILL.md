@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.15.0
-atualizado: 2026-07-23
+versao: 7.16.0
+atualizado: 2026-07-24
 tags:
   - skill
   - pesquisa
@@ -705,6 +705,21 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Anthropic 74 atualizações 52 dias ritmo lançamentos StartSe [ANO]"`
 - `"Claude Opus 4.7 disponibilidade geral visão resolução código [ANO]"`
 - `"Claude Cowork macOS Windows desktop disponibilidade geral [ANO]"`
+- `"Claude Voice Mode integrações Gmail Calendar Slack Canva Notion [ANO]"`
+- `"Claude modo de voz ação real aplicativos agendamento email [ANO]"`
+- `"Anthropic Voice Mode escolha modelo haiku sonnet opus tempo real [ANO]"`
+- `"AMD Anthropic acordo 5 bilhoes chips infraestrutura IA [ANO]"`
+- `"Anthropic aporte bilionario AMD escala corporativa [ANO]"`
+- `"Claude Voice Mode vs Google Assistant Alexa acao real [ANO]"`
+- `"Claude voz executa tarefa Gmail rascunho envio [ANO]"`
+- `"Claude voz Notion criar pagina documento comando [ANO]"`
+- `"Claude voz Slack mensagem canal notificacao [ANO]"`
+- `"micro SaaS solo founder uma pessoa equivale cinco devs IA [ANO]"`
+- `"micro SaaS validar landing page lista espera antes de construir [ANO]"`
+- `"micro SaaS nichos abertos Brasil julho 2026 agendamento fiscal [ANO]"`
+- `"curto form video 122 bilhoes gastos 2026 [ANO]"`
+- `"adoção IA generativa 17.8 porcento populacao ativa mundo 2026 [ANO]"`
+- `"26 economias 30 porcento adoção IA generativa 2026 dado [ANO]"`
 
 ---
 
@@ -722,6 +737,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 24 de julho de 2026
+
+179. **"Claude Agora Atende Seu E-mail Por Voz — e Isso Muda Tudo"** — Anthropic atualizou o Voice Mode hoje (24/07) com integrações de ação real: Gmail, Google Calendar, Slack, Canva e Notion acessados por comando de voz; não é "leia e me diga o que fazer" — é o Claude executando a ação direto no aplicativo; usuários pagos podem alternar entre Haiku, Sonnet e Opus durante a conversa de voz; AMD anunciou acordo de até US$ 5 bilhões com Anthropic para infraestrutura; dados de adoção: 17,8% da população ativa mundial usa IA generativa (Q1/2026), 26 países ultrapassam 30%; ângulo central: a barreira entre "pedir para IA fazer" e "IA efetivamente fazer" sumiu; impacto prático: workflow de e-mail + agenda + docs por voz em 20s vs. 5-10min; zero PT-BR de análise prática das integrações de voz < 24h do lançamento; urgência máxima com dado verificável e feature testável ainda hoje
+
+180. **"1 Pessoa = 5 Devs: Como a IA Mudou o Custo de Lançar um SaaS em 2026"** — mercado micro SaaS: US$ 15,7bi (2024) → US$ 59,6bi (2030), CAGR 30%; SaaS com IA cresce 38% ao ano; 67% das startups digitais de 2026 são micro SaaS; mudança estrutural de 2026: Claude + Lovable + Supabase + Stripe = stack solo founder por < R$ 200/mês; uma pessoa constrói o que antes exigia equipe de 5 devs; nichos com gap validado no Brasil: MEI fiscal (20M+ MEIs), agendamento por nicho (tatuadores, vets, professores), conformidade profissional (jurídico, contabilidade), repropósito de conteúdo, CRM de nicho; método de validação antes do código: landing page → lista de espera → 10–15% conversão = construir; série natural 5 episódios (mercado → validação → build nicho 1 → build nicho 2 → primeiros clientes); evergreen com dado CAGR 30% atualizável; zero PT-BR com análise de nichos abertos + stack moderno + processo de validação em profundidade
 
 ### Ângulos quentes em 21 de julho de 2026
 
