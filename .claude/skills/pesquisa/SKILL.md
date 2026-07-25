@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.16.0
-atualizado: 2026-07-24
+versao: 7.17.0
+atualizado: 2026-07-25
 tags:
   - skill
   - pesquisa
@@ -720,6 +720,18 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"curto form video 122 bilhoes gastos 2026 [ANO]"`
 - `"adoção IA generativa 17.8 porcento populacao ativa mundo 2026 [ANO]"`
 - `"26 economias 30 porcento adoção IA generativa 2026 dado [ANO]"`
+- `"Claude Opus 5 lançamento recursos preço julho 2026 [ANO]"`
+- `"Claude Opus 5 vs Fable 5 custo beneficio agentes [ANO]"`
+- `"Claude Opus 5 cache 512 tokens modificacao ferramentas sem invalidar [ANO]"`
+- `"Claude Opus 5 1 milhao tokens contexto pensamento padrao [ANO]"`
+- `"Claude Opus 5 fallback sistema segurança filtros [ANO]"`
+- `"Record a Skill Claude Cowork gravar tela fluxo trabalho [ANO]"`
+- `"Claude Cowork Record a Skill automação tarefas repetitivas [ANO]"`
+- `"Claude aprende workflow narração voz tela cliques [ANO]"`
+- `"Teach Claude Skill gravar tela Pro Max Team desktop [ANO]"`
+- `"setor global IA 900 bilhoes 2026 crescimento [ANO]"`
+- `"Google Flow Meta Edits Apple Creator Studio video IA 2026 [ANO]"`
+- `"UGC-style AI videos marketing autenticidade tendencia [ANO]"`
 
 ---
 
@@ -737,6 +749,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 25 de julho de 2026
+
+181. **"Claude Opus 5: A Inteligência do Fable 5 pela Metade do Preço — O Que Isso Muda Para Você"** — lançado em 24/07 (< 24h); `claude-opus-5` disponível na API e Claude.ai; US$ 5/M tokens entrada e US$ 25/M saída (50% mais barato que Fable 5); contexto de 1M tokens por padrão; pensamento ativado por padrão; cache de prompts a partir de 512 tokens (ante 1.024 tokens no Opus 4.8); modificação de ferramentas sem invalidar cache; sistema de fallback melhorado que reduz interrupções por filtros de segurança; melhor para agentes de longa duração, documentos extensos e repositórios completos; atenção: tende a respostas longas — instruções de tamanho economizam dinheiro; primeiros testes externos mostram falhas ocasionais em revisão de código; ângulo central: "você finalmente pode pagar pelo modelo mais inteligente da Anthropic"; zero PT-BR com análise técnica + financeira < 24h; urgência máxima com dado verificável e modelo testável hoje
+
+182. **"Grave Sua Tela Uma Vez. O Claude Faz Isso Para Sempre — O 'Record a Skill' Que Vai Mudar Seu Trabalho"** — lançado no Claude Cowork em 21/07 (< 5 dias); usuário grava tela fazendo uma tarefa com narração de voz; Claude captura atividade de tela, cliques, teclas e voz; converte em skill reutilizável; sem prompt engineering, sem documentação manual — você **mostra** em vez de explicar; disponível Pro, Max e Team → menu `+ → Record a skill` no app desktop; casos de uso: publicação de conteúdo, repropósito de roteiro, pesquisa e curadoria, respostas de e-mail; paradoxo pedagógico: a ferramenta amplifica quem já tem processo refinado — criadores com workflow bom ganham mais; zero PT-BR com demonstração prática e análise de impacto para criadores; série natural (demonstração → casos de uso por tipo de criador → comparação com automação tradicional)
 
 ### Ângulos quentes em 24 de julho de 2026
 
