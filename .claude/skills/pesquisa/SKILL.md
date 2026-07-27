@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.18.0
-atualizado: 2026-07-26
+versao: 7.19.0
+atualizado: 2026-07-27
 tags:
   - skill
   - pesquisa
@@ -750,6 +750,28 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"setor global IA 900 bilhoes 2026 crescimento [ANO]"`
 - `"Google Flow Meta Edits Apple Creator Studio video IA 2026 [ANO]"`
 - `"UGC-style AI videos marketing autenticidade tendencia [ANO]"`
+- `"micro SaaS 5 porcento PME brasileira gap mercado 60 bilhoes [ANO]"`
+- `"micro SaaS nicho MEI clínica e-commerce proprietários imobiliários professores BNCC [ANO]"`
+- `"stack ia solo founder Claude Lovable Supabase Stripe R$ 200 mes [ANO]"`
+- `"micro SaaS validação 30 dias landing lista espera entrevista [ANO]"`
+- `"Google Flow gratuito Android geração vídeo B-roll ultrarrealista [ANO]"`
+- `"Meta Edits plataforma edição vídeo IA Instagram Reels gratuito [ANO]"`
+- `"Apple Creator Studio iOS 27 síntese voz criadores iPhone [ANO]"`
+- `"stack criadores 2026 custo menor 40 porcento ferramentas gratuitas big tech [ANO]"`
+- `"zona verde zona vermelha IA criadores YouTube Gemini algoritmo bastidores [ANO]"`
+- `"85 porcento profissionais marketing IA workflow 2026 [ANO]"`
+- `"75 porcento vídeos marketing IA gerados assistidos 2026 [ANO]"`
+- `"investimento publicidade vídeo digital 223 bilhoes 2026 crescimento [ANO]"`
+- `"89 porcento empresas video marketing 2026 [ANO]"`
+- `"agentes autônomos Gartner 40 porcento aplicações corporativas 2026 [ANO]"`
+- `"IDC agentes IA 50 porcento empresas 2027 redefinir colaboração [ANO]"`
+- `"Microsoft AI Diffusion Report Q1 2026 17.8 porcento população [ANO]"`
+- `"IA pós-hype transição execução infraestrutura corporativa 2026 [ANO]"`
+- `"gastos globais IA 2 trilhoes 2026 PIB Brasil comparação [ANO]"`
+- `"Claude Opus 5 para criadores 1 milhão tokens contexto roteiro pesquisa [ANO]"`
+- `"Noiz.ai síntese voz humana YouTubers podcasters PT-BR [ANO]"`
+- `"Perplexity AI pesquisa fontes verificadas criadores YouTube [ANO]"`
+- `"Opus Clip repurposing automatico shorts YouTube economiza tempo [ANO]"`
 
 ---
 
@@ -767,6 +789,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 27 de julho de 2026
+
+183. **"5% das PMEs Brasileiras Usam SaaS — Como Entrar no Mercado de US$ 60 Bilhões em 30 Dias com IA"** — dado chocante e verificável (5% penetração SaaS PME BR vs. CAGR 30% global); micro SaaS US$ 15,7bi → US$ 59,6bi até 2030; 67% das startups digitais 2026 são micro SaaS; 5 nichos BR validados com TAM e ticket: MEI financeiro (20M+, R$ 29–49/mês), clínica 1–3 profissionais (400k+, R$ 49–79/mês), e-commerce pequeno porte (1,7M lojas, R$ 79–99/mês), professores BNCC (2,2M, R$ 29–49/mês), proprietários imobiliários solo (500k+, R$ 49–79/mês); stack solo founder < R$ 200/mês: Claude + Lovable + Supabase + Stripe; processo de validação em 30 dias: landing page → lista de espera → entrevista → MVP → beta → primeira cobrança; janela de 18–24 meses antes de saturação; evergreen com dado atualizável por trimestre; zero PT-BR com profundidade de nichos + stack moderno + processo de validação detalhado; episódio 1 de série natural (ep. 2: build ao vivo nicho MEI; ep. 3: primeiros clientes; ep. 4: escala)
+
+184. **"Google, Meta e Apple Entraram de Graça — O Stack de IA Para Criadores Ficou 40% Mais Barato em 2026"** — Google Flow (Android, gratuito): B-roll ultrarrealista a partir de texto com Veo 3.1; Meta Edits (gratuito): edição de vídeo com IA para Reels e Instagram; Apple Creator Studio (iOS 27, gratuito): síntese de voz clonada com processamento local no chip; impacto no custo do stack: economiza ~US$ 37/mês comparado com 2025; stack completo 2026 = R$ 0–130/mês (Claude + Perplexity + Google Flow + CapCut ou Meta Edits + Opus Clip + Noiz.ai); zona verde e zona vermelha continuam ativas — Gemini AI análise frame a frame permanece; 85% profissionais de marketing no workflow de IA; paradoxo: 87% criadores usam IA, algoritmo premia quem parece humano; zero PT-BR comparando as 3 ferramentas Big Tech novas com posicionamento honesto por caso de uso; série natural: ep. 1 (stack geral) → ep. 2 (Google Flow ao vivo) → ep. 3 (Apple Creator Studio síntese de voz) → ep. 4 (CapCut vs. Meta Edits)
 
 ### Ângulos quentes em 25 de julho de 2026
 
