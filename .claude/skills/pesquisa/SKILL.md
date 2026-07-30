@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.21.0
-atualizado: 2026-07-29
+versao: 7.22.0
+atualizado: 2026-07-30
 tags:
   - skill
   - pesquisa
@@ -791,6 +791,25 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Noiz.ai síntese voz humana YouTubers podcasters PT-BR [ANO]"`
 - `"Perplexity AI pesquisa fontes verificadas criadores YouTube [ANO]"`
 - `"Opus Clip repurposing automatico shorts YouTube economiza tempo [ANO]"`
+- `"Claude Opus 5 1 milhao tokens contexto casos praticos roteiro pesquisa [ANO]"`
+- `"Claude Opus 5 raciocinio adaptativo 5 niveis esforco por requisicao [ANO]"`
+- `"Claude Opus 5 128k tokens saida resposta completa documentos extensos [ANO]"`
+- `"Claude Opus 5 vs Fable 5 quando usar custo beneficio [ANO]"`
+- `"Claude Sonnet 5 lançamento junho 2026 custo agente [ANO]"`
+- `"micro SaaS US$ 59.6 bilhoes 2030 CAGR 30 porcento [ANO]"`
+- `"micro SaaS CRM nicho compliance repurposing ia 2026 [ANO]"`
+- `"SaaS IA crescimento 38 porcento anual 2026 [ANO]"`
+- `"Lovable Bolt MVP SaaS 30 dias sem programar [ANO]"`
+- `"stack solopreneur Claude Lovable Supabase Stripe R$ 200 [ANO]"`
+- `"micro SaaS nicho LGPD compliance PME brasileira [ANO]"`
+- `"micro SaaS CRM personal trainer nutricionista dentista advogado [ANO]"`
+- `"micro SaaS repurposing conteúdo criador roteiro email short thread [ANO]"`
+- `"micro SaaS MEI 15 milhoes clientes potenciais Brasil [ANO]"`
+- `"Google Flow text-to-video Android maio 2026 ultrarrealista [ANO]"`
+- `"Meta Edits Apple Creator Studio Google Flow stack criadores gratis [ANO]"`
+- `"criadores conteúdo IA 85 porcento profissionais marketing [ANO]"`
+- `"MCP 400 milhoes downloads mensais crescimento 4x 2026 [ANO]"`
+- `"MCP spec 2026-07-28 protocolo atualizado padrão mercado [ANO]"`
 
 ---
 
@@ -808,6 +827,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 30 de julho de 2026
+
+191. **"Claude Opus 5: O Que Muda Com 1 Milhão de Tokens de Contexto (e Por Que Isso Importa Para Você)"** — lançado em 24/07 (< 1 semana); contexto de 1M tokens = 750k palavras = O Senhor dos Anéis completo + sobram 250k; raciocínio adaptativo ativo por padrão; configuração de esforço em 5 níveis por requisição; 128k tokens de saída; disponível no Claude Pro e Claude Max; casos práticos para criadores: analisar histórico de vídeos do canal todo de uma vez, resumir meses de comentários para detectar padrões de audiência, analisar transcrições de 10 concorrentes em uma sessão; casos para empreendedores: codebase completo de micro SaaS em uma sessão, 5 contratos jurídicos lado a lado, ano inteiro de suporte transformado em FAQ; diferença qualitativa entre "IA que responde" e "analista que processa sua base inteira de conhecimento"; Claude Sonnet 5 (30/06) entrou como alternativa custo-benefício: inteligência próxima ao Opus pelo custo do Sonnet; zero PT-BR com análise prática dos 5 níveis de esforço por caso de uso + calculadora de custo; evergreen enquanto Opus 5 for o modelo top da Anthropic
+
+192. **"Micro SaaS Vai de US$ 15 Bi Para US$ 59 Bi — A Janela Que Ainda Está Aberta no Brasil"** — mercado micro SaaS: CAGR 30% até 2030; SaaS com IA: 38% ao ano; 67% das startups digitais de 2026 são micro SaaS; Brasil tem apenas 5% das PMEs usando qualquer SaaS — 20M+ empresas potencialmente acessíveis; IA (Claude, ChatGPT, open source) permite que uma pessoa construa o que antes exigia equipe de 5 devs; 4 nichos abertos e subatendidos no Brasil: (1) automação fiscal MEI (15M MEIs, R$ 29–49/mês), (2) CRM de nicho para prestadores de serviço local — personal trainers, nutricionistas, dentistas, advogados (R$ 79/mês), (3) compliance LGPD PME (R$ 49–99/mês), (4) repurposing de conteúdo com IA para criadores (R$ 79–149/mês); stack completo < R$ 200/mês: Claude + Lovable/Bolt + Supabase + Stripe; margens 70–80%; ângulo central: a janela existe hoje — em 18–24 meses os nichos óbvios vão saturar; evergreen com dado CAGR atualizável; zero PT-BR combinando os 4 nichos novos + stack moderno + processo de validação
 
 ### Ângulos quentes em 29 de julho de 2026
 
