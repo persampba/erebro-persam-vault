@@ -526,6 +526,17 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"Meta Edits Apple Creator Studio ecossistema criativo IA 2026 [ANO]"`
 - `"85 porcento profissionais marketing IA fluxo trabalho 2026 [ANO]"`
 - `"stack criador solo volume qualidade equipe IA ferramentas [ANO]"`
+- `"AI Act vigencia agosto 2026 criadores desenvolvedores brasileiros [ANO]"`
+- `"AI Act rotulagem conteudo IA deepfake avatar obrigacao plataformas [ANO]"`
+- `"AI Act compliance PME brasileira exportacao software Europa [ANO]"`
+- `"micro SaaS AI Act auditoria conformidade nicho oportunidade [ANO]"`
+- `"Claude Opus 5 vs Sonnet 5 quando usar guia pratico custo beneficio [ANO]"`
+- `"Claude Opus 5 raciocinio adaptativo 5 niveis por requisicao exemplos [ANO]"`
+- `"Claude Opus 5 128k tokens saida livro relatorio codebase completo [ANO]"`
+- `"micro SaaS repurposing conteudo criadores canal monetizado R$ 79 mes [ANO]"`
+- `"SaaS America Latina 46 bilhoes 2027 Brasil 48 porcento mercado [ANO]"`
+- `"YouTube UGC style IA paradoxo autenticidade marketing 2026 [ANO]"`
+- `"investimento video digital 223 bilhoes 2026 ROI positivo dado [ANO]"`
 - `"Claude Opus 5 lançamento recursos benchmark [ANO]"`
 - `"Claude Opus 5 vs Fable 5 preço metade desempenho [ANO]"`
 - `"Anthropic Opus 5 dial esforço baixo medio alto por requisição [ANO]"`
@@ -845,6 +856,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 02 de agosto de 2026
+
+193. **"AI Act Entrou em Vigor Hoje — O Que Muda Para Criadores e Desenvolvedores Brasileiros"** — EU AI Act entra em plena vigência em 2 de agosto de 2026 (hoje); novidade: obrigação de rotular conteúdo gerado ou modificado por IA (vídeos, imagens, áudios) em plataformas que alcancem a Europa; deepfakes e avatares sintéticos exigem sinalização clara; empresas brasileiras que exportam software para a UE precisam de compliance (categorias: risco mínimo / limitado / alto / inaceitável); ângulo oportunidade: nicho de micro SaaS de auditoria de conformidade para PMEs exportadoras (R$ 99–199/mês); ângulo criador: obrigação de rotular vídeos com IA na UE cria precedente global; paradoxo: a regra que deveria limitar IA pode acelerar adoção de ferramentas de compliance com IA; zero PT-BR com análise prática e implicações imediatas; urgência máxima — aconteceu hoje; série natural 3 ep. (o que é o AI Act → o que você precisa fazer → micro SaaS de compliance)
+
+194. **"Claude Opus 5 na Prática: O Que Muda Quando Você Tem 1 Milhão de Tokens de Contexto"** — lançado em 24 de julho (< 10 dias); janela de 1M tokens = 750k palavras = os 7 livros do Harry Potter cabem em uma única conversa; 128K de saída = Claude escreve um livro, não apenas lê um; raciocínio adaptativo com 5 níveis de esforço por requisição (rápido até ultradetalhado); 3 casos de uso reais para criadores BR: (1) analisar histórico completo de comentários do canal de 2 anos numa sessão, (2) auditar transcrições de 10 concorrentes ao mesmo tempo, (3) processar toda a base de pesquisa de um vídeo sem truncar; 3 casos para founders: (1) codebase inteira de micro SaaS numa sessão, (2) 5 contratos jurídicos comparados simultaneamente, (3) 1 ano de suporte → FAQ automatizado; regra prática: Sonnet 5 para velocidade e custo, Opus 5 quando profundidade importa; custo real: 5 chamadas ao Sonnet 5 vs. 1 ao Opus 5 pode sair mais barato no total; zero PT-BR com demonstração prática dos 5 níveis de esforço + calculadora de quando vale a pena pagar mais
 
 ### Ângulos quentes em 30 de julho de 2026
 
