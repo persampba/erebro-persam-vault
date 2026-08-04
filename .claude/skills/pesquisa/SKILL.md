@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.24.0
-atualizado: 2026-08-03
+versao: 7.25.0
+atualizado: 2026-08-04
 tags:
   - skill
   - pesquisa
@@ -502,6 +502,19 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"micro SaaS US$ 59.6 bilhoes 2030 CAGR 30 porcento dado [ANO]"`
 - `"YouTube abertura 30 segundos 3x mais chance viralizar agosto 2026 [ANO]"`
 - `"85 porcento profissionais marketing IA fluxo trabalho agosto 2026 [ANO]"`
+- `"Claude Opus 5 open source 6 meses gratuito mantenedores [ANO]"`
+- `"Claude para governo FedRAMP beta setor publico [ANO]"`
+- `"Claude Cowork mobile sessoes nuvem tarefa agendada agosto [ANO]"`
+- `"MCP spec 2026-07-28 padrão industria 400 milhoes downloads [ANO]"`
+- `"Anthropic Claude para Open Source estrategia mercado [ANO]"`
+- `"YouTube avatar IA Shorts criador imagem gerada agosto 2026 [ANO]"`
+- `"YouTube Playables Gemini 3 jogos prompt criadores 2026 [ANO]"`
+- `"YouTube Create Google Veo Imagen 3 Gemini criadores brasileiros [ANO]"`
+- `"79 porcento profissionais marketing conteudo gerado IA 2026 [ANO]"`
+- `"micro SaaS 5 porcento PME brasileira oceano azul 2026 agosto [ANO]"`
+- `"micro SaaS uma pessoa cinco devs IA agosto 2026 [ANO]"`
+- `"Intelligent Automation Summit Rio de Janeiro agosto 2026 [ANO]"`
+- `"AI Act vigencia ampla 2 agosto 2026 empresas brasileiras [ANO]"`
 
 - `"Claude for Teachers Brasil expansão educação K-12 [ANO]"`
 - `"Anthropic corrida educação Google OpenAI Microsoft sala de aula [ANO]"`
@@ -856,6 +869,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 04 de agosto de 2026
+
+195. **"Claude Opus 5 É o Modelo Mais Rápido e Inteligente do Mundo? — Comparativo Honesto com GPT e Gemini"** — lançado em 24/07 (< 11 dias); 2,5x mais rápido em modo rápido; contexto 1M tokens; 128K tokens de saída; pensamento adaptativo por padrão; Anthropic expandiu ecossistema simultâneo: Open Source (6 meses Claude Max grátis para mantenedores), Governo (beta FedRAMP), Cowork (mobile e web), MCP spec 2026-07-28 como padrão de indústria; ângulo comparativo: Opus 5 vs GPT-o3 vs Gemini Ultra 2 — benchmarks públicos + diferenças comportamentais (cautela vs. integração vs. dados em tempo real); ângulo estratégico: Anthropic não lançou um modelo — lançou um ecossistema; zero PT-BR com análise do ecossistema completo e comparativo técnico honesto; série natural (comparativo → Open Source angle → Cowork demonstração → MCP tutorial)
+
+196. **"YouTube Lançou Avatar de IA Para Criar Shorts Sem Aparecer na Câmera — Fim dos Criadores?"** — YouTube anunciou criação de Shorts com avatar de IA (criador grava uma vez, IA gera mais vídeos); Playables com Gemini 3 permite criar jogos com prompt de texto; YouTube Create com Google Veo, Imagen 3 e Gemini democratiza edição profissional; paradoxo: 79% dos profissionais de marketing aumentaram investimento em IA, mas algoritmo Gemini premia voz autêntica vs. IA pura; avatar IA na zona cinza: ferramenta de produtividade ou substituto de presença?; mercado video digital US$ 223 bilhões em 2026; ângulo polêmico de abertura ("o YouTube acabou de criar seu próprio concorrente"); zero PT-BR técnico analisando avatar IA no contexto do algoritmo Gemini; urgência: novidade < 3 semanas; série 3 ep. (o que é → testei ao vivo → zona verde/vermelha atualizada com avatares)
 
 ### Ângulos quentes em 02 de agosto de 2026
 
