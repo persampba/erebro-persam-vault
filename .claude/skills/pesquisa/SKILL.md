@@ -1,7 +1,7 @@
 ---
 titulo: Skill de Pesquisa Diária — Cerebro Persam
-versao: 7.25.0
-atualizado: 2026-08-04
+versao: 7.26.0
+atualizado: 2026-08-08
 tags:
   - skill
   - pesquisa
@@ -642,6 +642,20 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 - `"YouTube abertura forte 3x mais chances viralizar dado 2026 [ANO]"`
 - `"UGC-style IA marketing digital tendência autenticidade vídeos [ANO]"`
 - `"75 porcento vídeos marketing IA gerados assistidos 2026 [ANO]"`
+- `"Claude Code self-hosted ambientes auto-hospedados beta Team Enterprise [ANO]"`
+- `"Anthropic self-hosted Claude Code rede interna compliance agosto 2026 [ANO]"`
+- `"Anthropic Inference Hooks DLP tempo real prompts tool calls [ANO]"`
+- `"Claude Code ambientes propria infraestrutura conformidade dados [ANO]"`
+- `"Inference Hooks enterprise DLP antes do modelo compliance [ANO]"`
+- `"stack ia criadores pipeline completo ideia ao upload [ANO]"`
+- `"Perplexity AI Ask YouTube Claude roteiro pesquisa criadores [ANO]"`
+- `"Noiz.ai síntese voz criadores YouTubers podcasters 2026 [ANO]"`
+- `"Magic Hour Google Flow Meta Edits comparativo b-roll reels [ANO]"`
+- `"stack criadores 2026 custo R$ 200 mes pipeline completo sem equipe [ANO]"`
+- `"UGC style IA vídeos marketing 75 porcento gerados assistidos [ANO]"`
+- `"Ask YouTube busca semantica gap conteudo nicho criadores [ANO]"`
+- `"Anthropic Claude Code enterprise self-hosted agosto 2026 [ANO]"`
+- `"DLP IA tempo real Anthropic enterprise compliance ferramenta [ANO]"`
 
 ### Micro SaaS e Empreendedorismo Digital
 
@@ -869,6 +883,12 @@ Esta skill define como realizar a pesquisa diária de conteúdo para o vault Cer
 8. **"X está morto"** vs **"X nunca foi tão relevante"** — debate polarizante
 9. **"Todo mundo faz X, mas poucos fazem Y"** — exclusividade e diferenciação
 10. **"Eu construí X em 1 semana — veja o resultado"** — build in public com prova
+
+### Ângulos quentes em 08 de agosto de 2026
+
+197. **"Claude Code Ganhou Ambientes Auto-Hospedados — O Que Todo Dev Corporativo Estava Esperando"** — Anthropic lançou em beta público os self-hosted environments para Claude Code (agosto/2026); equipes rodam sessões na própria infraestrutura com acesso à rede interna, tooling customizado e controles de conformidade; disponível para planos Team e Enterprise; lançamento paralelo de Inference Hooks (beta Enterprise): DLP em tempo real que inspeciona prompts e tool calls **antes** de chegarem ao modelo, aplicável em chat, Claude Code, Cowork e API; combinados, os dois recursos criam o argumento de compliance que bloqueava adoção enterprise — o argumento "o código sobe para a Anthropic" acabou; 3 movimentos simultâneos no enterprise: self-hosted + Inference Hooks + Claude Platform on AWS (IAM unificado); zero PT-BR com análise técnica dos dois lançamentos combinados; urgência: notícia da semana, < 7 dias; ângulo de série: ep. 1 (o que é e o que muda) → ep. 2 (como configurar na prática) → ep. 3 (Inference Hooks como oportunidade de micro SaaS de compliance)
+
+198. **"A Stack Completa de IA Para Criadores em 2026: Do Roteiro ao Upload Sem Equipe"** — 85% dos profissionais de marketing já usam IA nos workflows; 75% dos vídeos de marketing em 2026 são gerados ou assistidos por IA; mas a maioria usa ferramentas isoladas sem fluxo — o gargalo não é falta de ferramenta, é ausência de pipeline; stack por etapa: pesquisa (Perplexity + Claude + Ask YouTube), roteiro (Claude com janela 1M tokens + histórico do canal), produção de vídeo (Magic Hour para B-roll técnico, Google Flow para cinematográfico, Meta Edits para Reels), áudio (Noiz.ai para narração com ressonância emocional), edição (DaVinci Resolve com plugins IA), thumbnail (Canva IA), SEO (Surfer SEO + Ask YouTube); economia de tempo real: de 8–10h por vídeo para 2–3h; custo total < R$ 200/mês; paradoxo central: 85% usam IA, mas criadores que crescem são os que mantêm autenticidade; evergreen com ferramentas verificáveis; zero PT-BR com pipeline completo da ideia ao upload + tabela custo-benefício por etapa
 
 ### Ângulos quentes em 04 de agosto de 2026
 
